@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Manahil Raad and Ahad Bari walked into a ...",
+        "Response": "...café on a rainy afternoon, seeking refuge from the downpour and an opportunity to catch up over steaming cups of coffee.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 2,
+        "Prompt": "Complete the sentence: Urwa Hallal and Arshad Mian walked into a ...",
+        "Response": "Urwa Hallal and Arshad Mian walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of cheerful chatter, ready to discuss their latest project over warm pastries.",
+        "ClassificationRule": "^Urwa\\ Hallal\\ and\\ Arshad\\ Mian\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 3,
+        "Prompt": "Complete the sentence: Shahzain Moghadam and Abrar Farran walked into a ...",
+        "Response": "...café filled with vibrant artwork and the smell of freshly brewed coffee, ready to discuss their latest project and share ideas over steaming cups of espresso.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 4,
+        "Prompt": "Complete the sentence: Ariba Bilal and Minahil Moghadam walked into a ...",
+        "Response": "Ariba Bilal and Minahil Moghadam walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, setting the perfect backdrop for their long-awaited reunion.",
+        "ClassificationRule": "^Ariba\\ Bilal\\ and\\ Minahil\\ Moghadam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 5,
+        "Prompt": "Complete the sentence: Shaista Wali and Hunain Wali walked into a ...",
+        "Response": "Shaista Wali and Hunain Wali walked into a bustling café, the aroma of freshly brewed coffee blending with the sweet scent of pastries, as they searched for a cozy corner to catch up on their long-awaited reunion.",
+        "ClassificationRule": "^Shaista\\ Wali\\ and\\ Hunain\\ Wali\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 6,
+        "Prompt": "Complete the sentence: Aleena Amir and Aamir Uddin walked into a ...",
+        "Response": "...quiet café on a rainy afternoon, searching for a cozy spot to catch up and share stories over steaming cups of coffee.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 7,
+        "Prompt": "Complete the sentence: Hashir Mona and Adnan Rahman walked into a ...",
+        "Response": "...cozy little café on the corner of Maple Street, eager to catch up over steaming cups of coffee and freshly baked pastries. The aroma of roasted beans filled the air as they found a spot by the window, ready to dive into lively conversation and share stories of their recent adventures.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 8,
+        "Prompt": "Complete the sentence: Hunain Nagi and Sanam Eid walked into a ...",
+        "Response": "...charming café, the aroma of freshly brewed coffee wafting through the air, as they sought a cozy corner to catch up and share stories from their recent adventures.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 9,
+        "Prompt": "Complete the sentence: Dua Zia and Aiman Bashir walked into a ...",
+        "Response": "Dua Zia and Aiman Bashir walked into a bustling café, the aroma of freshly brewed coffee filling the air as they exchanged excited glances, eager to catch up after months apart.",
+        "ClassificationRule": "^Dua\\ Zia\\ and\\ Aiman\\ Bashir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 10,
+        "Prompt": "Complete the sentence: Bilal Hariri and Kiyan Abbas walked into a ...",
+        "Response": "Bilal Hariri and Kiyan Abbas walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of lively conversations and clinking cups.",
+        "ClassificationRule": "^Bilal\\ Hariri\\ and\\ Kiyan\\ Abbas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 11,
+        "Prompt": "Complete the sentence: Minahil Rahim and Islam Bilal walked into a ...",
+        "Response": "Minahil Rahim and Islam Bilal walked into a cozy café, the aroma of freshly brewed coffee filling the air, as they exchanged excited glances, ready to catch up and share stories over their favorite pastries.",
+        "ClassificationRule": "^Minahil\\ Rahim\\ and\\ Islam\\ Bilal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 12,
+        "Prompt": "Complete the sentence: Husnain Mina and Aliza Qasim walked into a ...",
+        "Response": "Husnain Mina and Aliza Qasim walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they scanned the room for a cozy spot to settle in for their afternoon chat.",
+        "ClassificationRule": "^Husnain\\ Mina\\ and\\ Aliza\\ Qasim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 13,
+        "Prompt": "Complete the sentence: Farhan Din and Rukhsar Uddin walked into a ...",
+        "Response": "Farhan Din and Rukhsar Uddin walked into a bustling café, the warm aroma of freshly brewed coffee mingling with the sweet scent of pastries, as lively chatter filled the air around them.",
+        "ClassificationRule": "^Farhan\\ Din\\ and\\ Rukhsar\\ Uddin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 14,
+        "Prompt": "Complete the sentence: Sumaira Afzal and Mirha Abbas walked into a ...",
+        "Response": "Sumaira Afzal and Mirha Abbas walked into a bustling café, the aroma of freshly brewed coffee filling the air as the lively chatter of patrons blended with the soft strains of music playing in the background.",
+        "ClassificationRule": "^Sumaira\\ Afzal\\ and\\ Mirha\\ Abbas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 15,
+        "Prompt": "Complete the sentence: Abeer Hasan and Shahbaz Abbas walked into a ...",
+        "Response": "Abeer Hasan and Shahbaz Abbas walked into a bustling café, the aroma of freshly brewed coffee swirling around them as they searched for a cozy spot to settle down and catch up on old times.",
+        "ClassificationRule": "^Abeer\\ Hasan\\ and\\ Shahbaz\\ Abbas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 16,
+        "Prompt": "Complete the sentence: Hussain Abbas and Nisha Ahmed walked into a ...",
+        "Response": "Hussain Abbas and Nisha Ahmed walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the chatter of patrons and the sound of clinking cups, igniting a sense of anticipation for their long-awaited reunion.",
+        "ClassificationRule": "^Hussain\\ Abbas\\ and\\ Nisha\\ Ahmed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 17,
+        "Prompt": "Complete the sentence: Zoya Hariri and Afnan Hashim walked into a ...",
+        "Response": "Zoya Hariri and Afnan Hashim walked into a bustling café, the rich aroma of freshly brewed coffee filling the air and the soft murmur of conversations surrounding them, as they sought a cozy corner to discuss their latest project.",
+        "ClassificationRule": "^Zoya\\ Hariri\\ and\\ Afnan\\ Hashim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 18,
+        "Prompt": "Complete the sentence: Tahir Salaam and Zonaira Hakim walked into a ...",
+        "Response": "Tahir Salaam and Zonaira Hakim walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they searched for a cozy corner to discuss their latest project.",
+        "ClassificationRule": "^Tahir\\ Salaam\\ and\\ Zonaira\\ Hakim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 19,
+        "Prompt": "Complete the sentence: Taimoor Uddin and Adyan Firman walked into a ...",
+        "Response": "Taimoor Uddin and Adyan Firman walked into a bustling café, the rich aroma of coffee and freshly baked pastries filling the air as they searched for a cozy spot to catch up and share stories about their recent adventures.",
+        "ClassificationRule": "^Taimoor\\ Uddin\\ and\\ Adyan\\ Firman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 20,
+        "Prompt": "Complete the sentence: Aleena Abbas and Azan Ebrahim walked into a ...",
+        "Response": "Aleena Abbas and Azan Ebrahim walked into a bustling café, the aroma of freshly brewed coffee and warm pastries enveloping them as they scanned the room for an open table.",
+        "ClassificationRule": "^Aleena\\ Abbas\\ and\\ Azan\\ Ebrahim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 21,
+        "Prompt": "Complete the sentence: Sarfaraz Salik and Aliza Din walked into a ...",
+        "Response": "...charming little café on the corner of Maple Street, the aroma of freshly brewed coffee enveloping them as they stepped inside. The soft chatter of patrons created a warm ambiance, perfect for their much-anticipated reunion after years apart.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 22,
+        "Prompt": "Complete the sentence: Inaya Ozer and Sidra Aziz walked into a ...",
+        "Response": "Inaya Ozer and Sidra Aziz walked into a bustling cafe, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, and immediately felt the vibrant energy of the place enveloping them.",
+        "ClassificationRule": "^Inaya\\ Ozer\\ and\\ Sidra\\ Aziz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 23,
+        "Prompt": "Complete the sentence: Bareera Salman and Aban Ebrahim walked into a ...",
+        "Response": "Bareera Salman and Aban Ebrahim walked into a bustling café, the aroma of freshly brewed coffee mingling with the sounds of lively conversation and laughter.",
+        "ClassificationRule": "^Bareera\\ Salman\\ and\\ Aban\\ Ebrahim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 24,
+        "Prompt": "Complete the sentence: Husnain Shakir and Aaima Ahmed walked into a ...",
+        "Response": "Husnain Shakir and Aaima Ahmed walked into a quaint little café, the aroma of freshly brewed coffee and baked pastries wrapping around them like a warm hug.",
+        "ClassificationRule": "^Husnain\\ Shakir\\ and\\ Aaima\\ Ahmed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 25,
+        "Prompt": "Complete the sentence: Iqra Hallal and Hashir Mustafa walked into a ...",
+        "Response": "Iqra Hallal and Hashir Mustafa walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the vibrant crowd for an empty table.",
+        "ClassificationRule": "^Iqra\\ Hallal\\ and\\ Hashir\\ Mustafa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 26,
+        "Prompt": "Complete the sentence: Hamdan Baig and Usama Hakim walked into a ...",
+        "Response": "Hamdan Baig and Usama Hakim walked into a bustling coffee shop, the rich aroma of freshly brewed coffee filling the air as they searched for a cozy spot to plan their upcoming adventure.",
+        "ClassificationRule": "^Hamdan\\ Baig\\ and\\ Usama\\ Hakim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 27,
+        "Prompt": "Complete the sentence: Waqas Mirza and Talha Haidar walked into a ...",
+        "Response": "Waqas Mirza and Talha Haidar walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as they scanned the lively crowd for a place to sit.",
+        "ClassificationRule": "^Waqas\\ Mirza\\ and\\ Talha\\ Haidar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 28,
+        "Prompt": "Complete the sentence: Rayyan Afzal and Wafa Amir walked into a ...",
+        "Response": "Rayyan Afzal and Wafa Amir walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they scanned the crowded space for a cozy corner to settle in.",
+        "ClassificationRule": "^Rayyan\\ Afzal\\ and\\ Wafa\\ Amir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 29,
+        "Prompt": "Complete the sentence: Ayra Aman and Izaan Elamin walked into a ...",
+        "Response": "Ayra Aman and Izaan Elamin walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sound of lively conversation and laughter.",
+        "ClassificationRule": "^Ayra\\ Aman\\ and\\ Izaan\\ Elamin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 30,
+        "Prompt": "Complete the sentence: Areeba Elamin and Anas Firman walked into a ...",
+        "Response": "Areeba Elamin and Anas Firman walked into a bustling café, the rich aroma of freshly brewed coffee swirling around them as they searched for the perfect spot to settle in for their lively conversation.",
+        "ClassificationRule": "^Areeba\\ Elamin\\ and\\ Anas\\ Firman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 31,
+        "Prompt": "Complete the sentence: Mehar Mina and Izhaan Zahra walked into a ...",
+        "Response": "Mehar Mina and Izhaan Zahra walked into a quaint little café, its walls adorned with vibrant art and the aroma of freshly brewed coffee enveloping the air.",
+        "ClassificationRule": "^Mehar\\ Mina\\ and\\ Izhaan\\ Zahra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 32,
+        "Prompt": "Complete the sentence: Anaya Gaber and Fatima Abbas walked into a ...",
+        "Response": "... bustling café, the rich aroma of freshly brewed coffee filling the air as they looked for a cozy corner to catch up after months apart.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 33,
+        "Prompt": "Complete the sentence: Fabeha Hana and Amal Hai walked into a ...",
+        "Response": "Fabeha Hana and Amal Hai walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sound of laughter and clinking cups, each corner filled with vibrant conversations and the warm glow of hanging lights.",
+        "ClassificationRule": "^Fabeha\\ Hana\\ and\\ Amal\\ Hai\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 34,
+        "Prompt": "Complete the sentence: Arisha Elamin and Safwan Saadeh walked into a ...",
+        "Response": "Arisha Elamin and Safwan Saadeh walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping them as they searched for a cozy corner to share their stories.",
+        "ClassificationRule": "^Arisha\\ Elamin\\ and\\ Safwan\\ Saadeh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 35,
+        "Prompt": "Complete the sentence: Wafa Hashim and Shoaib Muhammad walked into a ...",
+        "Response": "Wafa Hashim and Shoaib Muhammad walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as laughter and chatter enveloped them like a warm embrace.",
+        "ClassificationRule": "^Wafa\\ Hashim\\ and\\ Shoaib\\ Muhammad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 36,
+        "Prompt": "Complete the sentence: Zoha Saab and Shazia Zahra walked into a ...",
+        "Response": "Zoha Saab and Shazia Zahra walked into a bustling café, filled with the aroma of freshly brewed coffee and the sound of lively conversation.",
+        "ClassificationRule": "^Zoha\\ Saab\\ and\\ Shazia\\ Zahra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 37,
+        "Prompt": "Complete the sentence: Hoorain Salaam and Arafat Omar walked into a ...",
+        "Response": "Hoorain Salaam and Arafat Omar walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of laughter and chatter, eager to catch up after months apart.",
+        "ClassificationRule": "^Hoorain\\ Salaam\\ and\\ Arafat\\ Omar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 38,
+        "Prompt": "Complete the sentence: Muslim Vohra and Hammad Saab walked into a ...",
+        "Response": "Muslim Vohra and Hammad Saab walked into a bustling café, the aroma of freshly brewed coffee and baked goods enveloping them as they exchanged warm greetings with familiar faces and settled down at a cozy corner table.",
+        "ClassificationRule": "^Muslim\\ Vohra\\ and\\ Hammad\\ Saab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 39,
+        "Prompt": "Complete the sentence: Aafiya Darwish and Afan Gaber walked into a ...",
+        "Response": "Aafiya Darwish and Afan Gaber walked into a cozy café, their laughter filling the air as they spotted a corner table adorned with colorful cushions and twinkling fairy lights.",
+        "ClassificationRule": "^Aafiya\\ Darwish\\ and\\ Afan\\ Gaber\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 40,
+        "Prompt": "Complete the sentence: Tasnim Doud and Rehan Yamin walked into a ...",
+        "Response": "Tasnim Doud and Rehan Yamin walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they scanned the room for a cozy spot to settle in.",
+        "ClassificationRule": "^Tasnim\\ Doud\\ and\\ Rehan\\ Yamin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 41,
+        "Prompt": "Complete the sentence: Taimoor Zia and Shaista Ghaffari walked into a ...",
+        "Response": "Taimoor Zia and Shaista Ghaffari walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air, as they searched for a cozy spot to catch up on old times.",
+        "ClassificationRule": "^Taimoor\\ Zia\\ and\\ Shaista\\ Ghaffari\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 42,
+        "Prompt": "Complete the sentence: Azaan Salman and Danish Dada walked into a ...",
+        "Response": "Azaan Salman and Danish Dada walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of chatter and laughter, setting the stage for an afternoon filled with conversation and camaraderie.",
+        "ClassificationRule": "^Azaan\\ Salman\\ and\\ Danish\\ Dada\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 43,
+        "Prompt": "Complete the sentence: Rayan Nagi and Aania Shakir walked into a ...",
+        "Response": "Rayan Nagi and Aania Shakir walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries as laughter and conversation filled the air.",
+        "ClassificationRule": "^Rayan\\ Nagi\\ and\\ Aania\\ Shakir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 44,
+        "Prompt": "Complete the sentence: Shaista Bilal and Anaya Radi walked into a ...",
+        "Response": "Shaista Bilal and Anaya Radi walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as they searched for a cozy corner to share their latest adventures.",
+        "ClassificationRule": "^Shaista\\ Bilal\\ and\\ Anaya\\ Radi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 45,
+        "Prompt": "Complete the sentence: Areesha Qasim and Muskan Moghadam walked into a ...",
+        "Response": "...charming café, its warm ambiance filled with the rich aroma of freshly brewed coffee and the sweet scent of pastries, where they planned to catch up on life over steaming cups of their favorite drinks.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 46,
+        "Prompt": "Complete the sentence: Izhaan Niazi and Yusra Fawaz walked into a ...",
+        "Response": "Izhaan Niazi and Yusra Fawaz walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they searched for a cozy spot to settle in for an afternoon of laughter and conversation.",
+        "ClassificationRule": "^Izhaan\\ Niazi\\ and\\ Yusra\\ Fawaz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 47,
+        "Prompt": "Complete the sentence: Sanam Din and Ayaat Salman walked into a ...",
+        "Response": "Sanam Din and Ayaat Salman walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as they exchanged excited glances, ready for their long-awaited reunion.",
+        "ClassificationRule": "^Sanam\\ Din\\ and\\ Ayaat\\ Salman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 48,
+        "Prompt": "Complete the sentence: Ammar Rahim and Aryan Wahab walked into a ...",
+        "Response": "Ammar Rahim and Aryan Wahab walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and chatter filled the air around them.",
+        "ClassificationRule": "^Ammar\\ Rahim\\ and\\ Aryan\\ Wahab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 49,
+        "Prompt": "Complete the sentence: Mahek Habeeb and Arish Uddin walked into a ...",
+        "Response": "...café on a rainy afternoon, their laughter mingling with the soft sound of raindrops tapping against the window. The warm aroma of freshly brewed coffee filled the air, inviting them to take a seat by the window and share stories of their latest adventures.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 50,
+        "Prompt": "Complete the sentence: Abaan Waheed and Hareem Akhtar walked into a ...",
+        "Response": "Abaan Waheed and Hareem Akhtar walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of laughter and chatter from the diverse crowd.",
+        "ClassificationRule": "^Abaan\\ Waheed\\ and\\ Hareem\\ Akhtar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 51,
+        "Prompt": "Complete the sentence: Anas Zia and Muntaha Hashim walked into a ...",
+        "Response": "Anas Zia and Muntaha Hashim walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they scanned the cozy interior filled with lively conversations and the faint sound of jazz music playing in the background.",
+        "ClassificationRule": "^Anas\\ Zia\\ and\\ Muntaha\\ Hashim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 52,
+        "Prompt": "Complete the sentence: Inaya Mohiuddin and Huda Raad walked into a ...",
+        "Response": "Inaya Mohiuddin and Huda Raad walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries in the air.",
+        "ClassificationRule": "^Inaya\\ Mohiuddin\\ and\\ Huda\\ Raad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 53,
+        "Prompt": "Complete the sentence: Aamir Zia and Hafsa Salik walked into a ...",
+        "Response": "Aamir Zia and Hafsa Salik walked into a bustling café, the aroma of freshly ground coffee mingling with the sweet scent of pastries, as they exchanged excited glances, ready to share their latest adventures and ideas for their upcoming project.",
+        "ClassificationRule": "^Aamir\\ Zia\\ and\\ Hafsa\\ Salik\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 54,
+        "Prompt": "Complete the sentence: Iqra Uddin and Shazia Haq walked into a ...",
+        "Response": "Iqrа Uddin and Shazia Haq walked into a cozy café, the aroma of freshly brewed coffee enveloping them as they found a spot by the window, excited to catch up after a long time apart.",
+        "ClassificationRule": "^Iqrа Uddin and Shazia Haq walked into a cozy café, the aroma of freshly brewed coffee"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 55,
+        "Prompt": "Complete the sentence: Zubair Othman and Inaya Mohiuddin walked into a ...",
+        "Response": "Zubair Othman and Inaya Mohiuddin walked into a vibrant café filled with the aroma of freshly brewed coffee and the sound of animated conversations, eager to catch up on old times and share their latest adventures.",
+        "ClassificationRule": "^Zubair\\ Othman\\ and\\ Inaya\\ Mohiuddin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 56,
+        "Prompt": "Complete the sentence: Afiya Ebrahim and Sayan Elbaz walked into a ...",
+        "Response": "Afiya Ebrahim and Sayan Elbaz walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of soft chatter and clinking cups, ready to discuss their latest project.",
+        "ClassificationRule": "^Afiya\\ Ebrahim\\ and\\ Sayan\\ Elbaz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 57,
+        "Prompt": "Complete the sentence: Areeba Niazi and Aabid Raad walked into a ...",
+        "Response": "Areeba Niazi and Aabid Raad walked into a bustling café, the aroma of freshly brewed coffee filling the air as they exchanged smiles and settled into a cozy corner booth.",
+        "ClassificationRule": "^Areeba\\ Niazi\\ and\\ Aabid\\ Raad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 58,
+        "Prompt": "Complete the sentence: Iqra Mustafa and Anahita Aman walked into a ...",
+        "Response": "Iqra Mustafa and Anahita Aman walked into a cozy café, the aroma of freshly brewed coffee filling the air as they exchanged excited glances, ready to catch up on all the adventures that had unfolded since their last meeting.",
+        "ClassificationRule": "^Iqra\\ Mustafa\\ and\\ Anahita\\ Aman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 59,
+        "Prompt": "Complete the sentence: Adan Saadeh and Huzaifa Mohiuddin walked into a ...",
+        "Response": "Adan Saadeh and Huzaifa Mohiuddin walked into a bustling café, the aroma of freshly ground coffee beans wafting through the air as lively chatter filled the room.",
+        "ClassificationRule": "^Adan\\ Saadeh\\ and\\ Huzaifa\\ Mohiuddin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 60,
+        "Prompt": "Complete the sentence: Hiba Qadir and Abdullah Aman walked into a ...",
+        "Response": "...quiet café on a rainy afternoon, seeking solace from the downpour outside. The aroma of freshly brewed coffee enveloped them as they found a cozy corner table, ready to catch up and share stories over steaming cups of warmth.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 61,
+        "Prompt": "Complete the sentence: Tauseef Zadeh and Adyan Shakir walked into a ...",
+        "Response": "Tauseef Zadeh and Adyan Shakir walked into a bustling café, the aroma of freshly brewed coffee filling the air as they exchanged excited stories about their latest adventures.",
+        "ClassificationRule": "^Tauseef\\ Zadeh\\ and\\ Adyan\\ Shakir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 62,
+        "Prompt": "Complete the sentence: Humaira Yamin and Sana Afzal walked into a ...",
+        "Response": "Humaira Yamin and Sana Afzal walked into a bustling café, its aroma filled with freshly brewed coffee and pastries, as the chatter of patrons created a warm and inviting atmosphere.",
+        "ClassificationRule": "^Humaira\\ Yamin\\ and\\ Sana\\ Afzal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 63,
+        "Prompt": "Complete the sentence: Manal Dar and Nihal Begum walked into a ...",
+        "Response": "Manal Dar and Nihal Begum walked into a cozy café, the aroma of freshly brewed coffee and pastries enveloping them as they searched for a quiet corner to catch up and share their latest adventures.",
+        "ClassificationRule": "^Manal\\ Dar\\ and\\ Nihal\\ Begum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 64,
+        "Prompt": "Complete the sentence: Minha Zahra and Ana Salik walked into a ...",
+        "Response": "...small, quaint café tucked away in the heart of the bustling city, where the aroma of freshly brewed coffee mingled with the sweet scent of pastries. As they settled into a cozy corner table, they exchanged excited whispers about their plans for the day ahead.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 65,
+        "Prompt": "Complete the sentence: Saif Aziz and Rifat Qasim walked into a ...",
+        "Response": "Saif Aziz and Rifat Qasim walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and conversation filled the air.",
+        "ClassificationRule": "^Saif\\ Aziz\\ and\\ Rifat\\ Qasim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 66,
+        "Prompt": "Complete the sentence: Sania Rafiq and Mohsin Sayed walked into a ...",
+        "Response": "Sania Rafiq and Mohsin Sayed walked into a quaint little café, the aroma of freshly brewed coffee enveloping them as they exchanged excited glances, eager to catch up after months apart.",
+        "ClassificationRule": "^Sania\\ Rafiq\\ and\\ Mohsin\\ Sayed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 67,
+        "Prompt": "Complete the sentence: Rifat Faraj and Nida Yousuf walked into a ...",
+        "Response": "Rifat Faraj and Nida Yousuf walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they exchanged excited whispers about their upcoming adventure.",
+        "ClassificationRule": "^Rifat\\ Faraj\\ and\\ Nida\\ Yousuf\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 68,
+        "Prompt": "Complete the sentence: Uzma Othman and Zahid Aman walked into a ...",
+        "Response": "...cozy little café tucked away on a quiet street, the aroma of freshly brewed coffee and baked pastries enveloping them as they shared stories and laughter over steaming mugs.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 69,
+        "Prompt": "Complete the sentence: Sajid Pour and Sara Hasan walked into a ...",
+        "Response": "Sajid Pour and Sara Hasan walked into a quaint little café, the aroma of freshly brewed coffee filling the air as the soft hum of conversation enveloped them like a warm embrace.",
+        "ClassificationRule": "^Sajid\\ Pour\\ and\\ Sara\\ Hasan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 70,
+        "Prompt": "Complete the sentence: Ayman Zahra and Aleeza Faraj walked into a ...",
+        "Response": "Ayman Zahra and Aleeza Faraj walked into a bustling café, the aroma of freshly brewed coffee swirling around them as they searched for an empty table.",
+        "ClassificationRule": "^Ayman\\ Zahra\\ and\\ Aleeza\\ Faraj\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 71,
+        "Prompt": "Complete the sentence: Zonaira Minhas and Rizwan Eid walked into a ...",
+        "Response": "Zonaira Minhas and Rizwan Eid walked into a bustling café, the aroma of freshly brewed coffee enveloping them as laughter and chatter filled the air.",
+        "ClassificationRule": "^Zonaira\\ Minhas\\ and\\ Rizwan\\ Eid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 72,
+        "Prompt": "Complete the sentence: Amna Badie and Arif Odeh walked into a ...",
+        "Response": "Amna Badie and Arif Odeh walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of baked pastries, as they searched for the perfect spot to discuss their exciting new project.",
+        "ClassificationRule": "^Amna\\ Badie\\ and\\ Arif\\ Odeh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 73,
+        "Prompt": "Complete the sentence: Zaid Hasan and Subhan Amir walked into a ...",
+        "Response": "Zaid Hasan and Subhan Amir walked into a bustling café, the aroma of freshly brewed coffee filling the air as laughter and conversation blended into a warm, inviting atmosphere.",
+        "ClassificationRule": "^Zaid\\ Hasan\\ and\\ Subhan\\ Amir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 74,
+        "Prompt": "Complete the sentence: Ayra Salaam and Nihal Raad walked into a ...",
+        "Response": "Ayra Salaam and Nihal Raad walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they scanned the room for a cozy spot to settle in and catch up on old times.",
+        "ClassificationRule": "^Ayra\\ Salaam\\ and\\ Nihal\\ Raad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 75,
+        "Prompt": "Complete the sentence: Dua Mina and Shabana Harroun walked into a ...",
+        "Response": "Dua Mina and Shabana Harroun walked into a quaint little café, the aroma of freshly brewed coffee and baked pastries enveloping them as they searched for a cozy corner to catch up.",
+        "ClassificationRule": "^Dua\\ Mina\\ and\\ Shabana\\ Harroun\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 76,
+        "Prompt": "Complete the sentence: Neha Rabbani and Daniyal Bilal walked into a ...",
+        "Response": "Neha Rabbani and Daniyal Bilal walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, setting the stage for an unforgettable conversation.",
+        "ClassificationRule": "^Neha\\ Rabbani\\ and\\ Daniyal\\ Bilal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 77,
+        "Prompt": "Complete the sentence: Shoaib Omar and Hamza Hadi walked into a ...",
+        "Response": "Shoaib Omar and Hamza Hadi walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as they exchanged excited glances, ready to share stories and brainstorm ideas for their upcoming project.",
+        "ClassificationRule": "^Shoaib\\ Omar\\ and\\ Hamza\\ Hadi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 78,
+        "Prompt": "Complete the sentence: Neha Haidar and Ayaat Darwish walked into a ...",
+        "Response": "Neha Haidar and Ayaat Darwish walked into a cozy café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they searched for a quiet corner to chat and catch up on life.",
+        "ClassificationRule": "^Neha\\ Haidar\\ and\\ Ayaat\\ Darwish\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 79,
+        "Prompt": "Complete the sentence: Tanisha Farran and Rabia Mina walked into a ...",
+        "Response": "Tanisha Farran and Rabia Mina walked into a bustling café, the aroma of freshly brewed coffee and pastries filling the air, as they scanned the room for a cozy corner to catch up on life.",
+        "ClassificationRule": "^Tanisha\\ Farran\\ and\\ Rabia\\ Mina\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 80,
+        "Prompt": "Complete the sentence: Mishal Salik and Anahita Waheed walked into a ...",
+        "Response": "Mishal Salik and Anahita Waheed walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of lively conversation, eager to catch up on the latest happenings in their lives.",
+        "ClassificationRule": "^Mishal\\ Salik\\ and\\ Anahita\\ Waheed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 81,
+        "Prompt": "Complete the sentence: Rifat Beshara and Faisal Rahim walked into a ...",
+        "Response": "...lively café on a bustling street, their laughter blending with the aroma of freshly brewed coffee and the chatter of animated conversations around them.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 82,
+        "Prompt": "Complete the sentence: Sofia Shakir and Hanzalah Raad walked into a ...",
+        "Response": "Sofia Shakir and Hanzalah Raad walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries in the air, as they searched for a cozy corner to catch up and share their latest adventures.",
+        "ClassificationRule": "^Sofia\\ Shakir\\ and\\ Hanzalah\\ Raad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 83,
+        "Prompt": "Complete the sentence: Saniya Obeid and Aaira Zadeh walked into a ...",
+        "Response": "Saniya Obeid and Aaira Zadeh walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sounds of laughter and chatter filling the air.",
+        "ClassificationRule": "^Saniya\\ Obeid\\ and\\ Aaira\\ Zadeh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 84,
+        "Prompt": "Complete the sentence: Maira Moghadam and Manal Hai walked into a ...",
+        "Response": "Maira Moghadam and Manal Hai walked into a vibrant art gallery, their eyes wide with wonder as they admired the eclectic mix of contemporary paintings and sculptures that adorned the walls.",
+        "ClassificationRule": "^Maira\\ Moghadam\\ and\\ Manal\\ Hai\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 85,
+        "Prompt": "Complete the sentence: Kabir Beshara and Ayesha Mohiuddin walked into a ...",
+        "Response": "Kabir Beshara and Ayesha Mohiuddin walked into a bustling café, the aroma of freshly brewed coffee hanging in the air, and the sound of laughter mingling with the soft strumming of a guitar in the corner.",
+        "ClassificationRule": "^Kabir\\ Beshara\\ and\\ Ayesha\\ Mohiuddin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 86,
+        "Prompt": "Complete the sentence: Shahzaib Ozer and Poonam Aman walked into a ...",
+        "Response": "Shahzaib Ozer and Poonam Aman walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the lively chatter of patrons filled the air.",
+        "ClassificationRule": "^Shahzaib\\ Ozer\\ and\\ Poonam\\ Aman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 87,
+        "Prompt": "Complete the sentence: Nisha Hallal and Anam Parsa walked into a ...",
+        "Response": "Nisha Hallal and Anam Parsa walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they searched for a cozy corner to catch up on their latest adventures.",
+        "ClassificationRule": "^Nisha\\ Hallal\\ and\\ Anam\\ Parsa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 88,
+        "Prompt": "Complete the sentence: Alisha Hakim and Aisha Vohra walked into a ...",
+        "Response": "Alisha Hakim and Aisha Vohra walked into a bustling café, the rich aroma of coffee mingling with the sweet scent of pastries, as laughter and lively conversations filled the air.",
+        "ClassificationRule": "^Alisha\\ Hakim\\ and\\ Aisha\\ Vohra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 89,
+        "Prompt": "Complete the sentence: Haider Emami and Saniya Bilal walked into a ...",
+        "Response": "Haider Emami and Saniya Bilal walked into a bustling café, the scent of freshly brewed coffee and pastries filling the air as laughter and chatter surrounded them.",
+        "ClassificationRule": "^Haider\\ Emami\\ and\\ Saniya\\ Bilal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 90,
+        "Prompt": "Complete the sentence: Anas Mitri and Ali Beshara walked into a ...",
+        "Response": "Anas Mitri and Ali Beshara walked into a bustling café, the aroma of fresh coffee and baked pastries filling the air as they searched for a cozy spot to share stories and laughter.",
+        "ClassificationRule": "^Anas\\ Mitri\\ and\\ Ali\\ Beshara\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 91,
+        "Prompt": "Complete the sentence: Aqsa Bari and Tanveer Tamer walked into a ...",
+        "Response": "Aqsa Bari and Tanveer Tamer walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air, as the chatter of patrons created a lively atmosphere around them.",
+        "ClassificationRule": "^Aqsa\\ Bari\\ and\\ Tanveer\\ Tamer\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 92,
+        "Prompt": "Complete the sentence: Iram Salaam and Haram Nagi walked into a ...",
+        "Response": "Iram Salaam and Haram Nagi walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping them as they scanned the room for a cozy corner to sit and catch up.",
+        "ClassificationRule": "^Iram\\ Salaam\\ and\\ Haram\\ Nagi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 93,
+        "Prompt": "Complete the sentence: Aafiya Dar and Abrar Harroun walked into a ...",
+        "Response": "Aafiya Dar and Abrar Harroun walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, where laughter and conversation filled the air like a warm embrace.",
+        "ClassificationRule": "^Aafiya\\ Dar\\ and\\ Abrar\\ Harroun\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 94,
+        "Prompt": "Complete the sentence: Sameer Salman and Rida Ozer walked into a ...",
+        "Response": "Sameer Salman and Rida Ozer walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sound of lively conversations, where they planned to catch up and discuss their latest project.",
+        "ClassificationRule": "^Sameer\\ Salman\\ and\\ Rida\\ Ozer\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 95,
+        "Prompt": "Complete the sentence: Sahil Aziz and Nida Shakir walked into a ...",
+        "Response": "Sahil Aziz and Nida Shakir walked into a cozy little café, where the aroma of freshly brewed coffee mingled with the sweet scent of baked pastries, creating an inviting atmosphere perfect for their long-overdue catch-up.",
+        "ClassificationRule": "^Sahil\\ Aziz\\ and\\ Nida\\ Shakir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 96,
+        "Prompt": "Complete the sentence: Kainaat Firman and Salman Din walked into a ...",
+        "Response": "Kainaat Firman and Salman Din walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of lively chatter and clinking cups, setting the perfect backdrop for their long-awaited reunion.",
+        "ClassificationRule": "^Kainaat\\ Firman\\ and\\ Salman\\ Din\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 97,
+        "Prompt": "Complete the sentence: Zain Rabbani and Minha Hai walked into a ...",
+        "Response": "...bustling café on a rainy afternoon, seeking refuge from the downpour and the warmth of a cozy atmosphere.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 98,
+        "Prompt": "Complete the sentence: Zoya Salaam and Kiyan Aman walked into a ...",
+        "Response": "Zoya Salaam and Kiyan Aman walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of laughter and clinking cups, as they searched for a quiet corner to discuss their plans for the upcoming adventure.",
+        "ClassificationRule": "^Zoya\\ Salaam\\ and\\ Kiyan\\ Aman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 99,
+        "Prompt": "Complete the sentence: Mahnoor Mian and Sufian Mina walked into a ...",
+        "Response": "Mahnoor Mian and Sufian Mina walked into a bustling café, the aroma of freshly brewed coffee filling the air as they exchanged excited glances, eager to catch up on their latest adventures.",
+        "ClassificationRule": "^Mahnoor\\ Mian\\ and\\ Sufian\\ Mina\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 100,
+        "Prompt": "Complete the sentence: Rida Farran and Reshma Elamin walked into a ...",
+        "Response": "Rida Farran and Reshma Elamin walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping them as they searched for a cozy corner to catch up and share their latest adventures.",
+        "ClassificationRule": "^Rida\\ Farran\\ and\\ Reshma\\ Elamin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 101,
+        "Prompt": "Complete the sentence: Abaan Minhas and Hunain Elamin walked into a ...",
+        "Response": "Abaan Minhas and Hunain Elamin walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they searched for a quiet corner to catch up and share the latest adventures from their lives.",
+        "ClassificationRule": "^Abaan\\ Minhas\\ and\\ Hunain\\ Elamin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 102,
+        "Prompt": "Complete the sentence: Rashid Salaam and Ahnaf Aziz walked into a ...",
+        "Response": "Rashid Salaam and Ahnaf Aziz walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as they scanned the room for a cozy corner to settle in and catch up.",
+        "ClassificationRule": "^Rashid\\ Salaam\\ and\\ Ahnaf\\ Aziz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 103,
+        "Prompt": "Complete the sentence: Ashar Haidar and Bareera Farha walked into a ...",
+        "Response": "...cozy little café, the aroma of freshly brewed coffee greeting them as they stepped inside. The dim lighting and eclectic decor created an inviting atmosphere, perfect for their long-awaited catch-up.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 104,
+        "Prompt": "Complete the sentence: Abaan Akel and Hashir Hasan walked into a ...",
+        "Response": "Abaan Akel and Hashir Hasan walked into a bustling café, the aroma of fresh coffee and baked goods enveloping them as they scanned the room for a cozy spot to settle in and catch up.",
+        "ClassificationRule": "^Abaan\\ Akel\\ and\\ Hashir\\ Hasan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 105,
+        "Prompt": "Complete the sentence: Amyra Ghaffari and Hadi Vohra walked into a ...",
+        "Response": "...cozy little café on the corner of Maple Street, the aroma of freshly brewed coffee and baked goods welcoming them as they made their way to a corner table by the window.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 106,
+        "Prompt": "Complete the sentence: Shahzaib Ebrahim and Imran Obeid walked into a ...",
+        "Response": "Shahzaib Ebrahim and Imran Obeid walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the room for a place to sit.",
+        "ClassificationRule": "^Shahzaib\\ Ebrahim\\ and\\ Imran\\ Obeid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 107,
+        "Prompt": "Complete the sentence: Salman Pour and Laiba Nasir walked into a ...",
+        "Response": "Salman Pour and Laiba Nasir walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of laughter and chatter, setting the perfect backdrop for an unexpected adventure.",
+        "ClassificationRule": "^Salman\\ Pour\\ and\\ Laiba\\ Nasir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 108,
+        "Prompt": "Complete the sentence: Hoorain Waheed and Farhan Aziz walked into a ...",
+        "Response": "Hoorain Waheed and Farhan Aziz walked into a bustling café, the aroma of freshly brewed coffee wafting through the air as they scanned the room for a cozy spot to settle in and catch up.",
+        "ClassificationRule": "^Hoorain\\ Waheed\\ and\\ Farhan\\ Aziz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 109,
+        "Prompt": "Complete the sentence: Salman Ghanem and Shahzain Dada walked into a ...",
+        "Response": "Salman Ghanem and Shahzain Dada walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as the sounds of laughter and conversation enveloped them.",
+        "ClassificationRule": "^Salman\\ Ghanem\\ and\\ Shahzain\\ Dada\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 110,
+        "Prompt": "Complete the sentence: Anam Haidar and Zoya Zahra walked into a ...",
+        "Response": "Anam Haidar and Zoya Zahra walked into a vibrant café, filled with the rich aroma of freshly brewed coffee and the sound of laughter echoing from the colorful decor.",
+        "ClassificationRule": "^Anam\\ Haidar\\ and\\ Zoya\\ Zahra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 111,
+        "Prompt": "Complete the sentence: Sumaira Rahman and Parveen Moghadam walked into a ...",
+        "Response": "Sumaira Rahman and Parveen Moghadam walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sounds of lively conversation and clinking cups.",
+        "ClassificationRule": "^Sumaira\\ Rahman\\ and\\ Parveen\\ Moghadam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 112,
+        "Prompt": "Complete the sentence: Lubna Saab and Rayan Salaam walked into a ...",
+        "Response": "Lubna Saab and Rayan Salaam walked into a quaint little café nestled between the bustling streets of the city, the aroma of freshly brewed coffee and baked goods enveloping them like a warm hug.",
+        "ClassificationRule": "^Lubna\\ Saab\\ and\\ Rayan\\ Salaam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 113,
+        "Prompt": "Complete the sentence: Shahbaz Rabbani and Jawaria Habeeb walked into a ...",
+        "Response": "Shahbaz Rabbani and Jawaria Habeeb walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping them as they searched for a cozy spot to share their latest adventures.",
+        "ClassificationRule": "^Shahbaz\\ Rabbani\\ and\\ Jawaria\\ Habeeb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 114,
+        "Prompt": "Complete the sentence: Azhar Qasim and Shahzaib Othman walked into a ...",
+        "Response": "Azhar Qasim and Shahzaib Othman walked into a bustling coffee shop, the aroma of freshly brewed coffee mixing with the sounds of lively chatter and clinking cups.",
+        "ClassificationRule": "^Azhar\\ Qasim\\ and\\ Shahzaib\\ Othman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 115,
+        "Prompt": "Complete the sentence: Sonia Faraj and Fatima Emami walked into a ...",
+        "Response": "Sonia Faraj and Fatima Emami walked into a bustling café, the comforting aroma of fresh coffee and baked goods enveloping them as they searched for a cozy corner to catch up on old times.",
+        "ClassificationRule": "^Sonia\\ Faraj\\ and\\ Fatima\\ Emami\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 116,
+        "Prompt": "Complete the sentence: Hussain Muhammad and Tanveer Haidar walked into a ...",
+        "Response": "Hussain Muhammad and Tanveer Haidar walked into a bustling café, the aroma of freshly brewed coffee mingling with the chatter of patrons and the soft background music creating a warm, inviting atmosphere.",
+        "ClassificationRule": "^Hussain\\ Muhammad\\ and\\ Tanveer\\ Haidar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 117,
+        "Prompt": "Complete the sentence: Sana Bashir and Sufian Habeeb walked into a ...",
+        "Response": "Sana Bashir and Sufian Habeeb walked into a bustling café, laughter and the aroma of freshly brewed coffee filling the air as they searched for a cozy corner to catch up.",
+        "ClassificationRule": "^Sana\\ Bashir\\ and\\ Sufian\\ Habeeb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 118,
+        "Prompt": "Complete the sentence: Dua Doud and Parveen Hafeez walked into a ...",
+        "Response": "Dua Doud and Parveen Hafeez walked into a bustling café, where the aroma of freshly brewed coffee mingled with the sweet scent of pastries, and laughter filled the air as friends gathered for a cozy afternoon.",
+        "ClassificationRule": "^Dua\\ Doud\\ and\\ Parveen\\ Hafeez\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 119,
+        "Prompt": "Complete the sentence: Daniyal Salik and Ahnaf Yamin walked into a ...",
+        "Response": "Daniyal Salik and Ahnaf Yamin walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air, as they searched for the perfect spot to catch up and share their latest adventures.",
+        "ClassificationRule": "^Daniyal\\ Salik\\ and\\ Ahnaf\\ Yamin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 120,
+        "Prompt": "Complete the sentence: Tanisha Ozer and Sameer Firman walked into a ...",
+        "Response": "Tanisha Ozer and Sameer Firman walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they exchanged warm smiles and took in the inviting atmosphere filled with chatter and laughter.",
+        "ClassificationRule": "^Tanisha\\ Ozer\\ and\\ Sameer\\ Firman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 121,
+        "Prompt": "Complete the sentence: Habiba Mian and Aban Bilal walked into a ...",
+        "Response": "Habiba Mian and Aban Bilal walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the room for a cozy spot to settle down and chat.",
+        "ClassificationRule": "^Habiba\\ Mian\\ and\\ Aban\\ Bilal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 122,
+        "Prompt": "Complete the sentence: Salman Moghadam and Rayyan Farha walked into a ...",
+        "Response": "Salman Moghadam and Rayyan Farha walked into a bustling café, its aroma of freshly brewed coffee and warm pastries enveloping them like a cozy blanket.",
+        "ClassificationRule": "^Salman\\ Moghadam\\ and\\ Rayyan\\ Farha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 123,
+        "Prompt": "Complete the sentence: Ahil Baig and Aaima Omar walked into a ...",
+        "Response": "Ahil Baig and Aaima Omar walked into a bustling café, the aroma of freshly brewed coffee and baked goods enveloping them as they exchanged excited glances, ready for an afternoon of laughter and conversation.",
+        "ClassificationRule": "^Ahil\\ Baig\\ and\\ Aaima\\ Omar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 124,
+        "Prompt": "Complete the sentence: Mirha Afzal and Dua Zadeh walked into a ...",
+        "Response": "Mirha Afzal and Dua Zadeh walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they scanned the room for a cozy corner to settle in and catch up.",
+        "ClassificationRule": "^Mirha\\ Afzal\\ and\\ Dua\\ Zadeh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 125,
+        "Prompt": "Complete the sentence: Shahzain Farooq and Arfa Zahra walked into a ...",
+        "Response": "Shahzain Farooq and Arfa Zahra walked into a bustling café, the aroma of freshly brewed coffee filling the air as they exchanged excited glances, ready for an adventurous afternoon.",
+        "ClassificationRule": "^Shahzain\\ Farooq\\ and\\ Arfa\\ Zahra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 126,
+        "Prompt": "Complete the sentence: Ruhi Saab and Abrar Yousuf walked into a ...",
+        "Response": "Ruhi Saab and Abrar Yousuf walked into a quaint little café, the aroma of freshly brewed coffee enveloping them as they exchanged intrigued glances at the eclectic art adorning the walls.",
+        "ClassificationRule": "^Ruhi\\ Saab\\ and\\ Abrar\\ Yousuf\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 127,
+        "Prompt": "Complete the sentence: Arsalan Haidar and Parveen Begum walked into a ...",
+        "Response": "Arsalan Haidar and Parveen Begum walked into a bustling marketplace, the vibrant colors of spices and textiles surrounding them as the sounds of laughter and haggling filled the air.",
+        "ClassificationRule": "^Arsalan\\ Haidar\\ and\\ Parveen\\ Begum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 128,
+        "Prompt": "Complete the sentence: Abdullah Zia and Rakib Hamdan walked into a ...",
+        "Response": "Abdullah Zia and Rakib Hamdan walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the room for a cozy spot to unwind and catch up.",
+        "ClassificationRule": "^Abdullah\\ Zia\\ and\\ Rakib\\ Hamdan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 129,
+        "Prompt": "Complete the sentence: Minha Rahman and Nida Fadel walked into a ...",
+        "Response": "...coffee shop on a rainy afternoon, excited to catch up and share their latest adventures over warm lattes and freshly baked pastries.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 130,
+        "Prompt": "Complete the sentence: Hadi Niazi and Ahmad Rahim walked into a ...",
+        "Response": "Hadi Niazi and Ahmad Rahim walked into a bustling café filled with the rich aroma of freshly brewed coffee and the soft hum of conversation, eager to catch up after a long time apart.",
+        "ClassificationRule": "^Hadi\\ Niazi\\ and\\ Ahmad\\ Rahim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 131,
+        "Prompt": "Complete the sentence: Shabana Fawaz and Maaz Parsa walked into a ...",
+        "Response": "Shabana Fawaz and Maaz Parsa walked into a bustling café, the aroma of freshly brewed coffee wrapping around them like a warm embrace.",
+        "ClassificationRule": "^Shabana\\ Fawaz\\ and\\ Maaz\\ Parsa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 132,
+        "Prompt": "Complete the sentence: Umaima Eid and Hamdan Aman walked into a ...",
+        "Response": "...lively café filled with the aroma of freshly brewed coffee and the soft hum of chatter. They found a cozy corner table by the window, eager to catch up and discuss their latest adventures.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 133,
+        "Prompt": "Complete the sentence: Ifra Atallah and Muslim Hakim walked into a ...",
+        "Response": "Ifra Atallah and Muslim Hakim walked into a bustling café, the aroma of freshly brewed coffee filling the air as they exchanged excited ideas about their upcoming project.",
+        "ClassificationRule": "^Ifra\\ Atallah\\ and\\ Muslim\\ Hakim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 134,
+        "Prompt": "Complete the sentence: Arish Moghadam and Faisal Eid walked into a ...",
+        "Response": "Arish Moghadam and Faisal Eid walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of animated conversation, as they prepared to discuss their plans for the upcoming project.",
+        "ClassificationRule": "^Arish\\ Moghadam\\ and\\ Faisal\\ Eid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 135,
+        "Prompt": "Complete the sentence: Umar Qadir and Mahnoor Farran walked into a ...",
+        "Response": "Umar Qadir and Mahnoor Farran walked into a cozy café, the fragrant aroma of freshly brewed coffee and baked goods enveloping them as they searched for a quiet corner to share their stories.",
+        "ClassificationRule": "^Umar\\ Qadir\\ and\\ Mahnoor\\ Farran\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 136,
+        "Prompt": "Complete the sentence: Maham Mustafa and Sonia Gaber walked into a ...",
+        "Response": "Maham Mustafa and Sonia Gaber walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries enticing them from the moment they stepped through the door.",
+        "ClassificationRule": "^Maham\\ Mustafa\\ and\\ Sonia\\ Gaber\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 137,
+        "Prompt": "Complete the sentence: Maryam Doud and Namar Hadi walked into a ...",
+        "Response": "...cozy little café on the corner of Maple Street, excited to catch up over steaming cups of coffee and freshly baked pastries.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 138,
+        "Prompt": "Complete the sentence: Arafat Muhammad and Ahad Hamdan walked into a ...",
+        "Response": "... quaint little café tucked away in the heart of the bustling city, eager to catch up over steaming cups of coffee and delicious pastries.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 139,
+        "Prompt": "Complete the sentence: Bushra Nagi and Ayra Saab walked into a ...",
+        "Response": "Bushra Nagi and Ayra Saab walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they exchanged excited glances, ready to embark on an afternoon of laughter and reconnection.",
+        "ClassificationRule": "^Bushra\\ Nagi\\ and\\ Ayra\\ Saab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 140,
+        "Prompt": "Complete the sentence: Abu-Turab Mirza and Adnan Darwish walked into a ...",
+        "Response": "...small café on the corner of Elm Street, seeking refuge from the rain and hoping to share stories over steaming cups of coffee. The bell above the door jingled softly as they entered, the warm scent of freshly brewed espresso enveloping them like a comforting embrace.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 141,
+        "Prompt": "Complete the sentence: Fatima Moghadam and Tauseef Yousuf walked into a ...",
+        "Response": "Fatima Moghadam and Tauseef Yousuf walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they scanned the cozy space for a place to sit and catch up on old times.",
+        "ClassificationRule": "^Fatima\\ Moghadam\\ and\\ Tauseef\\ Yousuf\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 142,
+        "Prompt": "Complete the sentence: Hammad Vohra and Amina Haidar walked into a ...",
+        "Response": "Hammad Vohra and Amina Haidar walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sound of laughter and conversation, setting the perfect backdrop for an afternoon filled with stories and friendship.",
+        "ClassificationRule": "^Hammad\\ Vohra\\ and\\ Amina\\ Haidar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 143,
+        "Prompt": "Complete the sentence: Mehar Yousuf and Rimsha Wahab walked into a ...",
+        "Response": "Mehar Yousuf and Rimsha Wahab walked into a cozy café, the rich aroma of freshly brewed coffee enveloping them as they exchanged excited glances, ready to discuss their latest project over steaming mugs and sweet pastries.",
+        "ClassificationRule": "^Mehar\\ Yousuf\\ and\\ Rimsha\\ Wahab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 144,
+        "Prompt": "Complete the sentence: Ahnaf Ebrahim and Azhar Pour walked into a ...",
+        "Response": "Ahnaf Ebrahim and Azhar Pour walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they exchanged excited whispers about their weekend plans.",
+        "ClassificationRule": "^Ahnaf\\ Ebrahim\\ and\\ Azhar\\ Pour\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 145,
+        "Prompt": "Complete the sentence: Zeeshan Ebrahim and Waqas Abbas walked into a ...",
+        "Response": "...busy café, the aroma of freshly brewed coffee filling the air as they searched for a quiet corner to catch up and discuss their latest project.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 146,
+        "Prompt": "Complete the sentence: Maheen Minhas and Khadija Abdalla walked into a ...",
+        "Response": "Maheen Minhas and Khadija Abdalla walked into a bustling café, the scent of freshly brewed coffee mingling with the sound of lively conversations and laughter that filled the air.",
+        "ClassificationRule": "^Maheen\\ Minhas\\ and\\ Khadija\\ Abdalla\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 147,
+        "Prompt": "Complete the sentence: Mahreen Zahra and Shayan Saadeh walked into a ...",
+        "Response": "Mahreen Zahra and Shayan Saadeh walked into a bustling café filled with the rich aroma of freshly brewed coffee and the soft hum of chatter, their eyes scanning the room for a cozy corner to settle into.",
+        "ClassificationRule": "^Mahreen\\ Zahra\\ and\\ Shayan\\ Saadeh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 148,
+        "Prompt": "Complete the sentence: Shahbaz Hashim and Mustafa Haq walked into a ...",
+        "Response": "Shahbaz Hashim and Mustafa Haq walked into a bustling café, the rich aroma of freshly brewed coffee filling the air, their laughter mingling with the chatter of patrons and the clinking of cups.",
+        "ClassificationRule": "^Shahbaz\\ Hashim\\ and\\ Mustafa\\ Haq\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 149,
+        "Prompt": "Complete the sentence: Aiman Mohiuddin and Zaid Aziz walked into a ...",
+        "Response": "Aiman Mohiuddin and Zaid Aziz walked into a quaint little café, the aroma of freshly brewed coffee filling the air as the warm afternoon sunlight streamed through the windows.",
+        "ClassificationRule": "^Aiman\\ Mohiuddin\\ and\\ Zaid\\ Aziz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 150,
+        "Prompt": "Complete the sentence: Abbas Mitri and Kainaat Hasan walked into a ...",
+        "Response": "...cozy café on a rainy afternoon, seeking warmth and a quiet place to share their thoughts and dreams. The aroma of freshly brewed coffee filled the air, blending with the sound of soft instrumental music playing in the background.",
+        "ClassificationRule": "^\\.\\.\\."
+    }
+]

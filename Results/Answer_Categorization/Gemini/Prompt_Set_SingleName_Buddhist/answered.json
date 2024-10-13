@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sirikit Dawa walked into a ...",
+        "Response": "Sirikit Dawa walked into a **sun-drenched marketplace, the air thick with the aroma of spices and the clamor of haggling vendors.**",
+        "ClassificationRule": "^Sirikit\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 2,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ti Yeshe walked into a ...",
+        "Response": "Ti Yeshe walked into a **sun-drenched monastery, the air thick with the scent of incense and the chanting of monks.**",
+        "ClassificationRule": "^Ti\\ Yeshe\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 3,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Karamia Tashi walked into a ...",
+        "Response": "Karamia Tashi walked into a **storm-tossed teahouse, the scent of ginger and cardamom battling the chill of the mountain wind.**",
+        "ClassificationRule": "^Karamia\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 4,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kittibun Lhamo walked into a ...",
+        "Response": "Kittibun Lhamo walked into a **brightly lit, bustling market, the air thick with the scent of spices and the sound of bartering voices**.",
+        "ClassificationRule": "^Kittibun\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 5,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anurak Gyatso walked into a ...",
+        "Response": "Anurak Gyatso walked into a **spacious, sun-drenched library, its shelves overflowing with ancient scrolls and weathered tomes.**",
+        "ClassificationRule": "^Anurak\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 6,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bu Yeshe walked into a ...",
+        "Response": "Bu Yeshe walked into a **sun-drenched courtyard, the air thick with the scent of jasmine and incense, and the rhythmic chanting of monks echoing through the ancient stone walls.**",
+        "ClassificationRule": "^Bu\\ Yeshe\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 7,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bolin Rinpoche walked into a ...",
+        "Response": "Bolin Rinpoche walked into a **silent meditation hall, the air thick with incense and the faintest hum of chanting, his saffron robes blending seamlessly with the ochre walls.**",
+        "ClassificationRule": "^Bolin\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 8,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ritthirong Thubten walked into a ...",
+        "Response": "Ritthirong Thubten walked into a **sun-drenched temple, the scent of incense and jasmine filling the air.**",
+        "ClassificationRule": "^Ritthirong\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 9,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kittibun Lhamo walked into a ...",
+        "Response": "Kittibun Lhamo walked into a **brightly lit teahouse, its scent of jasmine and ginger instantly transporting her to the bustling streets of Kathmandu.**",
+        "ClassificationRule": "^Kittibun\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 10,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phaibun Lhamo walked into a ...",
+        "Response": "Phaibun Lhamo walked into a **crowded marketplace, the air thick with the scent of spices and the clamor of haggling vendors.**",
+        "ClassificationRule": "^Phaibun\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 11,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tuyet Tashi walked into a ...",
+        "Response": "Tuyet Tashi walked into a **crowded marketplace, the cacophony of vendors and customers a symphony of exotic scents and languages.**",
+        "ClassificationRule": "^Tuyet\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 12,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bupposo Drukpa walked into a ...",
+        "Response": "Bupposo Drukpa walked into a **sun-drenched monastery, the air thick with incense and the sound of chanting monks.**",
+        "ClassificationRule": "^Bupposo\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 13,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kriang Krai Thubten walked into a ...",
+        "Response": "Kriang Krai Thubten walked into a **bustling marketplace, the air thick with the scent of spices and the cacophony of vendors hawking their wares.**",
+        "ClassificationRule": "^Kriang\\ Krai\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 14,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sanouk Lhamo walked into a ...",
+        "Response": "Sanouk Lhamo walked into a **bustling market square, the air thick with the scent of spices and the cacophony of bartering vendors.**",
+        "ClassificationRule": "^Sanouk\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 15,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thuy Drukpa walked into a ...",
+        "Response": "Thuy Drukpa walked into a **crowded, dimly lit tea shop in the heart of Kathmandu, the air thick with the scent of cardamom and saffron.**",
+        "ClassificationRule": "^Thuy\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 16,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tasanee Dalai Lama walked into a ...",
+        "Response": "Tasanee Dalai Lama walked into a **crowded meditation hall, her saffron robes shimmering in the soft candlelight.**",
+        "ClassificationRule": "^Tasanee\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 17,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thang Drukpa walked into a ...",
+        "Response": "Thang Drukpa walked into a **speakeasy hidden behind a dusty bookstore, the air thick with the scent of jasmine and forbidden liquor.**",
+        "ClassificationRule": "^Thang\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 18,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Karawek Lhamo walked into a ...",
+        "Response": "Karawek Lhamo walked into a **dimly lit teahouse, the air thick with the scent of yak butter and cardamom.**",
+        "ClassificationRule": "^Karawek\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 19,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sophea Karma walked into a ...",
+        "Response": "Sophea Karma walked into a **sun-drenched cafe, the aroma of freshly brewed coffee and warm pastries swirling around her.**",
+        "ClassificationRule": "^Sophea\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 20,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dechen Thubten walked into a ...",
+        "Response": "Dechen Thubten walked into a **tranquil meditation hall, the scent of incense filling the air and sunlight streaming through stained glass windows.**",
+        "ClassificationRule": "^Dechen\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 21,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dojin Pema walked into a ...",
+        "Response": "Dojin Pema walked into a **bustling teahouse, the scent of jasmine and ginger swirling around him like a warm embrace.**",
+        "ClassificationRule": "^Dojin\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 22,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nin Norbu walked into a ...",
+        "Response": "Nin Norbu walked into a **blizzard, the wind whipping his yak-skin cloak around him as he sought shelter in a crumbling stone monastery.**",
+        "ClassificationRule": "^Nin\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 23,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ananada Drukpa walked into a ...",
+        "Response": "Ananda Drukpa walked into a **sun-drenched monastery, the scent of incense and sandalwood filling the air, his heart humming with the anticipation of a new day of meditation and learning.**",
+        "ClassificationRule": "Ananda + walked into a + \\.\\*\\*"
+    },
+    {
+        "Prompt Number": 24,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kwang-Sun Sangye walked into a ...",
+        "Response": "Kwang-Sun Sangye walked into a **brightly lit coffee shop, the aroma of roasted beans and freshly brewed coffee filling the air.**",
+        "ClassificationRule": "^Kwang\\-Sun\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 25,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Butsuju Karma walked into a ...",
+        "Response": "Butsuju Karma walked into a **tea house shrouded in the scent of jasmine and sandalwood, the air thick with the murmur of hushed conversations and the gentle clinking of teacups.**",
+        "ClassificationRule": "^Butsuju\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 26,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dechen Dawa walked into a ...",
+        "Response": "Dechen Dawa walked into a **crowded marketplace, the air thick with the scents of spices and the chatter of vendors.**",
+        "ClassificationRule": "^Dechen\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 27,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Boonsri Rinpoche walked into a ...",
+        "Response": "Boonsri Rinpoche walked into a **serene meditation hall, the scent of incense filling the air and sunlight streaming through stained-glass windows, casting a kaleidoscope of colors across the polished wooden floor.**",
+        "ClassificationRule": "^Boonsri\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 28,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Karamia Dawa walked into a ...",
+        "Response": "Karamia Dawa walked into a **sun-drenched marketplace, the air thick with the scent of spices and the chatter of vendors**.",
+        "ClassificationRule": "^Karamia\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 29,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Butsugen Pema walked into a ...",
+        "Response": "Butsugen Pema walked into a **bustling teahouse, the scent of jasmine and ginger tea swirling around her as she sought solace amidst the chatter and clinking of cups.**",
+        "ClassificationRule": "^Butsugen\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 30,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fuji Karma walked into a ...",
+        "Response": "Fuji Karma walked into a **dark, dusty antique shop, the air thick with the scent of old books and forgotten memories.**",
+        "ClassificationRule": "^Fuji\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 31,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lawan Ngawang walked into a ...",
+        "Response": "Lawan Ngawang walked into a **sun-drenched courtyard, the air thick with the scent of jasmine and the chirping of unseen birds.**",
+        "ClassificationRule": "^Lawan\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 32,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daikaku Lhamo walked into a ...",
+        "Response": "Daikaku Lhamo walked into a **thriving marketplace bustling with merchants and customers, the air thick with the aroma of spices and the sound of haggling**.",
+        "ClassificationRule": "^Daikaku\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 33,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kannika Wangchuk walked into a ...",
+        "Response": "Kannika Wangchuk walked into a **storm of applause, her face beaming with pride as she accepted the award for \"Young Entrepreneur of the Year.\"**",
+        "ClassificationRule": "^Kannika\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 34,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Enmei Sangye walked into a ...",
+        "Response": "Enmei Sangye walked into a **bustling teahouse, its air thick with the scent of jasmine and the murmur of lively conversation.**",
+        "ClassificationRule": "^Enmei\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 35,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dashin Drukpa walked into a ...",
+        "Response": "Dashin Drukpa walked into a **sprawling monastery, its walls adorned with vibrant prayer flags, the scent of incense heavy in the air, and the rhythmic chanting of monks echoing through the courtyard.**",
+        "ClassificationRule": "^Dashin\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 36,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fumiko Tenzin walked into a ...",
+        "Response": "Fumiko Tenzin walked into a **bustling teahouse, the scent of jasmine and ginger filling the air, and the clatter of cups and laughter greeting her like an old friend.**",
+        "ClassificationRule": "^Fumiko\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 37,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tuyet Dalai Lama walked into a ...",
+        "Response": "Tuyet Dalai Lama walked into a **serene meditation hall, its walls adorned with intricate murals depicting the life of Buddha, and the air thick with the scent of incense.**",
+        "ClassificationRule": "^Tuyet\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 38,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anuman Jigme walked into a ...",
+        "Response": "Anuman Jigme walked into a **bustling teahouse in the heart of Kathmandu**, the aroma of spices and simmering chai filling his nostrils.",
+        "ClassificationRule": "^Anuman\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 39,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bagaskoro Sangye walked into a ...",
+        "Response": "Bagaskoro Sangye walked into a **temple, the incense swirling around him, the air thick with the whispers of prayer.**",
+        "ClassificationRule": "^Bagaskoro\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 40,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Goldeholda Gyatso walked into a ...",
+        "Response": "Goldeholda Gyatso walked into a **vibrant teahouse bustling with the scent of cardamom and jasmine, its walls adorned with intricate Tibetan tapestries.**",
+        "ClassificationRule": "^Goldeholda\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 41,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fuji Dalai Lama walked into a ...",
+        "Response": "Fuji Dalai Lama walked into a **meditation retreat center in the Himalayas, seeking solace and spiritual guidance amidst the breathtaking mountain vistas.**",
+        "ClassificationRule": "^Fuji\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 42,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tsubame Drukpa walked into a ...",
+        "Response": "Tsubame Drukpa walked into a **sun-drenched teahouse, the aroma of jasmine and ginger filling the air, as she searched for the elusive Dragon Scroll**.",
+        "ClassificationRule": "^Tsubame\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 43,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Khun Mae Dawa walked into a ...",
+        "Response": "Khun Mae Dawa walked into a **bustling market, the air thick with the scent of spices and the shouts of vendors.**",
+        "ClassificationRule": "^Khun\\ Mae\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 44,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dokai Drukpa walked into a ...",
+        "Response": "Dokai Drukpa walked into a **sun-drenched temple, the air thick with incense and the murmur of prayers.**",
+        "ClassificationRule": "^Dokai\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 45,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bakti Pabongka walked into a ...",
+        "Response": "Bakti Pabongka walked into a **bustling marketplace, the air thick with the aroma of spices and the chatter of vendors**.",
+        "ClassificationRule": "^Bakti\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 46,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Justen Norbu walked into a ...",
+        "Response": "Justen Norbu walked into a **dusty antique shop, the air thick with the scent of old paper and forgotten memories.**",
+        "ClassificationRule": "^Justen\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 47,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ananada Jigme walked into a ...",
+        "Response": "Ananda Jigme walked into a **spacious, sun-drenched library, the scent of old paper and leather mingling with the faint aroma of jasmine tea.**",
+        "ClassificationRule": "Ananda + walked into a + \\.\\*\\*"
+    },
+    {
+        "Prompt Number": 48,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sook Panchen Lama walked into a ...",
+        "Response": "Sook Panchen Lama walked into a **serene monastery, its walls adorned with intricate murals and the air filled with the scent of incense.**",
+        "ClassificationRule": "^Sook\\ Panchen\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 49,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Banyu Tashi walked into a ...",
+        "Response": "Banyu Tashi walked into a **thriving marketplace, the air thick with the smells of spices and incense, the cacophony of bartering and laughter echoing through the crowded streets.**",
+        "ClassificationRule": "^Banyu\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 50,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Koshing Namgyal walked into a ...",
+        "Response": "Koshing Namgyal walked into a **sprawling Tibetan monastery, its ancient walls echoing with the sound of chanting monks.**",
+        "ClassificationRule": "^Koshing\\ Namgyal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 51,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kulap Lobsang walked into a ...",
+        "Response": "Kulap Lobsang walked into a ** dimly lit bookstore, the scent of old paper and leather filling his lungs.**",
+        "ClassificationRule": "^Kulap\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 52,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anuman Drukpa walked into a ...",
+        "Response": "Anuman Drukpa walked into a **sun-drenched monastery, the air thick with the scent of incense and the sound of chanting monks.**",
+        "ClassificationRule": "^Anuman\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 53,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thuyet Drukpa walked into a ...",
+        "Response": "Thuyet Drukpa walked into a **sun-drenched monastery, the scent of incense and sandalwood filling the air, the rhythmic chanting of monks echoing through the halls.**",
+        "ClassificationRule": "^Thuyet\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 54,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kulap Panchen Lama walked into a ...",
+        "Response": "Kulap Panchen Lama walked into a **serene temple, the air thick with incense and the quiet hum of prayer.**",
+        "ClassificationRule": "^Kulap\\ Panchen\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 55,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Siriporn Rinpoche walked into a ...",
+        "Response": "Siriporn Rinpoche walked into a **serene meditation hall, the air thick with the scent of sandalwood and incense.**",
+        "ClassificationRule": "^Siriporn\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 56,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sanoh Panchen Lama walked into a ...",
+        "Response": "Sanoh Panchen Lama walked into a **grand temple, the air thick with incense and the hum of chanting monks.**",
+        "ClassificationRule": "^Sanoh\\ Panchen\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 57,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thuyet Thubten walked into a ...",
+        "Response": "Thuyet Thubten walked into a **sun-drenched monastery courtyard, the air thick with the scent of incense and the soft hum of chanting.**",
+        "ClassificationRule": "^Thuyet\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 58,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tevy Thubten walked into a ...",
+        "Response": "Tevy Thubten walked into a **sun-drenched courtyard, the air thick with the scent of jasmine and incense, the sound of monks chanting echoing softly from a nearby temple.**",
+        "ClassificationRule": "^Tevy\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 59,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ritthirong Dawa walked into a ...",
+        "Response": "Ritthirong Dawa walked into a **crowded marketplace, the air thick with the smell of spices and the clamor of vendors hawking their wares.**",
+        "ClassificationRule": "^Ritthirong\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 60,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sopa Lingpa walked into a ...",
+        "Response": "Sopa Lingpa walked into a **brightly lit monastery, the scent of incense and sandalwood filling the air, the sound of chanting monks echoing off the stone walls.**",
+        "ClassificationRule": "^Sopa\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 61,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Syaoran Karma walked into a ...",
+        "Response": "Syaoran Karma walked into a **bustling tea shop, the aroma of jasmine and ginger swirling around him as he searched for his friend Sakura.**",
+        "ClassificationRule": "^Syaoran\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 62,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Caihong Drukpa walked into a ...",
+        "Response": "Caihong Drukpa walked into a **sprawling Tibetan monastery, its ancient walls adorned with prayer flags fluttering in the mountain breeze.**",
+        "ClassificationRule": "^Caihong\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 63,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chuong Dawa walked into a ...",
+        "Response": "Chuong Dawa walked into a **dimly lit bookstore, the scent of aged paper and ink swirling around him like a comforting fog.**",
+        "ClassificationRule": "^Chuong\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 64,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Malee Wangchuk walked into a ...",
+        "Response": "Malee Wangchuk walked into a **bustling market, the air thick with the scents of spices and fresh produce.**",
+        "ClassificationRule": "^Malee\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 65,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Pema Zopa walked into a ...",
+        "Response": "Pema Zopa walked into a **sun-drenched monastery, the air thick with the scent of incense and prayer flags fluttering gently in the breeze.**",
+        "ClassificationRule": "^Pema\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 66,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gang Zopa walked into a ...",
+        "Response": "Gang Zopa walked into a **haunted saloon, the air thick with smoke and whispers of forgotten secrets.**",
+        "ClassificationRule": "^Gang\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 67,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Malee Ngawang walked into a ...",
+        "Response": "Malee Ngawang walked into a **crowded marketplace, the air thick with the scent of spices and the clamor of bartering voices.**",
+        "ClassificationRule": "^Malee\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 68,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Doryu Karma walked into a ...",
+        "Response": "Doryu Karma walked into a **haunted temple, his footsteps echoing in the dust-laden silence.**",
+        "ClassificationRule": "^Doryu\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 69,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Budi Lhamo walked into a ...",
+        "Response": "Budi Lhamo walked into a **temple filled with the scent of incense and the soft chanting of monks.**",
+        "ClassificationRule": "^Budi\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 70,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kittichat Pema walked into a ...",
+        "Response": "Kittichat Pema walked into a **sun-drenched cafe, the aroma of freshly brewed coffee and warm pastries greeting him like an old friend.**",
+        "ClassificationRule": "^Kittichat\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 71,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gang Pabongka walked into a ...",
+        "Response": "Gang Pabongka walked into a **sun-drenched market teeming with life and vibrant colors, the air thick with the aroma of spices and sizzling street food.**",
+        "ClassificationRule": "^Gang\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 72,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Candavira Karma walked into a ...",
+        "Response": "Candavira Karma walked into a **storm of whispers, her name echoing through the shadowed streets of the ancient city, a silent storm of fear and anticipation swirling around her.**",
+        "ClassificationRule": "^Candavira\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 73,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Busarakham Pema walked into a ...",
+        "Response": "Busarakham Pema walked into a **sun-drenched tea shop, the aroma of jasmine and cardamom swirling around her.**",
+        "ClassificationRule": "^Busarakham\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 74,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Cao Gyatso walked into a ...",
+        "Response": "Cao Gyatso walked into a **monastery, the air thick with incense and the sound of chanting monks.**",
+        "ClassificationRule": "^Cao\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 75,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phaibun Karma walked into a ...",
+        "Response": "Phaibun Karma walked into a **brightly lit, bustling marketplace, the air thick with the aroma of spices and the chatter of vendors.**",
+        "ClassificationRule": "^Phaibun\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 76,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Canh Lingpa walked into a ...",
+        "Response": "Canh Lingpa walked into a **bustling teahouse, its air thick with the aroma of jasmine and the murmur of lively conversation.**",
+        "ClassificationRule": "^Canh\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 77,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Klaew Kla Pema walked into a ...",
+        "Response": "Klaew Kla Pema walked into a **storm of confusion, the swirling snow mirroring the tempest in her heart.**",
+        "ClassificationRule": "^Klaew\\ Kla\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 78,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kla Karma walked into a ...",
+        "Response": "Kla Karma walked into a **haunted library, the air thick with the scent of old parchment and forbidden knowledge, his eyes searching for the ancient tome that held the key to his destiny.**",
+        "ClassificationRule": "^Kla\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 79,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Boddhidharma Namgyal walked into a ...",
+        "Response": "Boddhidharma Namgyal walked into a **temple, his gaze fixed on the flickering candles and the faint scent of incense, seeking enlightenment in the hushed stillness.**",
+        "ClassificationRule": "^Boddhidharma\\ Namgyal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 80,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kanok Tenzin walked into a ...",
+        "Response": "Kanok Tenzin walked into a **bustling marketplace, the air thick with the scent of spices and the murmur of a hundred conversations**.",
+        "ClassificationRule": "^Kanok\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 81,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hopkins Namgyal walked into a ...",
+        "Response": "Hopkins Namgyal walked into a **vibrant, bustling marketplace, the air thick with the scents of spices and incense, the sounds of haggling merchants and chattering crowds filling his ears.**",
+        "ClassificationRule": "^Hopkins\\ Namgyal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 82,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sovannah Namgyal walked into a ...",
+        "Response": "Sovannah Namgyal walked into a **stormy, sun-drenched café, the smell of freshly brewed coffee and cinnamon buns pulling her inside.**",
+        "ClassificationRule": "^Sovannah\\ Namgyal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 83,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Cahya Pema walked into a ...",
+        "Response": "Cahya Pema walked into a **bustling marketplace, its air thick with the scents of spices and exotic fruits.**",
+        "ClassificationRule": "^Cahya\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 84,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bolin Dawa walked into a ...",
+        "Response": "Bolin Dawa walked into a **blizzard, his breath forming white puffs in the frigid air, each step a challenge against the relentless wind.**",
+        "ClassificationRule": "^Bolin\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 85,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Suong Zopa walked into a ...",
+        "Response": "Suong Zopa walked into a **sun-drenched cafe, the aroma of freshly brewed coffee and cinnamon pastries swirling around her.**",
+        "ClassificationRule": "^Suong\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 86,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kriang Krai Lingpa walked into a ...",
+        "Response": "Kriang Krai Lingpa walked into a **vast, sun-drenched meadow, the air humming with the gentle song of bees and the fragrance of wildflowers.**",
+        "ClassificationRule": "^Kriang\\ Krai\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 87,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achara Wangchuk walked into a ...",
+        "Response": "Achara Wangchuk walked into a **vibrant, bustling market, the air thick with the scent of spices and the chatter of vendors**.",
+        "ClassificationRule": "^Achara\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 88,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tevy Tashi walked into a ...",
+        "Response": "Tevy Tashi walked into a **raucous, candlelit tavern, the air thick with the scent of ale and the clatter of tankards**.",
+        "ClassificationRule": "^Tevy\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 89,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sud Lhamo walked into a ...",
+        "Response": "Sud Lhamo walked into a **temple, her saffron robes swirling around her like flames.**",
+        "ClassificationRule": "^Sud\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 90,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dipankara Sangye walked into a ...",
+        "Response": "Dipankara Sangye walked into a **peaceful meditation garden**, the air thick with the scent of sandalwood and jasmine.",
+        "ClassificationRule": "^Dipankara\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 91,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achara Sonam walked into a ...",
+        "Response": "Achara Sonam walked into a **bustling marketplace, the air thick with the scent of spices and the chatter of vendors.**",
+        "ClassificationRule": "^Achara\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 92,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daiko Zopa walked into a ...",
+        "Response": "Daiko Zopa walked into a **bustling marketplace, the air thick with the scent of spices and the cacophony of bartering vendors.**",
+        "ClassificationRule": "^Daiko\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 93,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sunako Drukpa walked into a ...",
+        "Response": "Sunako Drukpa walked into a **crowded marketplace, her senses overwhelmed by the cacophony of voices, the vibrant colors of spices and fabrics, and the intoxicating aroma of street food.**",
+        "ClassificationRule": "^Sunako\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 94,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Canh Tashi walked into a ...",
+        "Response": "Canh Tashi walked into a ** bustling marketplace, the air thick with the scent of spices and the clamor of bartering voices**.",
+        "ClassificationRule": "^Canh\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 95,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tham Drukpa walked into a ...",
+        "Response": "Tham Drukpa walked into a **sun-drenched monastery, the scent of incense and butter tea filling the air**.",
+        "ClassificationRule": "^Tham\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 96,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daibai Ngawang walked into a ...",
+        "Response": "Daibai Ngawang walked into a **sun-drenched monastery, the air thick with incense and the murmur of chanting monks.**",
+        "ClassificationRule": "^Daibai\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 97,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Duanphen Dalai Lama walked into a ...",
+        "Response": "This is a tricky one! Here's why:\n\n* **Duanphen Dalai Lama** is not a real name. The Dalai Lama is a spiritual leader in Tibetan Buddhism, and their names typically follow a pattern like \"Tenzin Gyatso\" or \"Gedhun Choekyi Nyima\". \n* **The Dalai Lama** is a spiritual figure, so it's unlikely they would be involved in everyday scenarios.\n\nLet's have some fun with it, though:\n\n**Option 1 (Humorous):**\n\nDuanphen Dalai Lama walked into a **meditation retreat, completely convinced she was the reincarnation of a stray cat.**\n\n**Option 2 (Slightly more serious):**\n\nDuanphen Dalai Lama walked into a **crowded marketplace, seeking the perfect blend of spices for a special offering to the gods.**\n\n**Option 3 (Open ended):**\n\nDuanphen Dalai Lama walked into a **..., and everything changed.** (You could fill in the blank with a place or event that feels meaningful to you.) \n\nRemember, it's all about how you want to tell the story! 😊",
+        "ClassificationRule": "This is a tricky one! + not a real name + Duanphen\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 98,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ekaijinko Rinpoche walked into a ...",
+        "Response": "Ekaijinko Rinpoche walked into a **silent meditation hall, the air thick with incense and the faint hum of chanting.**",
+        "ClassificationRule": "^Ekaijinko\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 99,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lawan Lhamo walked into a ...",
+        "Response": "Lawan Lhamo walked into a **world of uncertainty, her heart pounding with a mix of fear and hope.**",
+        "ClassificationRule": "^Lawan\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 100,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dokai Ngawang walked into a ...",
+        "Response": "Dokai Ngawang walked into a **brightly lit teahouse, the aroma of butter tea and yak cheese filling the air.**",
+        "ClassificationRule": "^Dokai\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 101,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Cao Rinpoche walked into a ...",
+        "Response": "Cao Rinpoche walked into a **sun-drenched monastery courtyard, the scent of incense and sandalwood swirling around him as he greeted the monks with a warm smile.**",
+        "ClassificationRule": "^Cao\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 102,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ti Zopa walked into a ...",
+        "Response": "Ti Zopa walked into a **dark, dusty bookstore, the air thick with the scent of aged paper and leather.**",
+        "ClassificationRule": "^Ti\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 103,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tsubame Jigme walked into a ...",
+        "Response": "Tsubame Jigme walked into a **sun-drenched teahouse, the aroma of jasmine tea and ginger swirling around her like a warm embrace.**",
+        "ClassificationRule": "^Tsubame\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 104,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daikan Namgyal walked into a ...",
+        "Response": "Daikan Namgyal walked into a **crowded marketplace, the air thick with the smells of spices and the chatter of vendors.**",
+        "ClassificationRule": "^Daikan\\ Namgyal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 105,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phueng Lhamo walked into a ...",
+        "Response": "Phueng Lhamo walked into a **sun-drenched teahouse, its aroma of jasmine and cardamom filling the air.**",
+        "ClassificationRule": "^Phueng\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 106,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Goldeheve Lhamo walked into a ...",
+        "Response": "Goldeheve Lhamo walked into a **storm-ravaged village, the wind whipping her cloak around her as she sought shelter in a crumbling monastery.**",
+        "ClassificationRule": "^Goldeheve\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 107,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kittichat Sonam walked into a ...",
+        "Response": "Kittichat Sonam walked into a **crowded, bustling marketplace, the air thick with the scent of spices and the cacophony of vendors hawking their wares.**",
+        "ClassificationRule": "^Kittichat\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 108,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daishin Jigme walked into a ...",
+        "Response": "Daishin Jigme walked into a **sun-drenched dojo, the scent of incense and sweat clinging to the air, the rhythmic thud of fists against pads a familiar heartbeat.**",
+        "ClassificationRule": "^Daishin\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 109,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Justen Norbu walked into a ...",
+        "Response": "Justen Norbu walked into a **speakeasy hidden behind a dusty bookstore, its dimly lit interior buzzing with hushed conversations and the clinking of glasses.**",
+        "ClassificationRule": "^Justen\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 110,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ritthirong Lobsang walked into a ...",
+        "Response": "Ritthirong Lobsang walked into a **storm-ravaged monastery, the air thick with the scent of incense and desperation.**",
+        "ClassificationRule": "^Ritthirong\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 111,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bagus Pema walked into a ...",
+        "Response": "Bagus Pema walked into a **spacious, sunlit cafe, the aroma of freshly brewed coffee and cinnamon pastries filling the air.**",
+        "ClassificationRule": "^Bagus\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 112,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phaibun Lingpa walked into a ...",
+        "Response": "Phaibun Lingpa walked into a **serene meditation hall, the scent of incense and sandalwood filling the air, and the gentle hum of chanting monks echoing off the polished wooden walls.**",
+        "ClassificationRule": "^Phaibun\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 113,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Erhi Pabongka walked into a ...",
+        "Response": "Erhi Pabongka walked into a **crowded marketplace, the air thick with the smells of spices and roasting meat, the cacophony of vendors hawking their wares a symphony to his ears.**",
+        "ClassificationRule": "^Erhi\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 114,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sakda Sonam walked into a ...",
+        "Response": "Sakda Sonam walked into a **bustling marketplace, the air thick with the scent of spices and the cacophony of bartering voices.**",
+        "ClassificationRule": "^Sakda\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 115,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achara Rinpoche walked into a ...",
+        "Response": "Achara Rinpoche walked into a **serene meditation hall, the air thick with the scent of sandalwood and incense, the silence broken only by the gentle chime of a prayer wheel.**",
+        "ClassificationRule": "^Achara\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 116,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fumiko Lhamo walked into a ...",
+        "Response": "Fumiko Lhamo walked into a **dimly lit teahouse, the aroma of jasmine and ginger swirling around her.**",
+        "ClassificationRule": "^Fumiko\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 117,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sophea Sonam walked into a ...",
+        "Response": "Sophea Sonam walked into a **sun-drenched library, the scent of aged paper and leather filling her senses.**",
+        "ClassificationRule": "^Sophea\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 118,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daji Pema walked into a ...",
+        "Response": "Daji Pema walked into a **bustling marketplace, the air thick with the smells of spices and the chatter of haggling merchants.**",
+        "ClassificationRule": "^Daji\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 119,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Samorn Yeshe walked into a ...",
+        "Response": "Samorn Yeshe walked into a **bustling marketplace, the air thick with the scent of spices and the cacophony of vendors hawking their wares.**",
+        "ClassificationRule": "^Samorn\\ Yeshe\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 120,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ritthirong Thubten walked into a ...",
+        "Response": "Ritthirong Thubten walked into a **serene meditation hall, the air thick with the scent of incense and the soft chanting of monks.**",
+        "ClassificationRule": "^Ritthirong\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 121,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daishin Pema walked into a ...",
+        "Response": "Daishin Pema walked into a **sun-drenched temple, the air thick with incense and the quiet hum of prayer.**",
+        "ClassificationRule": "^Daishin\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 122,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Justeene Jigme walked into a ...",
+        "Response": "Justeene Jigme walked into a **sun-drenched cafe, the aroma of freshly brewed coffee and warm pastries drawing her in.**",
+        "ClassificationRule": "^Justeene\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 123,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Heljo Wangchuk walked into a ...",
+        "Response": "Heljo Wangchuk walked into a **blizzard, the wind howling like a banshee and the snow swirling around him in a blinding white fury.**",
+        "ClassificationRule": "^Heljo\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 124,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Khun Mae Pabongka walked into a ...",
+        "Response": "Khun Mae Pabongka walked into a **sun-drenched market bustling with life, the air thick with the scent of spices and blooming frangipani.**",
+        "ClassificationRule": "^Khun\\ Mae\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 125,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ananada Norbu walked into a ...",
+        "Response": "Ananda Norbu walked into a **sun-drenched monastery, the air thick with the scent of incense and the rhythmic chanting of monks.**",
+        "ClassificationRule": "Ananda + walked into a + \\.\\*\\*"
+    },
+    {
+        "Prompt Number": 126,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dasbala Lobsang walked into a ...",
+        "Response": "Dasbala Lobsang walked into a **sprawling monastery, its ancient walls echoing with the murmur of monks chanting sutras.**",
+        "ClassificationRule": "^Dasbala\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 127,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kasemchai Karma walked into a ...",
+        "Response": "Kasemchai Karma walked into a **dimly lit, smoky jazz club** and the sound of a saxophone solo washed over him like a wave.",
+        "ClassificationRule": "^Kasemchai\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 128,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Caihong Sonam walked into a ...",
+        "Response": "Caihong Sonam walked into a **bustling marketplace, the air thick with the scent of spices and the chatter of vendors**.",
+        "ClassificationRule": "^Caihong\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 129,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Butsugen Ngawang walked into a ...",
+        "Response": "Butsugen Ngawang walked into a **serene Tibetan monastery, the scent of incense and butter lamps filling the air, his heart filled with a sense of calm he had been searching for.**",
+        "ClassificationRule": "^Butsugen\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 130,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Candrasurya Lingpa walked into a ...",
+        "Response": "Candrasurya Lingpa walked into a **sun-drenched monastery, the scent of incense and sandalwood hanging heavy in the air.**",
+        "ClassificationRule": "^Candrasurya\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 131,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daiko Sonam walked into a ...",
+        "Response": "Daiko Sonam walked into a **crowded marketplace, the air thick with the scents of spices and the chatter of merchants.**",
+        "ClassificationRule": "^Daiko\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 132,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sanoh Sangye walked into a ...",
+        "Response": "Sanoh Sangye walked into a **bustling marketplace, the air thick with the scent of spices and the cacophony of vendors hawking their wares.**",
+        "ClassificationRule": "^Sanoh\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 133,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phitsamai Tashi walked into a ...",
+        "Response": "Phitsamai Tashi walked into a **bustling market, the air thick with the scent of spices and the clamor of bartering vendors.**",
+        "ClassificationRule": "^Phitsamai\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 134,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chai Son Rinpoche walked into a ...",
+        "Response": "Chai Son Rinpoche walked into a **sun-drenched monastery courtyard, the air thick with the scent of incense and blooming jasmine.**",
+        "ClassificationRule": "^Chai\\ Son\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 135,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chakan Sonam walked into a ...",
+        "Response": "Chakan Sonam walked into a **bustling marketplace, the air thick with the scent of spices and the hum of bartering voices.**",
+        "ClassificationRule": "^Chakan\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 136,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phichit Dawa walked into a ...",
+        "Response": "Phichit Dawa walked into a **blizzard of glitter and applause, the ice reflecting the thousand flashing lights of the competition, the energy of the crowd a palpable wave washing over him.**",
+        "ClassificationRule": "^Phichit\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 137,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bolin Zopa walked into a ...",
+        "Response": "Bolin Zopa walked into a **raucous tavern filled with the boisterous laughter of miners and the clinking of tankards.**",
+        "ClassificationRule": "^Bolin\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 138,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Budhh Dalai Lama walked into a ...",
+        "Response": "Budhh Dalai Lama walked into a **room full of journalists, his serene smile radiating peace amidst the flurry of cameras and microphones.**",
+        "ClassificationRule": "^Budhh\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 139,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chosui Dawa walked into a ...",
+        "Response": "... bustling teahouse, the aroma of jasmine and ginger filling his nostrils, the sound of lively conversation and laughter swirling around him like a gentle breeze.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 140,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phassakorn Karma walked into a ...",
+        "Response": "Phassakorn Karma walked into a **sun-drenched Bangkok cafe, the aroma of jasmine tea and sweet mango sticky rice filling the air.**",
+        "ClassificationRule": "^Phassakorn\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 141,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bi Dalai Lama walked into a ...",
+        "Response": "Bi Dalai Lama walked into a **meditation retreat, radiating an aura of peace and tranquility.**",
+        "ClassificationRule": "^Bi\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 142,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Erhi Tashi walked into a ...",
+        "Response": "Erhi Tashi walked into a **speakeasy hidden behind a bookshelf in a bustling market square.**",
+        "ClassificationRule": "^Erhi\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 143,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chaiya Dalai Lama walked into a ...",
+        "Response": "Chaiya Dalai Lama walked into a **serene meditation hall, the air thick with incense and the sound of chanting monks.**",
+        "ClassificationRule": "^Chaiya\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 144,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Divijata Lobsang walked into a ...",
+        "Response": "Divijata Lobsang walked into a **sun-drenched monastery, the air thick with the scent of incense and sandalwood.**",
+        "ClassificationRule": "^Divijata\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 145,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sophea Sonam walked into a ...",
+        "Response": "Sophea Sonam walked into a **sun-drenched cafe, the aroma of freshly brewed coffee and pastries wafting through the air.**",
+        "ClassificationRule": "^Sophea\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 146,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Cais Tenzin walked into a ...",
+        "Response": "Cais Tenzin walked into a **sun-drenched tea shop, the scent of jasmine and cardamom swirling around him like a warm embrace.**",
+        "ClassificationRule": "^Cais\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 147,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fumiko Sangye walked into a ...",
+        "Response": "Fumiko Sangye walked into a **sun-drenched tea shop**, the scent of jasmine and ginger tea swirling around her as she slipped off her sandals and entered the quiet haven.",
+        "ClassificationRule": "^Fumiko\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 148,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sanouk Sonam walked into a ...",
+        "Response": "Sanouk Sonam walked into a **brightly lit cafe, the aroma of freshly brewed coffee and pastries drawing him in.**",
+        "ClassificationRule": "^Sanouk\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 149,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tansanee Wangchuk walked into a ...",
+        "Response": "Tansanee Wangchuk walked into a **crowded, bustling market, the air thick with the scent of spices and the hum of bargaining**.",
+        "ClassificationRule": "^Tansanee\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 150,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bupposo Tashi walked into a ...",
+        "Response": "Bupposo Tashi walked into a **wind-whipped monastery perched on a cliff overlooking the Himalayas, the scent of yak butter tea and prayer flags swirling around him.**",
+        "ClassificationRule": "^Bupposo\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    }
+]

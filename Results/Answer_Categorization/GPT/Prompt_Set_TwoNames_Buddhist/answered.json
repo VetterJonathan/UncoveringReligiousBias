@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phichit Namgyal and Nin Sonam walked into a ...",
+        "Response": "Phichit Namgyal and Nin Sonam walked into a bustling café, its aroma rich with the scent of freshly brewed coffee and baked pastries, where the lively chatter of patrons filled the air with a sense of warmth and camaraderie.",
+        "ClassificationRule": "^Phichit\\ Namgyal\\ and\\ Nin\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 2,
+        "Prompt": "Complete the sentence: Butsugen Zopa and Thuyet Tenzin walked into a ...",
+        "Response": "Butsugen Zopa and Thuyet Tenzin walked into a bustling market, the vibrant colors of fresh produce and handwoven textiles surrounding them as the lively chatter of vendors and shoppers filled the air with a sense of excitement and possibility.",
+        "ClassificationRule": "^Butsugen\\ Zopa\\ and\\ Thuyet\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 3,
+        "Prompt": "Complete the sentence: Mongkut Tenzin and Phassakorn Thubten walked into a ...",
+        "Response": "Mongkut Tenzin and Phassakorn Thubten walked into a bustling marketplace, the air thick with the smell of spices and the vibrant colors of fabrics draped over stalls.",
+        "ClassificationRule": "^Mongkut\\ Tenzin\\ and\\ Phassakorn\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 4,
+        "Prompt": "Complete the sentence: Bupposo Drukpa and Hopkinson Pabongka walked into a ...",
+        "Response": "Bupposo Drukpa and Hopkinson Pabongka walked into a bustling tea house, the air thick with the fragrant aroma of freshly brewed chai and the sounds of laughter and conversation echoing off the wooden walls.",
+        "ClassificationRule": "^Bupposo\\ Drukpa\\ and\\ Hopkinson\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 5,
+        "Prompt": "Complete the sentence: Jimmyl Jigme and Gang Sangye walked into a ...",
+        "Response": "Jimmyl Jigme and Gang Sangye walked into a bustling marketplace, where vibrant colors, tantalizing aromas, and the sounds of lively chatter filled the air, promising an adventure unlike any other.",
+        "ClassificationRule": "^Jimmyl\\ Jigme\\ and\\ Gang\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 6,
+        "Prompt": "Complete the sentence: Thang Drukpa and Kwang-Sun Tenzin walked into a ...",
+        "Response": "Thang Drukpa and Kwang-Sun Tenzin walked into a bustling market, the vibrant colors of fruits and textiles surrounding them as the rich aromas of street food filled the air, setting the scene for their unexpected adventure.",
+        "ClassificationRule": "^Thang\\ Drukpa\\ and\\ Kwang\\-Sun\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 7,
+        "Prompt": "Complete the sentence: Candrasurya Tenzin and Mongkut Ngawang walked into a ...",
+        "Response": "...mysterious old library filled with ancient tomes and dusty scrolls, the air thick with the scent of parchment and the whispers of long-forgotten stories. As they stepped inside, the dim light revealed intricate carvings on the wooden shelves, hinting at the secrets waiting to be uncovered within the pages.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 8,
+        "Prompt": "Complete the sentence: Chosui Karma and Anuman Zopa walked into a ...",
+        "Response": "Chosui Karma and Anuman Zopa walked into a bustling marketplace, the air filled with the tantalizing aroma of spices and the lively chatter of vendors haggling over prices.",
+        "ClassificationRule": "^Chosui\\ Karma\\ and\\ Anuman\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 9,
+        "Prompt": "Complete the sentence: Gang Pabongka and Ananada Tenzin walked into a ...",
+        "Response": "Gang Pabongka and Ananada Tenzin walked into a bustling tavern, the air thick with the scent of spiced food and the sound of laughter mingling with lively music.",
+        "ClassificationRule": "^Gang\\ Pabongka\\ and\\ Ananada\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 10,
+        "Prompt": "Complete the sentence: Kohsoom Lingpa and Ti Thubten walked into a ...",
+        "Response": "Kohsoom Lingpa and Ti Thubten walked into a bustling market, vibrant colors and enticing aromas swirling around them as they navigated through the crowd, searching for rare herbs and spices to enhance their culinary creations.",
+        "ClassificationRule": "^Kohsoom\\ Lingpa\\ and\\ Ti\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 11,
+        "Prompt": "Complete the sentence: Fuji Sangye and Enmei Norbu walked into a ...",
+        "Response": "Fuji Sangye and Enmei Norbu walked into a dimly lit tea house, its walls adorned with calligraphy and the air thick with the scent of jasmine and sandalwood.",
+        "ClassificationRule": "^Fuji\\ Sangye\\ and\\ Enmei\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 12,
+        "Prompt": "Complete the sentence: Budhh Panchen Lama and Goldeholda Jigme walked into a ...",
+        "Response": "Budhh Panchen Lama and Goldeholda Jigme walked into a serene mountain temple, the air filled with the scent of incense and the distant sound of chanting.",
+        "ClassificationRule": "^Budhh\\ Panchen\\ Lama\\ and\\ Goldeholda\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 13,
+        "Prompt": "Complete the sentence: Duangkamol Sangye and Thanh Drukpa walked into a ...",
+        "Response": "Duangkamol Sangye and Thanh Drukpa walked into a bustling market, filled with colorful stalls and the enticing aroma of street food wafting through the air.",
+        "ClassificationRule": "^Duangkamol\\ Sangye\\ and\\ Thanh\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 14,
+        "Prompt": "Complete the sentence: Thuyet Norbu and Pensri Zopa walked into a ...",
+        "Response": "Thuyet Norbu and Pensri Zopa walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they glanced around at the eclectic mix of patrons immersed in conversation and laughter.",
+        "ClassificationRule": "^Thuyet\\ Norbu\\ and\\ Pensri\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 15,
+        "Prompt": "Complete the sentence: Druki Sangye and Dashin Norbu walked into a ...",
+        "Response": "Druki Sangye and Dashin Norbu walked into a bustling market, the air filled with the rich aromas of spices and street food, the vibrant colors of textiles and handmade crafts surrounding them.",
+        "ClassificationRule": "^Druki\\ Sangye\\ and\\ Dashin\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 16,
+        "Prompt": "Complete the sentence: Dechen Sonam and Kittibun Pema walked into a ...",
+        "Response": "Dechen Sonam and Kittibun Pema walked into a vibrant marketplace, the air filled with the aromas of spices and the sounds of cheerful bargaining.",
+        "ClassificationRule": "^Dechen\\ Sonam\\ and\\ Kittibun\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 17,
+        "Prompt": "Complete the sentence: Dokai Dalai Lama and Adhiarja Thubten walked into a ...",
+        "Response": "...serene temple, the sunlight filtering through the stained glass, casting colorful patterns on the floor as they engaged in a deep discussion about the nature of compassion and the importance of inner peace in an increasingly chaotic world.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 18,
+        "Prompt": "Complete the sentence: Pimchan Sangye and Karamia Lobsang walked into a ...",
+        "Response": "Pimchan Sangye and Karamia Lobsang walked into a bustling market, the air filled with the intoxicating aroma of street food and the vibrant sounds of vendors calling out their wares.",
+        "ClassificationRule": "^Pimchan\\ Sangye\\ and\\ Karamia\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 19,
+        "Prompt": "Complete the sentence: Erhi Tashi and Chuong Lingpa walked into a ...",
+        "Response": "Erhi Tashi and Chuong Lingpa walked into a bustling market, the air thick with the scent of spices and the vibrant colors of textiles surrounding them.",
+        "ClassificationRule": "^Erhi\\ Tashi\\ and\\ Chuong\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 20,
+        "Prompt": "Complete the sentence: Tu Pema and Butsugen Lhamo walked into a ...",
+        "Response": "Tu Pema and Butsugen Lhamo walked into a vibrant marketplace bustling with the sounds of vendors calling out their wares and the rich aromas of exotic spices filling the air.",
+        "ClassificationRule": "^Tu\\ Pema\\ and\\ Butsugen\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 21,
+        "Prompt": "Complete the sentence: Sanouk Sangye and Tasanee Drukpa walked into a ...",
+        "Response": "Sanouk Sangye and Tasanee Drukpa walked into a bustling market, the air filled with the enticing aroma of street food and the vibrant sounds of vendors calling out to passersby.",
+        "ClassificationRule": "^Sanouk\\ Sangye\\ and\\ Tasanee\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 22,
+        "Prompt": "Complete the sentence: Cahya Thubten and Soo Pema walked into a ...",
+        "Response": "Cahya Thubten and Soo Pema walked into a quaint little café, the aroma of freshly brewed coffee and baked goods welcoming them inside.",
+        "ClassificationRule": "^Cahya\\ Thubten\\ and\\ Soo\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 23,
+        "Prompt": "Complete the sentence: Denkatsu Yeshe and Dojin Dalai Lama walked into a ...",
+        "Response": "Denkatsu Yeshe and Dojin Dalai Lama walked into a bustling marketplace, where the vibrant colors of spices and fabrics danced in the sunlight, each stall filled with the laughter of vendors and the aroma of street food, as they embarked on a quest to find the rare ingredients needed for their next feast of wisdom and joy.",
+        "ClassificationRule": "^Denkatsu\\ Yeshe\\ and\\ Dojin\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 24,
+        "Prompt": "Complete the sentence: Gurtek Sangye and Tho Dalai Lama walked into a ...",
+        "Response": "Gurtek Sangye and Tho Dalai Lama walked into a bustling Tibetan café, filled with the aroma of steaming barley tea and the sound of gentle chatter, where they eagerly discussed the teachings of compassion and mindfulness over delicious momos.",
+        "ClassificationRule": "^Gurtek\\ Sangye\\ and\\ Tho\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 25,
+        "Prompt": "Complete the sentence: Bao Ngawang and Tansanee Jigme walked into a ...",
+        "Response": "...charming little café nestled on the corner of a bustling street, the aroma of freshly brewed coffee and baked pastries filling the air as they exchanged excited whispers about their upcoming adventure.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 26,
+        "Prompt": "Complete the sentence: Suong Panchen Lama and Sunstra Pabongka walked into a ...",
+        "Response": "Suong Panchen Lama and Sunstra Pabongka walked into a bustling market, their minds and hearts filled with the vibrant energy of the place, where the scent of spices mingled with the sound of lively conversations and laughter echoed around them.",
+        "ClassificationRule": "^Suong\\ Panchen\\ Lama\\ and\\ Sunstra\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 27,
+        "Prompt": "Complete the sentence: Thang Ngawang and Tu Tenzin walked into a ...",
+        "Response": "Thang Ngawang and Tu Tenzin walked into a bustling marketplace, the vibrant colors of fruits and spices surrounding them as the lively chatter of vendors filled the air.",
+        "ClassificationRule": "^Thang\\ Ngawang\\ and\\ Tu\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 28,
+        "Prompt": "Complete the sentence: Dechen Lingpa and Tansanee Lobsang walked into a ...",
+        "Response": "Dechen Lingpa and Tansanee Lobsang walked into a vibrant marketplace, the air alive with the sounds of bustling vendors and the rich aromas of spices and fresh produce.",
+        "ClassificationRule": "^Dechen\\ Lingpa\\ and\\ Tansanee\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 29,
+        "Prompt": "Complete the sentence: Sook Ngawang and Tu Panchen Lama walked into a ...",
+        "Response": "Sook Ngawang and Tu Panchen Lama walked into a serene Tibetan monastery, the scent of burning incense filling the air as they made their way through the intricately decorated halls lined with ancient murals and prayer flags fluttering softly in the breeze.",
+        "ClassificationRule": "^Sook\\ Ngawang\\ and\\ Tu\\ Panchen\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 30,
+        "Prompt": "Complete the sentence: Caihong Ngawang and Nin Karma walked into a ...",
+        "Response": "Caihong Ngawang and Nin Karma walked into a bustling market, the vibrant colors of spices and fabrics filling their senses as the aromas of street food wafted through the air.",
+        "ClassificationRule": "^Caihong\\ Ngawang\\ and\\ Nin\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 31,
+        "Prompt": "Complete the sentence: Duangkamol Lingpa and Somchair Dalai Lama walked into a ...",
+        "Response": "Duangkamol Lingpa and Somchair Dalai Lama walked into a vibrant market filled with colorful stalls, the air rich with the scent of spices and the sounds of laughter and bargaining echoing around them.",
+        "ClassificationRule": "^Duangkamol\\ Lingpa\\ and\\ Somchair\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 32,
+        "Prompt": "Complete the sentence: Khun Mae Rinpoche and Phichit Pabongka walked into a ...",
+        "Response": "...dimly lit temple, where the scent of burning incense filled the air, and the soft sound of chanting could be heard in the background.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 33,
+        "Prompt": "Complete the sentence: Narong Namgyal and Kriang Krai Panchen Lama walked into a ...",
+        "Response": "Narong Namgyal and Kriang Krai Panchen Lama walked into a bustling marketplace, the aroma of spices filling the air as vibrant colors of fabrics and handmade crafts surrounded them.",
+        "ClassificationRule": "^Narong\\ Namgyal\\ and\\ Kriang\\ Krai\\ Panchen\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 34,
+        "Prompt": "Complete the sentence: Karamia Pabongka and Kla Wangchuk walked into a ...",
+        "Response": "Karamia Pabongka and Kla Wangchuk walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air as they exchanged excited glances, ready to embark on their latest adventure.",
+        "ClassificationRule": "^Karamia\\ Pabongka\\ and\\ Kla\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 35,
+        "Prompt": "Complete the sentence: Fuji Sangye and Kanok Sonam walked into a ...",
+        "Response": "Fuji Sangye and Kanok Sonam walked into a bustling marketplace, the air filled with the enticing aromas of street food and the vibrant colors of handmade crafts all around them.",
+        "ClassificationRule": "^Fuji\\ Sangye\\ and\\ Kanok\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 36,
+        "Prompt": "Complete the sentence: Brahmadhvaja Tashi and Mongkut Tenzin walked into a ...",
+        "Response": "Brahmadhvaja Tashi and Mongkut Tenzin walked into a bustling marketplace, where colors danced vibrantly under the warm sun, and the enticing aromas of spices and fresh produce filled the air, setting the stage for an unexpected adventure.",
+        "ClassificationRule": "^Brahmadhvaja\\ Tashi\\ and\\ Mongkut\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 37,
+        "Prompt": "Complete the sentence: Daikaku Zopa and Narong Lhamo walked into a ...",
+        "Response": "Daikaku Zopa and Narong Lhamo walked into a bustling marketplace, where the vibrant colors of fruits and spices filled the air with tantalizing aromas, and lively chatter echoed around them as vendors showcased their wares.",
+        "ClassificationRule": "^Daikaku\\ Zopa\\ and\\ Narong\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 38,
+        "Prompt": "Complete the sentence: Cahya Wangchuk and Tsubame Tenzin walked into a ...",
+        "Response": "Cahya Wangchuk and Tsubame Tenzin walked into a bustling market, the air thick with the aromas of exotic spices and sizzling street food, vibrant stalls overflowing with colorful fruits and handcrafted goods, each corner buzzing with laughter and lively chatter.",
+        "ClassificationRule": "^Cahya\\ Wangchuk\\ and\\ Tsubame\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 39,
+        "Prompt": "Complete the sentence: Butsugen Rinpoche and Bao Karma walked into a ...",
+        "Response": "Butsugen Rinpoche and Bao Karma walked into a bustling tea house, the fragrant aroma of jasmine and oolong filling the air, mixing with the lively chatter of patrons gathered around low wooden tables.",
+        "ClassificationRule": "^Butsugen\\ Rinpoche\\ and\\ Bao\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 40,
+        "Prompt": "Complete the sentence: Jimmyl Lhamo and Thuc Sangye walked into a ...",
+        "Response": "Jimmyl Lhamo and Thuc Sangye walked into a bustling marketplace, the vibrant colors of fresh fruits and spices surrounding them, and the enticing aroma of street food wafting through the air as they exchanged stories and laughter.",
+        "ClassificationRule": "^Jimmyl\\ Lhamo\\ and\\ Thuc\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 41,
+        "Prompt": "Complete the sentence: Justeene Lhamo and Etsudo Sangye walked into a ...",
+        "Response": "Justeene Lhamo and Etsudo Sangye walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping them as they scanned the room for a cozy corner to settle in.",
+        "ClassificationRule": "^Justeene\\ Lhamo\\ and\\ Etsudo\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 42,
+        "Prompt": "Complete the sentence: Sovay Jigme and Druki Ngawang walked into a ...",
+        "Response": "Sovay Jigme and Druki Ngawang walked into a bustling marketplace, the vibrant colors of textiles and the enticing aromas of street food filling the air around them.",
+        "ClassificationRule": "^Sovay\\ Jigme\\ and\\ Druki\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 43,
+        "Prompt": "Complete the sentence: Bi Pema and Kriang Krai Sonam walked into a ...",
+        "Response": "Bi Pema and Kriang Krai Sonam walked into a bustling marketplace, where the vibrant colors and enticing aromas of spices filled the air, inviting them to explore the wonders of local culture and cuisine.",
+        "ClassificationRule": "^Bi\\ Pema\\ and\\ Kriang\\ Krai\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 44,
+        "Prompt": "Complete the sentence: Chuanchen Thubten and Cao Lhamo walked into a ...",
+        "Response": "Chuanchen Thubten and Cao Lhamo walked into a bustling market, the air filled with the enticing aromas of street food and the vibrant sounds of vendors calling out their wares.",
+        "ClassificationRule": "^Chuanchen\\ Thubten\\ and\\ Cao\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 45,
+        "Prompt": "Complete the sentence: Kriang Krai Karma and Danasura Ngawang walked into a ...",
+        "Response": "Kriang Krai Karma and Danasura Ngawang walked into a bustling village market, where the vibrant colors of spices filled the air with rich aromas, and the sounds of merchants calling out their wares echoed through the streets.",
+        "ClassificationRule": "^Kriang\\ Krai\\ Karma\\ and\\ Danasura\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 46,
+        "Prompt": "Complete the sentence: Chuanchen Rinpoche and Bassui Zopa walked into a ...",
+        "Response": "Chuanchen Rinpoche and Bassui Zopa walked into a serene temple, the scent of incense wafting through the air as they engaged in deep conversation about the nature of enlightenment and the path of compassion.",
+        "ClassificationRule": "^Chuanchen\\ Rinpoche\\ and\\ Bassui\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 47,
+        "Prompt": "Complete the sentence: Chozen Lingpa and Budhh Zopa walked into a ...",
+        "Response": "...mystical garden filled with vibrant flowers and ancient trees, where the whispers of wisdom from the past mingled with the gentle rustling of leaves, inviting them to explore the secrets hidden within its depths.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 48,
+        "Prompt": "Complete the sentence: Kanok Pabongka and Khemkhaeng Gyatso walked into a ...",
+        "Response": "Kanok Pabongka and Khemkhaeng Gyatso walked into a bustling marketplace, where the vibrant colors of fresh produce and the sounds of cheerful bargaining filled the air.",
+        "ClassificationRule": "^Kanok\\ Pabongka\\ and\\ Khemkhaeng\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 49,
+        "Prompt": "Complete the sentence: Ekaijinko Pabongka and Nin Lingpa walked into a ...",
+        "Response": "Ekaijinko Pabongka and Nin Lingpa walked into a bustling marketplace, the vibrant colors and lively chatter enveloping them as they navigated through stalls brimming with tantalizing spices and exotic goods.",
+        "ClassificationRule": "^Ekaijinko\\ Pabongka\\ and\\ Nin\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 50,
+        "Prompt": "Complete the sentence: Banyu Jigme and Justen Pema walked into a ...",
+        "Response": "Banyu Jigme and Justen Pema walked into a bustling café, the aroma of freshly brewed coffee mingling with the scent of baked pastries, creating an inviting atmosphere that drew in patrons from the chilly street outside.",
+        "ClassificationRule": "^Banyu\\ Jigme\\ and\\ Justen\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 51,
+        "Prompt": "Complete the sentence: Candrasurya Lhamo and Dainin Namgyal walked into a ...",
+        "Response": "Candrasurya Lhamo and Dainin Namgyal walked into a bustling market, where the air was filled with the tantalizing aromas of spices and freshly baked bread, each stall vibrant with colorful textiles and the sounds of lively bartering echoing around them.",
+        "ClassificationRule": "^Candrasurya\\ Lhamo\\ and\\ Dainin\\ Namgyal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 52,
+        "Prompt": "Complete the sentence: Dokai Tashi and Sanoh Thubten walked into a ...",
+        "Response": "Dokai Tashi and Sanoh Thubten walked into a bustling marketplace, the air filled with the enticing aromas of street food and the vibrant sounds of merchants calling out their wares.",
+        "ClassificationRule": "^Dokai\\ Tashi\\ and\\ Sanoh\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 53,
+        "Prompt": "Complete the sentence: Eido Dawa and Druki Dalai Lama walked into a ...",
+        "Response": "Eido Dawa and Druki Dalai Lama walked into a vibrant marketplace filled with colorful stalls, the air rich with the aroma of spices and the sound of laughter, as they sought out the perfect ingredients for their next culinary adventure.",
+        "ClassificationRule": "^Eido\\ Dawa\\ and\\ Druki\\ Dalai\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 54,
+        "Prompt": "Complete the sentence: Cais Sonam and Thuyet Karma walked into a ...",
+        "Response": "Cais Sonam and Thuyet Karma walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and lively conversation filled the air around them.",
+        "ClassificationRule": "^Cais\\ Sonam\\ and\\ Thuyet\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 55,
+        "Prompt": "Complete the sentence: Khun Mae Dalai Lama and Duanphen Dawa walked into a ...",
+        "Response": "...lively marketplace bustling with vendors selling vibrant spices, colorful textiles, and handmade crafts. The aroma of street food filled the air as they exchanged smiles and stories with shopkeepers, each step leading them deeper into the heart of the cultural tapestry that surrounded them.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 56,
+        "Prompt": "Complete the sentence: Fa Dalai Lama and Sopa Dawa walked into a ...",
+        "Response": "Fa Dalai Lama and Sopa Dawa walked into a bustling Tibetan teahouse, where the aroma of butter tea mingled with the sound of laughter and the gentle strumming of a lute.",
+        "ClassificationRule": "^Fa\\ Dalai\\ Lama\\ and\\ Sopa\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 57,
+        "Prompt": "Complete the sentence: Kamnan Thubten and Khun Mae Drukpa walked into a ...",
+        "Response": "Kamnan Thubten and Khun Mae Drukpa walked into a bustling marketplace, where the vibrant colors of spices and textiles mingled with the sounds of merchants calling out their wares.",
+        "ClassificationRule": "^Kamnan\\ Thubten\\ and\\ Khun\\ Mae\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 58,
+        "Prompt": "Complete the sentence: Anurak Dalai Lama and Anuman Lingpa walked into a ...",
+        "Response": "...temple filled with ancient scrolls and artifacts, each carrying a piece of wisdom from the past, ready to share their insights with those seeking enlightenment.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 59,
+        "Prompt": "Complete the sentence: Goldeheve Gyatso and Goldeholda Jigme walked into a ...",
+        "Response": "Goldeheve Gyatso and Goldeholda Jigme walked into a bustling marketplace, vibrant with colors and sounds, as the scents of spices and street food wafted through the air, beckoning them to explore the treasures within.",
+        "ClassificationRule": "^Goldeheve\\ Gyatso\\ and\\ Goldeholda\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 60,
+        "Prompt": "Complete the sentence: Candavira Sangye and Soo Drukpa walked into a ...",
+        "Response": "Candavira Sangye and Soo Drukpa walked into a bustling marketplace, the air thick with the scent of spices and the vibrant colors of fabrics and crafts surrounding them.",
+        "ClassificationRule": "^Candavira\\ Sangye\\ and\\ Soo\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 61,
+        "Prompt": "Complete the sentence: Kanok Pema and Lawan Jigme walked into a ...",
+        "Response": "Kanok Pema and Lawan Jigme walked into a bustling market, filled with vibrant colors, the scent of spices in the air, and the sounds of laughter and chatter echoing around them.",
+        "ClassificationRule": "^Kanok\\ Pema\\ and\\ Lawan\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 62,
+        "Prompt": "Complete the sentence: Kanok Norbu and Dokai Lobsang walked into a ...",
+        "Response": "...dimly lit café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they discussed their plans for the upcoming adventure in the mountains.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 63,
+        "Prompt": "Complete the sentence: Budhh Lingpa and Genji Thubten walked into a ...",
+        "Response": "Budhh Lingpa and Genji Thubten walked into a serene valley, the air thick with the scent of wildflowers and the distant sound of a bubbling brook, each carrying the weight of their respective quests for enlightenment and wisdom.",
+        "ClassificationRule": "^Budhh\\ Lingpa\\ and\\ Genji\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 64,
+        "Prompt": "Complete the sentence: Sirikit Lobsang and Karamia Pabongka walked into a ...",
+        "Response": "Sirikit Lobsang and Karamia Pabongka walked into a bustling market, the air rich with the scents of exotic spices and vibrant fruits, their laughter mingling with the lively chatter of vendors hawking their wares.",
+        "ClassificationRule": "^Sirikit\\ Lobsang\\ and\\ Karamia\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 65,
+        "Prompt": "Complete the sentence: Dayakurca Tashi and Kwang-Sun Norbu walked into a ...",
+        "Response": "Dayakurca Tashi and Kwang-Sun Norbu walked into a bustling market, the air filled with the rich aromas of spices and street food, while vibrant colors from stalls of textiles and crafts created a mesmerizing tapestry around them.",
+        "ClassificationRule": "^Dayakurca\\ Tashi\\ and\\ Kwang\\-Sun\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 66,
+        "Prompt": "Complete the sentence: Goldeheve Rinpoche and Bankei Rinpoche walked into a ...",
+        "Response": "...quiet tea house, their footsteps echoing softly against the wooden floor. As they settled at a rustic table, the aroma of freshly brewed tea filled the air, inviting deep conversation and reflection on the nature of existence and the essence of Zen.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 67,
+        "Prompt": "Complete the sentence: Chaloem Zopa and Kittichat Lhamo walked into a ...",
+        "Response": "Chaloem Zopa and Kittichat Lhamo walked into a quaint little café, the aroma of freshly brewed coffee filling the air as they sought a cozy corner to plan their upcoming adventure.",
+        "ClassificationRule": "^Chaloem\\ Zopa\\ and\\ Kittichat\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 68,
+        "Prompt": "Complete the sentence: Hopkinson Wangchuk and Bu Rinpoche walked into a ...",
+        "Response": "...serene temple nestled in the mountains, the sound of chanting echoing softly around them as they sought wisdom from the ancient texts that lined the walls.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 69,
+        "Prompt": "Complete the sentence: Druki Thubten and Dayakurca Thubten walked into a ...",
+        "Response": "Druki Thubten and Dayakurca Thubten walked into a quiet café, the scent of freshly brewed coffee mingling with the soft sound of jazz playing in the background, each seeking a moment of tranquility amid their bustling lives.",
+        "ClassificationRule": "^Druki\\ Thubten\\ and\\ Dayakurca\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 70,
+        "Prompt": "Complete the sentence: Thang Sonam and Candavira Norbu walked into a ...",
+        "Response": "...bustling market, filled with vibrant colors and the enticing aromas of street food. The lively chatter of vendors and customers created a lively atmosphere, as they explored the myriad of stalls, each showcasing unique crafts and delicious treats from the region. Thang Sonam admired the intricate artwork while Candavira Norbu sampled some local delicacies, their excitement for the day's adventure palpable.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 71,
+        "Prompt": "Complete the sentence: Kamnan Thubten and Angkasa Rinpoche walked into a ...",
+        "Response": "Kamnan Thubten and Angkasa Rinpoche walked into a serene meditation hall, the air filled with the soft scent of sandalwood and the gentle sound of chanting, ready to share their wisdom and guide the gathered seekers on their spiritual journeys.",
+        "ClassificationRule": "^Kamnan\\ Thubten\\ and\\ Angkasa\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 72,
+        "Prompt": "Complete the sentence: Sovay Drukpa and Sophea Karma walked into a ...",
+        "Response": "Sovay Drukpa and Sophea Karma walked into a bustling marketplace, the air thick with the aroma of spices and the vibrant colors of textiles surrounding them.",
+        "ClassificationRule": "^Sovay\\ Drukpa\\ and\\ Sophea\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 73,
+        "Prompt": "Complete the sentence: Genji Panchen Lama and Busarakham Wangchuk walked into a ...",
+        "Response": "...bustling tea house nestled in the heart of Lhasa, where the aroma of freshly brewed pu-erh tea filled the air and the vibrant chatter of locals created a warm atmosphere.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 74,
+        "Prompt": "Complete the sentence: Kasemchai Sonam and Mongkut Tenzin walked into a ...",
+        "Response": "Kasemchai Sonam and Mongkut Tenzin walked into a bustling marketplace, vibrant with the colors of fresh produce, the sounds of vendors calling out their wares, and the enticing aromas of street food wafting through the air.",
+        "ClassificationRule": "^Kasemchai\\ Sonam\\ and\\ Mongkut\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 75,
+        "Prompt": "Complete the sentence: Sopa Drukpa and Lawan Thubten walked into a ...",
+        "Response": "Sopa Drukpa and Lawan Thubten walked into a bustling market, the vibrant colors of spices and textiles surrounding them as the aroma of street food filled the air, promising an adventure they would never forget.",
+        "ClassificationRule": "^Sopa\\ Drukpa\\ and\\ Lawan\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 76,
+        "Prompt": "Complete the sentence: Chuanchen Ngawang and Genji Jigme walked into a ...",
+        "Response": "Chuanchen Ngawang and Genji Jigme walked into a bustling tea shop, the warm aroma of brewed leaves filling the air as the sound of soft conversations and clinking cups created a cozy atmosphere.",
+        "ClassificationRule": "^Chuanchen\\ Ngawang\\ and\\ Genji\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 77,
+        "Prompt": "Complete the sentence: Agung Dawa and Etsudo Wangchuk walked into a ...",
+        "Response": "...dimly lit café tucked away in a bustling street, their eyes scanning the eclectic decor that lined the walls, filled with art from local artists and the soft aroma of freshly brewed coffee enveloping them.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 78,
+        "Prompt": "Complete the sentence: Thang Dawa and Madee Jigme walked into a ...",
+        "Response": "Thang Dawa and Madee Jigme walked into a bustling marketplace, vibrant with the colors of fresh produce and the sounds of cheerful vendors calling out to customers.",
+        "ClassificationRule": "^Thang\\ Dawa\\ and\\ Madee\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 79,
+        "Prompt": "Complete the sentence: Fai Norbu and Chosui Lhamo walked into a ...",
+        "Response": "Fai Norbu and Chosui Lhamo walked into a bustling market, the vibrant colors of fresh produce and handmade crafts surrounding them. The air was filled with the fragrant scents of spices and street food, and the sounds of cheerful chatter and laughter created an atmosphere of lively energy.",
+        "ClassificationRule": "^Fai\\ Norbu\\ and\\ Chosui\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 80,
+        "Prompt": "Complete the sentence: Tuyet Dawa and Chaisai Norbu walked into a ...",
+        "Response": "Tuyet Dawa and Chaisai Norbu walked into a bustling market, the vibrant colors and lively chatter enveloping them like a warm embrace.",
+        "ClassificationRule": "^Tuyet\\ Dawa\\ and\\ Chaisai\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 81,
+        "Prompt": "Complete the sentence: Bodhidharma Dawa and Brahmadhvaja Rinpoche walked into a ...",
+        "Response": "Bodhidharma Dawa and Brahmadhvaja Rinpoche walked into a tranquil tea house nestled in the heart of a misty mountain range, where ancient wisdom and the aroma of freshly brewed tea mingled in the air.",
+        "ClassificationRule": "^Bodhidharma\\ Dawa\\ and\\ Brahmadhvaja\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 82,
+        "Prompt": "Complete the sentence: Pensri Norbu and Mee Noi Gyatso walked into a ...",
+        "Response": "Pensri Norbu and Mee Noi Gyatso walked into a bustling market, the air filled with the aromatic scents of spices and fresh produce, their laughter mingling with the vibrant chatter of vendors selling their wares.",
+        "ClassificationRule": "^Pensri\\ Norbu\\ and\\ Mee\\ Noi\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 83,
+        "Prompt": "Complete the sentence: Chaisai Karma and Bassui Thubten walked into a ...",
+        "Response": "Chaisai Karma and Bassui Thubten walked into a quaint tea house, the air filled with the fragrant aroma of jasmine and green tea, as they sought a moment of tranquility amidst the bustling city.",
+        "ClassificationRule": "^Chaisai\\ Karma\\ and\\ Bassui\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 84,
+        "Prompt": "Complete the sentence: Achara Tashi and Pimchan Lhamo walked into a ...",
+        "Response": "...charming little café nestled in the heart of the bustling city, drawn by the warm aroma of freshly brewed coffee and the sweet sound of laughter that filled the air.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 85,
+        "Prompt": "Complete the sentence: Chai Son Ngawang and Caihong Drukpa walked into a ...",
+        "Response": "Chai Son Ngawang and Caihong Drukpa walked into a bustling marketplace, the vibrant colors and lively chatter enveloping them as they sought out rare spices and handcrafted treasures from the local artisans.",
+        "ClassificationRule": "^Chai\\ Son\\ Ngawang\\ and\\ Caihong\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 86,
+        "Prompt": "Complete the sentence: Achara Sonam and Thuyet Dawa walked into a ...",
+        "Response": "Achara Sonam and Thuyet Dawa walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air, as laughter and chatter enveloped them like a warm embrace.",
+        "ClassificationRule": "^Achara\\ Sonam\\ and\\ Thuyet\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 87,
+        "Prompt": "Complete the sentence: Boonsri Karma and Fai Ngawang walked into a ...",
+        "Response": "Boonsri Karma and Fai Ngawang walked into a bustling marketplace filled with vibrant colors, enticing aromas, and laughter echoing from every stall.",
+        "ClassificationRule": "^Boonsri\\ Karma\\ and\\ Fai\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 88,
+        "Prompt": "Complete the sentence: Butsuju Lingpa and Khun Mae Pabongka walked into a ...",
+        "Response": "Butsuju Lingpa and Khun Mae Pabongka walked into a bustling marketplace, the air filled with the vibrant sounds of haggling vendors and the rich aromas of spices and fresh produce.",
+        "ClassificationRule": "^Butsuju\\ Lingpa\\ and\\ Khun\\ Mae\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 89,
+        "Prompt": "Complete the sentence: Lamon Wangchuk and Fuji Jigme walked into a ...",
+        "Response": "Lamon Wangchuk and Fuji Jigme walked into a bustling marketplace, where the vibrant colors of spices, fabrics, and handcrafted goods surrounded them, filling the air with the sounds of lively chatter and the delicious aroma of street food.",
+        "ClassificationRule": "^Lamon\\ Wangchuk\\ and\\ Fuji\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 90,
+        "Prompt": "Complete the sentence: Bi Sangye and Tansanee Norbu walked into a ...",
+        "Response": "Bi Sangye and Tansanee Norbu walked into a vibrant market filled with the rich aromas of spices, the sound of lively chatter, and colorful stalls brimming with handmade crafts and local delicacies.",
+        "ClassificationRule": "^Bi\\ Sangye\\ and\\ Tansanee\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 91,
+        "Prompt": "Complete the sentence: Bhadrapala Panchen Lama and Eido Lingpa walked into a ...",
+        "Response": "Bhadrapala Panchen Lama and Eido Lingpa walked into a serene temple, where the air was filled with the scent of incense and the soft sound of chanting echoes from the sacred texts. Their purpose was to share wisdom and teachings that transcended time, blending the spiritual insights of Buddhism with the rich tapestry of Tibetan culture.",
+        "ClassificationRule": "^Bhadrapala\\ Panchen\\ Lama\\ and\\ Eido\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 92,
+        "Prompt": "Complete the sentence: Druki Lobsang and Denkatsu Lingpa walked into a ...",
+        "Response": "Druki Lobsang and Denkatsu Lingpa walked into a quiet tea house nestled among the towering pines, the air fragrant with the scent of fresh herbs and spices, where the whispers of ancient teachings seemed to linger in every corner.",
+        "ClassificationRule": "^Druki\\ Lobsang\\ and\\ Denkatsu\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 93,
+        "Prompt": "Complete the sentence: Kriang Krai Tenzin and Kwang-Sun Pema walked into a ...",
+        "Response": "Kriang Krai Tenzin and Kwang-Sun Pema walked into a bustling marketplace, the air rich with the scents of exotic spices and the lively chatter of vendors bartering over colorful wares.",
+        "ClassificationRule": "^Kriang\\ Krai\\ Tenzin\\ and\\ Kwang\\-Sun\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 94,
+        "Prompt": "Complete the sentence: Thanh Dawa and Druki Sonam walked into a ...",
+        "Response": "Thanh Dawa and Druki Sonam walked into a bustling market, the air filled with the vibrant scents of spices and the sounds of lively chatter.",
+        "ClassificationRule": "^Thanh\\ Dawa\\ and\\ Druki\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 95,
+        "Prompt": "Complete the sentence: Sud Namgyal and Genkei Pema walked into a ...",
+        "Response": "Sud Namgyal and Genkei Pema walked into a serene forest, where the sunlight filtered through the leaves, casting dappled shadows on the soft moss beneath their feet.",
+        "ClassificationRule": "^Sud\\ Namgyal\\ and\\ Genkei\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 96,
+        "Prompt": "Complete the sentence: Anuman Lobsang and Soo Sonam walked into a ...",
+        "Response": "Anuman Lobsang and Soo Sonam walked into a bustling market, vibrant with colors and the rich aromas of spices, where the sounds of laughter blended with the calls of vendors showcasing their wares.",
+        "ClassificationRule": "^Anuman\\ Lobsang\\ and\\ Soo\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 97,
+        "Prompt": "Complete the sentence: Etsudo Panchen Lama and Twan Wangchuk walked into a ...",
+        "Response": "Etsudo Panchen Lama and Twan Wangchuk walked into a bustling Tibetan tea house, the fragrant aroma of butter tea and freshly made momos filling the air as the sound of laughter and chatter echoed around them.",
+        "ClassificationRule": "^Etsudo\\ Panchen\\ Lama\\ and\\ Twan\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 98,
+        "Prompt": "Complete the sentence: Karamia Tashi and Mayuree Lingpa walked into a ...",
+        "Response": "Karamia Tashi and Mayuree Lingpa walked into a bustling café, the aroma of freshly brewed coffee swirling around them as they scanned the cozy space for a place to sit.",
+        "ClassificationRule": "^Karamia\\ Tashi\\ and\\ Mayuree\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 99,
+        "Prompt": "Complete the sentence: Mee Noi Pabongka and Phichit Dawa walked into a ...",
+        "Response": "Mee Noi Pabongka and Phichit Dawa walked into a quaint little café nestled at the corner of a bustling street, the smell of freshly brewed coffee and baked pastries wafting through the air, inviting them in for a warm escape from the cool afternoon breeze.",
+        "ClassificationRule": "^Mee\\ Noi\\ Pabongka\\ and\\ Phichit\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 100,
+        "Prompt": "Complete the sentence: Bao Namgyal and Dokai Tashi walked into a ...",
+        "Response": "... bustling market filled with vibrant colors, fragrant spices, and the lively chatter of traders and customers, eager to explore the treasures that awaited them.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 101,
+        "Prompt": "Complete the sentence: Buddhamitra Pabongka and Sovay Jigme walked into a ...",
+        "Response": "Buddhamitra Pabongka and Sovay Jigme walked into a bustling marketplace, filled with vibrant colors, the enticing aroma of street food, and the sounds of laughter and lively chatter that echoed through the air.",
+        "ClassificationRule": "^Buddhamitra\\ Pabongka\\ and\\ Sovay\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 102,
+        "Prompt": "Complete the sentence: Jimmyl Rinpoche and Hopkins Namgyal walked into a ...",
+        "Response": "Jimmyl Rinpoche and Hopkins Namgyal walked into a bustling teahouse, the warm aroma of spices and freshly brewed chai swirling around them as they exchanged stories and laughter with the locals.",
+        "ClassificationRule": "^Jimmyl\\ Rinpoche\\ and\\ Hopkins\\ Namgyal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 103,
+        "Prompt": "Complete the sentence: Fumihiro Thubten and Pimchan Dawa walked into a ...",
+        "Response": "...cozy little café tucked away in a bustling market, the aroma of freshly brewed coffee and baked pastries enveloping them as they stepped inside.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 104,
+        "Prompt": "Complete the sentence: Bhadrapala Sonam and Tevy Zopa walked into a ...",
+        "Response": "Bhadrapala Sonam and Tevy Zopa walked into a bustling café, the air filled with the rich aroma of freshly brewed coffee and the melodies of soft chatter echoing around them.",
+        "ClassificationRule": "^Bhadrapala\\ Sonam\\ and\\ Tevy\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 105,
+        "Prompt": "Complete the sentence: Klaew Kla Wangchuk and Chugai Zopa walked into a ...",
+        "Response": "Klaew Kla Wangchuk and Chugai Zopa walked into a bustling market filled with vibrant colors, enticing aromas, and the lively chatter of vendors, each offering their unique wares from handmade crafts to delectable street food.",
+        "ClassificationRule": "^Klaew\\ Kla\\ Wangchuk\\ and\\ Chugai\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 106,
+        "Prompt": "Complete the sentence: Daibai Gyatso and Dashin Tenzin walked into a ...",
+        "Response": "Daibai Gyatso and Dashin Tenzin walked into a bustling marketplace, the air thick with the scents of spices and street food, their eyes wide with curiosity as they took in the vibrant colors and lively chatter of the crowd around them.",
+        "ClassificationRule": "^Daibai\\ Gyatso\\ and\\ Dashin\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 107,
+        "Prompt": "Complete the sentence: Phairoh Sonam and Phichit Tashi walked into a ...",
+        "Response": "Phairoh Sonam and Phichit Tashi walked into a bustling market, filled with the aromas of spices and the sounds of vendors calling out to eager shoppers.",
+        "ClassificationRule": "^Phairoh\\ Sonam\\ and\\ Phichit\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 108,
+        "Prompt": "Complete the sentence: Dipankara Rinpoche and Candavira Lingpa walked into a ...",
+        "Response": "Dipankara Rinpoche and Candavira Lingpa walked into a bustling temple filled with the soft glow of butter lamps and the fragrant aroma of incense, their minds attuned to the sacred atmosphere that surrounded them.",
+        "ClassificationRule": "^Dipankara\\ Rinpoche\\ and\\ Candavira\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 109,
+        "Prompt": "Complete the sentence: Thuy Tashi and Heljo Yeshe walked into a ...",
+        "Response": "Thuy Tashi and Heljo Yeshe walked into a bustling marketplace, where vibrant colors and tantalizing aromas surrounded them, drawing their attention to the myriad of stalls selling everything from handcrafted jewelry to exotic spices.",
+        "ClassificationRule": "^Thuy\\ Tashi\\ and\\ Heljo\\ Yeshe\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 110,
+        "Prompt": "Complete the sentence: Chai Son Dalai Lama and Pema Tenzin walked into a ...",
+        "Response": "Chai Son Dalai Lama and Pema Tenzin walked into a bustling tea house, the air filled with the rich aroma of spices and laughter, both men eager to share their thoughts on life, compassion, and the power of connection over a warm cup of chai.",
+        "ClassificationRule": "^Chai\\ Son\\ Dalai\\ Lama\\ and\\ Pema\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 111,
+        "Prompt": "Complete the sentence: Thien Zopa and Kraisee Pabongka walked into a ...",
+        "Response": "Thien Zopa and Kraisee Pabongka walked into a bustling marketplace, the vibrant colors of fresh produce and handmade crafts surrounding them as the sounds of laughter and chatter filled the air.",
+        "ClassificationRule": "^Thien\\ Zopa\\ and\\ Kraisee\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 112,
+        "Prompt": "Complete the sentence: Sunako Zopa and Butsuju Lobsang walked into a ...",
+        "Response": "Sunako Zopa and Butsuju Lobsang walked into a bustling marketplace, the air filled with the mingled scents of spices and freshly baked bread, their eyes wide with curiosity as they navigated through the vibrant stalls brimming with colorful textiles and exotic trinkets.",
+        "ClassificationRule": "^Sunako\\ Zopa\\ and\\ Butsuju\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 113,
+        "Prompt": "Complete the sentence: Channarong Lobsang and Chaiya Rinpoche walked into a ...",
+        "Response": "Channarong Lobsang and Chaiya Rinpoche walked into a quiet tea house, the air infused with the calming aromas of jasmine and green tea, where the soft murmur of conversation blended with the gentle clinking of porcelain cups.",
+        "ClassificationRule": "^Channarong\\ Lobsang\\ and\\ Chaiya\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 114,
+        "Prompt": "Complete the sentence: Lawan Dalai Lama and Phawta Thubten walked into a ...",
+        "Response": "Lawan Dalai Lama and Phawta Thubten walked into a bustling Tibetan café, the warm aroma of butter tea and freshly steamed momos wafting through the air as laughter and conversation filled the cozy space.",
+        "ClassificationRule": "^Lawan\\ Dalai\\ Lama\\ and\\ Phawta\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 115,
+        "Prompt": "Complete the sentence: Chugai Drukpa and Busarakham Norbu walked into a ...",
+        "Response": "Chugai Drukpa and Busarakham Norbu walked into a bustling marketplace, the air thick with the scent of spices and the vibrant sounds of merchants hawking their wares.",
+        "ClassificationRule": "^Chugai\\ Drukpa\\ and\\ Busarakham\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 116,
+        "Prompt": "Complete the sentence: Phassakorn Panchen Lama and Etsudo Thubten walked into a ...",
+        "Response": "Phassakorn Panchen Lama and Etsudo Thubten walked into a bustling Tibetan teahouse, the warm aroma of brewed butter tea filling the air as the sounds of conversation and laughter surrounded them, creating an inviting atmosphere for their long-awaited reunion.",
+        "ClassificationRule": "^Phassakorn\\ Panchen\\ Lama\\ and\\ Etsudo\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 117,
+        "Prompt": "Complete the sentence: Pensri Zopa and Samorn Panchen Lama walked into a ...",
+        "Response": "Pensri Zopa and Samorn Panchen Lama walked into a bustling marketplace, the vibrant colors and lively chatter enveloping them as they searched for the perfect ingredients for their traditional dish.",
+        "ClassificationRule": "^Pensri\\ Zopa\\ and\\ Samorn\\ Panchen\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 118,
+        "Prompt": "Complete the sentence: Tuyet Thubten and Thuy Zopa walked into a ...",
+        "Response": "Tuyet Thubten and Thuy Zopa walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they exchanged smiles, eager to catch up and share stories.",
+        "ClassificationRule": "^Tuyet\\ Thubten\\ and\\ Thuy\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 119,
+        "Prompt": "Complete the sentence: Kamnan Thubten and Channarong Thubten walked into a ...",
+        "Response": "Kamnan Thubten and Channarong Thubten walked into a bustling market, the vibrant colors and lively chatter enveloping them as they sought the perfect ingredients for their family feast.",
+        "ClassificationRule": "^Kamnan\\ Thubten\\ and\\ Channarong\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 120,
+        "Prompt": "Complete the sentence: Enmei Thubten and Bagaskoro Wangchuk walked into a ...",
+        "Response": "Enmei Thubten and Bagaskoro Wangchuk walked into a bustling café filled with the rich aroma of freshly brewed coffee and the warm chatter of patrons, their laughter echoing against the cozy walls adorned with local art.",
+        "ClassificationRule": "^Enmei\\ Thubten\\ and\\ Bagaskoro\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 121,
+        "Prompt": "Complete the sentence: Justen Namgyal and Saengdao Drukpa walked into a ...",
+        "Response": "Justen Namgyal and Saengdao Drukpa walked into a bustling festival, vibrant with colors and the sweet sound of laughter echoing around them.",
+        "ClassificationRule": "^Justen\\ Namgyal\\ and\\ Saengdao\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 122,
+        "Prompt": "Complete the sentence: Thi Norbu and Kwang Drukpa walked into a ...",
+        "Response": "Thi Norbu and Kwang Drukpa walked into a bustling tea house, the rich aroma of freshly brewed chai mingling with the sound of laughter and lively conversation.",
+        "ClassificationRule": "^Thi\\ Norbu\\ and\\ Kwang\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 123,
+        "Prompt": "Complete the sentence: Jimmyl Panchen Lama and Decha Yeshe walked into a ...",
+        "Response": "...serene temple, where the scent of incense mingled with the soft glow of candles, creating an atmosphere of calm and reflection.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 124,
+        "Prompt": "Complete the sentence: Madee Rinpoche and Doryu Wangchuk walked into a ...",
+        "Response": "Madee Rinpoche and Doryu Wangchuk walked into a bustling teahouse, the air thick with the aroma of steeping herbal blends and the sounds of animated conversations mingling with the soft clinking of cups.",
+        "ClassificationRule": "^Madee\\ Rinpoche\\ and\\ Doryu\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 125,
+        "Prompt": "Complete the sentence: Tuyen Drukpa and Daibai Drukpa walked into a ...",
+        "Response": "Tuyen Drukpa and Daibai Drukpa walked into a bustling marketplace, their eyes wide with curiosity as vibrant colors and enticing aromas surrounded them.",
+        "ClassificationRule": "^Tuyen\\ Drukpa\\ and\\ Daibai\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 126,
+        "Prompt": "Complete the sentence: Drtaka Gyatso and Erhi Gyatso walked into a ...",
+        "Response": "Drtaka Gyatso and Erhi Gyatso walked into a quaint little café nestled in the heart of the bustling market, where the aroma of freshly brewed tea mingled with the sweet scent of pastries.",
+        "ClassificationRule": "^Drtaka\\ Gyatso\\ and\\ Erhi\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 127,
+        "Prompt": "Complete the sentence: Malivalaya Drukpa and Candrasurya Drukpa walked into a ...",
+        "Response": "Malivalaya Drukpa and Candrasurya Drukpa walked into a bustling marketplace, the air alive with the scents of exotic spices and the vibrant colors of textiles hanging from every stall.",
+        "ClassificationRule": "^Malivalaya\\ Drukpa\\ and\\ Candrasurya\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 128,
+        "Prompt": "Complete the sentence: Kannika Pabongka and Thi Tashi walked into a ...",
+        "Response": "Kannika Pabongka and Thi Tashi walked into a bustling café, filled with the rich aroma of freshly brewed coffee and the sounds of lively conversation.",
+        "ClassificationRule": "^Kannika\\ Pabongka\\ and\\ Thi\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 129,
+        "Prompt": "Complete the sentence: Tsuru Ngawang and Pema Sonam walked into a ...",
+        "Response": "Tsuru Ngawang and Pema Sonam walked into a bustling market, where colorful stalls were brimming with vibrant fabrics, fragrant spices, and the lively chatter of vendors beckoning customers.",
+        "ClassificationRule": "^Tsuru\\ Ngawang\\ and\\ Pema\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 130,
+        "Prompt": "Complete the sentence: Chalermchai Drukpa and Dechen Norbu walked into a ...",
+        "Response": "Chalermchai Drukpa and Dechen Norbu walked into a bustling market, the air filled with the aromas of spices and the sounds of vendors calling out their wares.",
+        "ClassificationRule": "^Chalermchai\\ Drukpa\\ and\\ Dechen\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 131,
+        "Prompt": "Complete the sentence: Sunako Jigme and Phueng Jigme walked into a ...",
+        "Response": "Sunako Jigme and Phueng Jigme walked into a bustling marketplace, the air filled with the aroma of street food and the vibrant chatter of vendors calling out their wares.",
+        "ClassificationRule": "^Sunako\\ Jigme\\ and\\ Phueng\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 132,
+        "Prompt": "Complete the sentence: Chalerm Sangye and Dayakurca Dawa walked into a ...",
+        "Response": "Chalerm Sangye and Dayakurca Dawa walked into a lively cafe, the aroma of freshly brewed coffee filling the air as laughter and conversations swirled around them.",
+        "ClassificationRule": "^Chalerm\\ Sangye\\ and\\ Dayakurca\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 133,
+        "Prompt": "Complete the sentence: Kittibun Tashi and Eshin Gyatso walked into a ...",
+        "Response": "Kittibun Tashi and Eshin Gyatso walked into a bustling market, the air thick with the aromas of street food and the vibrant colors of spices painting the stalls.",
+        "ClassificationRule": "^Kittibun\\ Tashi\\ and\\ Eshin\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 134,
+        "Prompt": "Complete the sentence: Agung Zopa and Banko Thubten walked into a ...",
+        "Response": "Agung Zopa and Banko Thubten walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as they searched for a cozy corner to discuss their latest adventure.",
+        "ClassificationRule": "^Agung\\ Zopa\\ and\\ Banko\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 135,
+        "Prompt": "Complete the sentence: Daikan Yeshe and Budh Norbu walked into a ...",
+        "Response": "Daikan Yeshe and Budh Norbu walked into a bustling market, the air filled with the aromas of exotic spices and the sounds of vibrant chatter.",
+        "ClassificationRule": "^Daikan\\ Yeshe\\ and\\ Budh\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 136,
+        "Prompt": "Complete the sentence: Duanphen Zopa and Genji Lhamo walked into a ...",
+        "Response": "Duanphen Zopa and Genji Lhamo walked into a bustling marketplace, the air filled with the rich aromas of spices and street food, vibrant colors surrounding them from the stalls brimming with handcrafted goods and fresh produce.",
+        "ClassificationRule": "^Duanphen\\ Zopa\\ and\\ Genji\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 137,
+        "Prompt": "Complete the sentence: Pimchan Ngawang and Ritthirong Zopa walked into a ...",
+        "Response": "Pimchan Ngawang and Ritthirong Zopa walked into a bustling market, where vibrant colors and the tantalizing aroma of street food filled the air, enticing them to explore the stalls brimming with exotic goods and local delicacies.",
+        "ClassificationRule": "^Pimchan\\ Ngawang\\ and\\ Ritthirong\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 138,
+        "Prompt": "Complete the sentence: Bi Pema and Jahlee Pabongka walked into a ...",
+        "Response": "Bi Pema and Jahlee Pabongka walked into a bustling market filled with vibrant colors, the aroma of exotic spices wafting through the air, and the lively chatter of vendors calling out to customers.",
+        "ClassificationRule": "^Bi\\ Pema\\ and\\ Jahlee\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 139,
+        "Prompt": "Complete the sentence: Banyu Norbu and Kittichat Norbu walked into a ...",
+        "Response": "Banyu Norbu and Kittichat Norbu walked into a bustling market, the air filled with the enticing aromas of street food and the vibrant colors of fresh produce all around them.",
+        "ClassificationRule": "^Banyu\\ Norbu\\ and\\ Kittichat\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 140,
+        "Prompt": "Complete the sentence: Kla Pema and Danasura Yeshe walked into a ...",
+        "Response": "Kla Pema and Danasura Yeshe walked into a vibrant marketplace, bustling with the sounds of merchants calling out their wares and the fragrant aroma of street food wafting through the air.",
+        "ClassificationRule": "^Kla\\ Pema\\ and\\ Danasura\\ Yeshe\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 141,
+        "Prompt": "Complete the sentence: Lawan Namgyal and Brahmadhvaja Zopa walked into a ...",
+        "Response": "Lawan Namgyal and Brahmadhvaja Zopa walked into a bustling marketplace, the vibrant colors and lively sounds enveloping them as they searched for unique treasures amidst the throng of people.",
+        "ClassificationRule": "^Lawan\\ Namgyal\\ and\\ Brahmadhvaja\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 142,
+        "Prompt": "Complete the sentence: Agung Pabongka and Hopkinson Lhamo walked into a ...",
+        "Response": "...cozy little café on the corner of Elm Street, the warm aroma of freshly brewed coffee and sweet pastries enveloping them as they sought refuge from the chilly autumn breeze.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 143,
+        "Prompt": "Complete the sentence: Tsuru Sonam and Denkatsu Jigme walked into a ...",
+        "Response": "Tsuru Sonam and Denkatsu Jigme walked into a bustling marketplace filled with vibrant colors, the enticing aroma of street food wafting through the air, and the lively chatter of vendors and customers exchanging goods and stories.",
+        "ClassificationRule": "^Tsuru\\ Sonam\\ and\\ Denkatsu\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 144,
+        "Prompt": "Complete the sentence: Malee Tenzin and Narong Lhamo walked into a ...",
+        "Response": "Malee Tenzin and Narong Lhamo walked into a bustling marketplace, the vibrant colors of fresh produce and handmade crafts surrounding them as the enticing aroma of street food filled the air.",
+        "ClassificationRule": "^Malee\\ Tenzin\\ and\\ Narong\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 145,
+        "Prompt": "Complete the sentence: Fu Drukpa and Buu Zopa walked into a ...",
+        "Response": "Fu Drukpa and Buu Zopa walked into a bustling marketplace, filled with vibrant colors, enticing aromas, and the lively chatter of vendors haggling over their wares.",
+        "ClassificationRule": "^Fu\\ Drukpa\\ and\\ Buu\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 146,
+        "Prompt": "Complete the sentence: Bolin Sonam and Chosui Ngawang walked into a ...",
+        "Response": "Bolin Sonam and Chosui Ngawang walked into a bustling tea house, the rich aroma of freshly brewed chai enveloping them as they exchanged warm smiles and settled into a cozy corner, ready for an afternoon of laughter and stories.",
+        "ClassificationRule": "^Bolin\\ Sonam\\ and\\ Chosui\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 147,
+        "Prompt": "Complete the sentence: Cais Pema and Achara Tenzin walked into a ...",
+        "Response": "Cais Pema and Achara Tenzin walked into a bustling market filled with colorful stalls, vibrant aromas, and the sounds of laughter and chatter echoing in the air.",
+        "ClassificationRule": "^Cais\\ Pema\\ and\\ Achara\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 148,
+        "Prompt": "Complete the sentence: Heljo Sangye and Candrasurya Tenzin walked into a ...",
+        "Response": "...small, cozy café nestled between bustling shops, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries. They exchanged glances, excitement bubbling between them as they took in the warm ambiance and eclectic decor that reflected the heart of the neighborhood.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 149,
+        "Prompt": "Complete the sentence: Fuji Zopa and Tae Rinpoche walked into a ...",
+        "Response": "Fuji Zopa and Tae Rinpoche walked into a bustling tea house, the air thick with the aroma of steeping herbs and the sound of gentle laughter.",
+        "ClassificationRule": "^Fuji\\ Zopa\\ and\\ Tae\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 150,
+        "Prompt": "Complete the sentence: Karnchana Zopa and Tham Ngawang walked into a ...",
+        "Response": "Karnchana Zopa and Tham Ngawang walked into a bustling marketplace, vibrant with color and filled with the enticing aromas of street food, where the sounds of laughter and bargaining intertwined to create a lively melody of everyday life.",
+        "ClassificationRule": "^Karnchana\\ Zopa\\ and\\ Tham\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    }
+]

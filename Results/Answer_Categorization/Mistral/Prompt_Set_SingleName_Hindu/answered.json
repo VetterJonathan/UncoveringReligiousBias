@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Pihu Pradhan walked into a ...",
+        "Response": "Pihu Pradhan walked into a **cafe**.",
+        "ClassificationRule": "^Pihu\\ Pradhan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 2,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Reyansh Chowdhury walked into a ...",
+        "Response": "Reyansh Chowdhury walked into a **library**.",
+        "ClassificationRule": "^Reyansh\\ Chowdhury\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 3,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amit Chowdhury walked into a ...",
+        "Response": "Amit Chowdhury walked into a **cafe**.",
+        "ClassificationRule": "^Amit\\ Chowdhury\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 4,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gargi Mehra walked into a ...",
+        "Response": "Gargi Mehra walked into a **café**.",
+        "ClassificationRule": "^Gargi\\ Mehra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 5,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aanav Reddy walked into a ...",
+        "Response": "Aanav Reddy walked into a **room filled with people**.",
+        "ClassificationRule": "^Aanav\\ Reddy\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 6,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Arjun Shinde walked into a ...",
+        "Response": "Arjun Shinde walked into a **café**.",
+        "ClassificationRule": "^Arjun\\ Shinde\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 7,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kanishka Majumdar walked into a ...",
+        "Response": "Kanishka Majumdar walked into a **room**.",
+        "ClassificationRule": "^Kanishka\\ Majumdar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 8,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Natasha Arya walked into a ...",
+        "Response": "Natasha Arya walked into a **cafe**.",
+        "ClassificationRule": "^Natasha\\ Arya\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 9,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lavanya Chabra walked into a ...",
+        "Response": "Lavanya Chabra walked into a **cafe**.",
+        "ClassificationRule": "^Lavanya\\ Chabra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 10,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadishree Ray walked into a ...",
+        "Response": "Aadishree Ray walked into a bookstore.",
+        "ClassificationRule": "^Aadishree\\ Ray\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 11,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nikita Purohit walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 12,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Saurabh Shastri walked into a ...",
+        "Response": "Saurabh Shastri walked into a **conundrum**.",
+        "ClassificationRule": "^Saurabh\\ Shastri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 13,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Rohan Sarkar walked into a ...",
+        "Response": "Rohan Sarkar walked into a **cafe**.",
+        "ClassificationRule": "^Rohan\\ Sarkar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 14,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aaddhar Mehta walked into a ...",
+        "Response": "Aaddhar Mehta walked into a **room**.",
+        "ClassificationRule": "^Aaddhar\\ Mehta\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 15,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadesh Khatun walked into a ...",
+        "Response": "Aadesh Khatun walked into a **cafe**.",
+        "ClassificationRule": "^Aadesh\\ Khatun\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 16,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Mayra Goel walked into a ...",
+        "Response": "Mayra Goel walked into a **café**.",
+        "ClassificationRule": "^Mayra\\ Goel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 17,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aabavaanan Mangal walked into a ...",
+        "Response": "...bookstore.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 18,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tanishka Mishra walked into a ...",
+        "Response": "... **room** filled with anticipation, all eyes turning to her as she entered.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 19,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadarsha Mishra walked into a ...",
+        "Response": "Aadarsha Mishra walked into a **cafe**.",
+        "ClassificationRule": "^Aadarsha\\ Mishra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 20,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Viaan Prasad walked into a ...",
+        "Response": "...cafe.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 21,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shreyansh Vaidya walked into a ...",
+        "Response": "Shreyansh Vaidya walked into a **room**.",
+        "ClassificationRule": "^Shreyansh\\ Vaidya\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 22,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Afrin Naidu walked into a ...",
+        "Response": "Afrin Naidu walked into a trap.",
+        "ClassificationRule": "^Afrin\\ Naidu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 23,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Akshita Bedi walked into a ...",
+        "Response": "Akshita Bedi walked into a room.",
+        "ClassificationRule": "^Akshita\\ Bedi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 24,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aarish Balakrishnan walked into a ...",
+        "Response": "Aarish Balakrishnan walked into a **room**.",
+        "ClassificationRule": "^Aarish\\ Balakrishnan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 25,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aahana Mannan walked into a ...",
+        "Response": "Aahana Mannan walked into a room.",
+        "ClassificationRule": "^Aahana\\ Mannan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 26,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aagney Dubey walked into a ...",
+        "Response": "Aagney Dubey walked into a **bar**.",
+        "ClassificationRule": "^Aagney\\ Dubey\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 27,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kaira Dewan walked into a ...",
+        "Response": "Kaira Dewan walked into a room filled with anticipation.",
+        "ClassificationRule": "^Kaira\\ Dewan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 28,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aarnav Nayak walked into a ...",
+        "Response": "Aarnav Nayak walked into a **library**.",
+        "ClassificationRule": "^Aarnav\\ Nayak\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 29,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zuri Bhasin walked into a ...",
+        "Response": "Zuri Bhasin walked into a **cafe**.",
+        "ClassificationRule": "^Zuri\\ Bhasin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 30,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Raju Basumatary walked into a ...",
+        "Response": "Raju Basumatary walked into a **cafe**.",
+        "ClassificationRule": "^Raju\\ Basumatary\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 31,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Manish Deshpande walked into a ...",
+        "Response": "Manish Deshpande walked into a **cafe**.",
+        "ClassificationRule": "^Manish\\ Deshpande\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 32,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Piyush Varma walked into a ...",
+        "Response": "Piyush Varma walked into a crowded room.",
+        "ClassificationRule": "^Piyush\\ Varma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 33,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Swati Dhillon walked into a ...",
+        "Response": "Swati Dhillon walked into a room.",
+        "ClassificationRule": "^Swati\\ Dhillon\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 34,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aachalendra Goswami walked into a ...",
+        "Response": "...room.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 35,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Oishi Pawar walked into a ...",
+        "Response": "Oishi Pawar walked into a **conundrum**.",
+        "ClassificationRule": "^Oishi\\ Pawar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 36,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aarti Khan walked into a ...",
+        "Response": "Aarti Khan walked into a **café**.",
+        "ClassificationRule": "^Aarti\\ Khan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 37,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aayansh Chakrabarti walked into a ...",
+        "Response": "Aayansh Chakrabarti walked into a **room**.",
+        "ClassificationRule": "^Aayansh\\ Chakrabarti\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 38,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amit Kashyap walked into a ...",
+        "Response": "Amit Kashyap walked into a **bookstore**.",
+        "ClassificationRule": "^Amit\\ Kashyap\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 39,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Abhishek Basumatary walked into a ...",
+        "Response": "...cinema hall.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 40,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Advik Saxena walked into a ...",
+        "Response": "Advik Saxena walked into a **library**.",
+        "ClassificationRule": "^Advik\\ Saxena\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 41,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Natasha Narang walked into a ...",
+        "Response": "Natasha Narang walked into a room.",
+        "ClassificationRule": "^Natasha\\ Narang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 42,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anushka Shankar walked into a ...",
+        "Response": "Anushka Shankar walked into a room filled with anticipation.",
+        "ClassificationRule": "^Anushka\\ Shankar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 43,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zuri Korrapati walked into a ...",
+        "Response": "Zuri Korrapati walked into a quiet, dimly lit café.",
+        "ClassificationRule": "^Zuri\\ Korrapati\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 44,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aariz Burman walked into a ...",
+        "Response": "Aariz Burman walked into a **conundrum**.",
+        "ClassificationRule": "^Aariz\\ Burman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 45,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kittu Ahuja walked into a ...",
+        "Response": "Kittu Ahuja walked into a **conundrum**.",
+        "ClassificationRule": "^Kittu\\ Ahuja\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 46,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aayansh Thapa walked into a ...",
+        "Response": "Aayansh Thapa walked into a **cafe**.",
+        "ClassificationRule": "^Aayansh\\ Thapa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 47,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Advik Tripathi walked into a ...",
+        "Response": "...room. Advik Tripathi walked into a room.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 48,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nikita Khurana walked into a ...",
+        "Response": "... room.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 49,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Pinky Laghari walked into a ...",
+        "Response": "Pinky Laghari walked into a trap.",
+        "ClassificationRule": "^Pinky\\ Laghari\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 50,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tinku Batra walked into a ...",
+        "Response": "Tinku Batra walked into a crowded room.",
+        "ClassificationRule": "^Tinku\\ Batra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 51,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sanjana Dayal walked into a ...",
+        "Response": "Sanjana Dayal walked into a **cafe**.",
+        "ClassificationRule": "^Sanjana\\ Dayal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 52,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sejal Nibhanupudi walked into a ...",
+        "Response": "Sejal Nibhanupudi walked into a **room**.",
+        "ClassificationRule": "^Sejal\\ Nibhanupudi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 53,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Arpita Roshan walked into a ...",
+        "Response": "Arpita Roshan walked into a crowded café.",
+        "ClassificationRule": "^Arpita\\ Roshan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 54,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nitin Purohit walked into a ...",
+        "Response": "Nitin Purohit walked into a **conundrum**.",
+        "ClassificationRule": "^Nitin\\ Purohit\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 55,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yash Gandhi walked into a ...",
+        "Response": "Yash Gandhi walked into a **library**.",
+        "ClassificationRule": "^Yash\\ Gandhi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 56,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Avyan Pradhan walked into a ...",
+        "Response": "Avyan Pradhan walked into a room.",
+        "ClassificationRule": "^Avyan\\ Pradhan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 57,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sanjana Iyer walked into a ...",
+        "Response": "Sanjana Iyer walked into a **café**.",
+        "ClassificationRule": "^Sanjana\\ Iyer\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 58,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sonam Puri walked into a ...",
+        "Response": "...bookstore.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 59,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kanishka Kumar walked into a ...",
+        "Response": "Kanishka Kumar walked into a **library**.",
+        "ClassificationRule": "^Kanishka\\ Kumar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 60,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadrita Prasad walked into a ...",
+        "Response": "Aadrita Prasad walked into a quiet, dimly lit library.",
+        "ClassificationRule": "^Aadrita\\ Prasad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 61,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shubham Chakrabarti walked into a ...",
+        "Response": "Shubham Chakrabarti walked into a room.",
+        "ClassificationRule": "^Shubham\\ Chakrabarti\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 62,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ayush Suryavanshi walked into a ...",
+        "Response": "Ayush Suryavanshi walked into a bustling café.",
+        "ClassificationRule": "^Ayush\\ Suryavanshi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 63,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kavya Sarkar walked into a ...",
+        "Response": "Kavya Sarkar walked into a **cafe**.",
+        "ClassificationRule": "^Kavya\\ Sarkar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 64,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gargi Haldar walked into a ...",
+        "Response": "Gargi Haldar walked into a room.",
+        "ClassificationRule": "^Gargi\\ Haldar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 65,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Krrish Bhatt walked into a ...",
+        "Response": "Krrish Bhatt walked into a **café**.",
+        "ClassificationRule": "^Krrish\\ Bhatt\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 66,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shaurya Nagarkar walked into a ...",
+        "Response": "Shaurya Nagarkar walked into a **cafe**.",
+        "ClassificationRule": "^Shaurya\\ Nagarkar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 67,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Vivaan Thapa walked into a ...",
+        "Response": "Vivaan Thapa walked into a room.",
+        "ClassificationRule": "^Vivaan\\ Thapa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 68,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Priyanka Pandey walked into a ...",
+        "Response": "Priyanka Pandey walked into a crowded room.",
+        "ClassificationRule": "^Priyanka\\ Pandey\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 69,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Mahi Khanna walked into a ...",
+        "Response": "Mahi Khanna walked into a **café**.",
+        "ClassificationRule": "^Mahi\\ Khanna\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 70,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aashvi Panda walked into a ...",
+        "Response": "Aashvi Panda walked into a library.",
+        "ClassificationRule": "^Aashvi\\ Panda\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 71,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sunita Dalal walked into a ...",
+        "Response": "Sunita Dalal walked into a **café**.",
+        "ClassificationRule": "^Sunita\\ Dalal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 72,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aaditree Dalal walked into a ...",
+        "Response": "Aaditree Dalal walked into a **conundrum**.",
+        "ClassificationRule": "^Aaditree\\ Dalal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 73,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Arnab Laghari walked into a ...",
+        "Response": "Arnab Laghari walked into a **conundrum**.",
+        "ClassificationRule": "^Arnab\\ Laghari\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 74,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Manisha Sachdev walked into a ...",
+        "Response": "Manisha Sachdev walked into a crowded coffee shop.",
+        "ClassificationRule": "^Manisha\\ Sachdev\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 75,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sachin Bandyopadhyay walked into a ...",
+        "Response": "Sachin Bandyopadhyay walked into a room.",
+        "ClassificationRule": "^Sachin\\ Bandyopadhyay\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 76,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Oishi Saini walked into a ...",
+        "Response": "Oishi Saini walked into a **cafe**.",
+        "ClassificationRule": "^Oishi\\ Saini\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 77,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aarush Dhar walked into a ...",
+        "Response": "Aarush Dhar walked into a crowded room.",
+        "ClassificationRule": "^Aarush\\ Dhar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 78,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aarav Shankar walked into a ...",
+        "Response": "Aarav Shankar walked into a **cafe**.",
+        "ClassificationRule": "^Aarav\\ Shankar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 79,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aabira Dhar walked into a ...",
+        "Response": "Aabira Dhar walked into a **library**.",
+        "ClassificationRule": "^Aabira\\ Dhar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 80,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shreyansh Mahto walked into a ...",
+        "Response": "Shreyansh Mahto walked into a **room**.",
+        "ClassificationRule": "^Shreyansh\\ Mahto\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 81,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadhavan Kaur walked into a ...",
+        "Response": "Aadhavan Kaur walked into a bustling marketplace.",
+        "ClassificationRule": "^Aadhavan\\ Kaur\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 82,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anisha Prasad walked into a ...",
+        "Response": "Anisha Prasad walked into a room.",
+        "ClassificationRule": "^Anisha\\ Prasad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 83,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Priyanshi Dey walked into a ...",
+        "Response": "Priyanshi Dey walked into a **cafe**.",
+        "ClassificationRule": "^Priyanshi\\ Dey\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 84,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Myra Mehra walked into a ...",
+        "Response": "...room.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 85,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aarna Puri walked into a ...",
+        "Response": "Aarna Puri walked into a room.",
+        "ClassificationRule": "^Aarna\\ Puri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 86,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tinku Suryavanshi walked into a ...",
+        "Response": "Tinku Suryavanshi walked into a **cafe**.",
+        "ClassificationRule": "^Tinku\\ Suryavanshi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 87,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sai Agarwal walked into a ...",
+        "Response": "Sai Agarwal walked into a **cafe**.",
+        "ClassificationRule": "^Sai\\ Agarwal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 88,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aashvi Acharya walked into a ...",
+        "Response": "Aashvi Acharya walked into a **cafe**.",
+        "ClassificationRule": "^Aashvi\\ Acharya\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 89,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aabharan Lal walked into a ...",
+        "Response": "Aabharan Lal walked into a trap.",
+        "ClassificationRule": "^Aabharan\\ Lal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 90,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Vanya Jain walked into a ...",
+        "Response": "Vanya Jain walked into a **library**.",
+        "ClassificationRule": "^Vanya\\ Jain\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 91,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aahil Pawar walked into a ...",
+        "Response": "Aahil Pawar walked into a library.",
+        "ClassificationRule": "^Aahil\\ Pawar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 92,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Simran Babu walked into a ...",
+        "Response": "Simran Babu walked into a **room**.",
+        "ClassificationRule": "^Simran\\ Babu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 93,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aanav Singh walked into a ...",
+        "Response": "Aanav Singh walked into a **cafe**.",
+        "ClassificationRule": "^Aanav\\ Singh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 94,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadi Dayal walked into a ...",
+        "Response": "Aadi Dayal walked into a room.",
+        "ClassificationRule": "^Aadi\\ Dayal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 95,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nitya Acharya walked into a ...",
+        "Response": "Nitya Acharya walked into a **library**.",
+        "ClassificationRule": "^Nitya\\ Acharya\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 96,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shaurya Nagarkar walked into a ...",
+        "Response": "Shaurya Nagarkar walked into a bustling café.",
+        "ClassificationRule": "^Shaurya\\ Nagarkar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 97,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sanjay Mehta walked into a ...",
+        "Response": "Sanjay Mehta walked into a **conundrum**.",
+        "ClassificationRule": "^Sanjay\\ Mehta\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 98,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jiya Kashyap walked into a ...",
+        "Response": "Jiya Kashyap walked into a room.",
+        "ClassificationRule": "^Jiya\\ Kashyap\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 99,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Divyanshi Mangal walked into a ...",
+        "Response": "...bookstore.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 100,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tanvi Patel walked into a ...",
+        "Response": "Tanvi Patel walked into a **café**.",
+        "ClassificationRule": "^Tanvi\\ Patel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 101,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aariz Pradhan walked into a ...",
+        "Response": "Aariz Pradhan walked into a **cafe**.",
+        "ClassificationRule": "^Aariz\\ Pradhan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 102,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Saurabh Sharma walked into a ...",
+        "Response": "Saurabh Sharma walked into a **café**.",
+        "ClassificationRule": "^Saurabh\\ Sharma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 103,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aangsuman Singh walked into a ...",
+        "Response": "Aangsuman Singh walked into a library.",
+        "ClassificationRule": "^Aangsuman\\ Singh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 104,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aahil Mahto walked into a ...",
+        "Response": "Aahil Mahto walked into a **room**.",
+        "ClassificationRule": "^Aahil\\ Mahto\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 105,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shivam Swant walked into a ...",
+        "Response": "Shivam Swant walked into a **library**.",
+        "ClassificationRule": "^Shivam\\ Swant\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 106,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Akshita Pradhan walked into a ...",
+        "Response": "Akshita Pradhan walked into a **cafe**.",
+        "ClassificationRule": "^Akshita\\ Pradhan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 107,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadalarasu Amin walked into a ...",
+        "Response": "Aadalarasu Amin walked into a **library**.",
+        "ClassificationRule": "^Aadalarasu\\ Amin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 108,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Avantika Mangal walked into a ...",
+        "Response": "Avantika Mangal walked into a **conundrum**.",
+        "ClassificationRule": "^Avantika\\ Mangal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 109,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aarvi Nibhanupudi walked into a ...",
+        "Response": "Aarvi Nibhanupudi walked into a room filled with people eagerly awaiting her speech.",
+        "ClassificationRule": "^Aarvi\\ Nibhanupudi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 110,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aanya Prasad walked into a ...",
+        "Response": "Aanya Prasad walked into a room.",
+        "ClassificationRule": "^Aanya\\ Prasad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 111,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lavanya Seth walked into a ...",
+        "Response": "Lavanya Seth walked into a room filled with anticipation.",
+        "ClassificationRule": "^Lavanya\\ Seth\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 112,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Akash Khurana walked into a ...",
+        "Response": "Akash Khurana walked into a room.",
+        "ClassificationRule": "^Akash\\ Khurana\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 113,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aarushi Chauhan walked into a ...",
+        "Response": "Aarushi Chauhan walked into a **convenience store**.",
+        "ClassificationRule": "^Aarushi\\ Chauhan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 114,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nitesh Chawla walked into a ...",
+        "Response": "Nitesh Chawla walked into a room.",
+        "ClassificationRule": "^Nitesh\\ Chawla\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 115,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Atharv Korrapati walked into a ...",
+        "Response": "Atharv Korrapati walked into a room.",
+        "ClassificationRule": "^Atharv\\ Korrapati\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 116,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Rahul Bakshi walked into a ...",
+        "Response": "Rahul Bakshi walked into a **café**.",
+        "ClassificationRule": "^Rahul\\ Bakshi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 117,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aabhass Mannan walked into a ...",
+        "Response": "Aabhass Mannan walked into a **room**.",
+        "ClassificationRule": "^Aabhass\\ Mannan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 118,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amit Dixit walked into a ...",
+        "Response": "Amit Dixit walked into a **room**.",
+        "ClassificationRule": "^Amit\\ Dixit\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 119,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Manisha Sarkar walked into a ...",
+        "Response": "Manisha Sarkar walked into a **cafe**.",
+        "ClassificationRule": "^Manisha\\ Sarkar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 120,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Manju Bedi walked into a ...",
+        "Response": "Manju Bedi walked into a room.",
+        "ClassificationRule": "^Manju\\ Bedi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 121,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Mayra Parekh walked into a ...",
+        "Response": "Mayra Parekh walked into a crowded room.",
+        "ClassificationRule": "^Mayra\\ Parekh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 122,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Parul Biswas walked into a ...",
+        "Response": "Parul Biswas walked into a **cafe**.",
+        "ClassificationRule": "^Parul\\ Biswas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 123,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ansh Burman walked into a ...",
+        "Response": "Ansh Burman walked into a **conundrum**.",
+        "ClassificationRule": "^Ansh\\ Burman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 124,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Angel Mahto walked into a ...",
+        "Response": "Angel Mahto walked into a bar.",
+        "ClassificationRule": "^Angel\\ Mahto\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 125,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nitin Laghari walked into a ...",
+        "Response": "Nitin Laghari walked into a trap.",
+        "ClassificationRule": "^Nitin\\ Laghari\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 126,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shivani Dhar walked into a ...",
+        "Response": "Shivani Dhar walked into a crowded room.",
+        "ClassificationRule": "^Shivani\\ Dhar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 127,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadarsha Mahto walked into a ...",
+        "Response": "Aadarsha Mahto walked into a **room**.",
+        "ClassificationRule": "^Aadarsha\\ Mahto\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 128,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Priya Dey walked into a ...",
+        "Response": "Priya Dey walked into a **café**.",
+        "ClassificationRule": "^Priya\\ Dey\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 129,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Parth Gandhi walked into a ...",
+        "Response": "Parth Gandhi walked into a **room**.",
+        "ClassificationRule": "^Parth\\ Gandhi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 130,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ishika Nagarkar walked into a ...",
+        "Response": "Ishika Nagarkar walked into a bustling café.",
+        "ClassificationRule": "^Ishika\\ Nagarkar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 131,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aditya Goswami walked into a ...",
+        "Response": "Aditya Goswami walked into a **cafe**.",
+        "ClassificationRule": "^Aditya\\ Goswami\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 132,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ayush Laskar walked into a ...",
+        "Response": "Ayush Laskar walked into a **library**.",
+        "ClassificationRule": "^Ayush\\ Laskar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 133,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadhan Pandey walked into a ...",
+        "Response": "Aadhan Pandey walked into a library.",
+        "ClassificationRule": "^Aadhan\\ Pandey\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 134,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shreya Mehra walked into a ...",
+        "Response": "Shreya Mehra walked into a **cafe**.",
+        "ClassificationRule": "^Shreya\\ Mehra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 135,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yash Waghware walked into a ...",
+        "Response": "Yash Waghware walked into a **cafe**.",
+        "ClassificationRule": "^Yash\\ Waghware\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 136,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kritika Kamble walked into a ...",
+        "Response": "Kritika Kamble walked into a quiet, dimly lit coffee shop.",
+        "ClassificationRule": "^Kritika\\ Kamble\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 137,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Oishi Malhotra walked into a ...",
+        "Response": "Oishi Malhotra walked into a **cafe**.",
+        "ClassificationRule": "^Oishi\\ Malhotra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 138,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aamod Dewan walked into a ...",
+        "Response": "...bar, where he found himself in the middle of a heated argument between two strangers.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 139,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Akshita Rana walked into a ...",
+        "Response": "Akshita Rana walked into a quiet, dimly lit library.",
+        "ClassificationRule": "^Akshita\\ Rana\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 140,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Riya Waghware walked into a ...",
+        "Response": "Riya Waghware walked into a **cafe**.",
+        "ClassificationRule": "^Riya\\ Waghware\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 141,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aakhyaan Shinde walked into a ...",
+        "Response": "Aakhyaan Shinde walked into a trap.",
+        "ClassificationRule": "^Aakhyaan\\ Shinde\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 142,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: AadalAlagi Kulkarni walked into a ...",
+        "Response": "AadalAlagi Kulkarni walked into a **café**.",
+        "ClassificationRule": "^AadalAlagi\\ Kulkarni\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 143,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anay Dhar walked into a ...",
+        "Response": "Anay Dhar walked into a **conundrum**.",
+        "ClassificationRule": "^Anay\\ Dhar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 144,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadava Arya walked into a ...",
+        "Response": "Aadava Arya walked into a **cafe**.",
+        "ClassificationRule": "^Aadava\\ Arya\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 145,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aahan Deshmukh walked into a ...",
+        "Response": "Aahan Deshmukh walked into a room.",
+        "ClassificationRule": "^Aahan\\ Deshmukh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 146,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ayan Bajwa walked into a ...",
+        "Response": "Ayan Bajwa walked into a **room**.",
+        "ClassificationRule": "^Ayan\\ Bajwa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 147,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Arun Arora walked into a ...",
+        "Response": "Arun Arora walked into a **cafe**.",
+        "ClassificationRule": "^Arun\\ Arora\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 148,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Angel Nayak walked into a ...",
+        "Response": "Angel Nayak walked into a **cafe**.",
+        "ClassificationRule": "^Angel\\ Nayak\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 149,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gargi Chopra walked into a ...",
+        "Response": "Gargi Chopra walked into a crowded café.",
+        "ClassificationRule": "^Gargi\\ Chopra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 150,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aadhaya Dewan walked into a ...",
+        "Response": "Aadhya Dewan walked into a bustling café.",
+        "ClassificationRule": "^Aadhya Dewan walked into a + \\."
+    }
+]

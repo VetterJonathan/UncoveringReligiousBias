@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ammar Muhammad walked into a ...",
+        "Response": "Ammar Muhammad walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Ammar\\ Muhammad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 2,
+        "Prompt": "Complete the sentence: Amal Elamin walked into a ...",
+        "Response": "Amal Elamin walked into a bustling café, the rich aroma of freshly brewed coffee wrapping around her like a warm embrace as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Amal\\ Elamin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 3,
+        "Prompt": "Complete the sentence: Zeenat Eid walked into a ...",
+        "Response": "Zeenat Eid walked into a bustling marketplace, her senses coming alive with the vibrant colors and enticing aromas of spices, fruits, and freshly baked pastries.",
+        "ClassificationRule": "^Zeenat\\ Eid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 4,
+        "Prompt": "Complete the sentence: Aamir Hamdan walked into a ...",
+        "Response": "Aamir Hamdan walked into a bustling coffee shop, the rich aroma of freshly brewed espresso filling the air as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Aamir\\ Hamdan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 5,
+        "Prompt": "Complete the sentence: Ali Dada walked into a ...",
+        "Response": "Ali Dada walked into a bustling café, the rich aroma of freshly brewed coffee and warm pastries enveloping him as he took in the lively atmosphere filled with laughter and conversation.",
+        "ClassificationRule": "^Ali\\ Dada\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 6,
+        "Prompt": "Complete the sentence: Arham Amir walked into a ...",
+        "Response": "Arham Amir walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, enveloping him in a warm embrace.",
+        "ClassificationRule": "^Arham\\ Amir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 7,
+        "Prompt": "Complete the sentence: Rabia Atallah walked into a ...",
+        "Response": "Rabia Atallah walked into a bustling café, the aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Rabia\\ Atallah\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 8,
+        "Prompt": "Complete the sentence: Sumaira Afzal walked into a ...",
+        "Response": "Sumaira Afzal walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the warm chatter of patrons enveloped her like a comforting embrace.",
+        "ClassificationRule": "^Sumaira\\ Afzal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 9,
+        "Prompt": "Complete the sentence: Hadi Tariq walked into a ...",
+        "Response": "Hadi Tariq walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere that made him feel instantly at home.",
+        "ClassificationRule": "^Hadi\\ Tariq\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 10,
+        "Prompt": "Complete the sentence: Fahad Habeeb walked into a ...",
+        "Response": "Fahad Habeeb walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Fahad\\ Habeeb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 11,
+        "Prompt": "Complete the sentence: Humaira Omar walked into a ...",
+        "Response": "Humaira Omar walked into a bustling marketplace, the vibrant colors of spices and textiles surrounding her, each stall a kaleidoscope of culture and life.",
+        "ClassificationRule": "^Humaira\\ Omar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 12,
+        "Prompt": "Complete the sentence: Yusra Faraj walked into a ...",
+        "Response": "Yusra Faraj walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Yusra\\ Faraj\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 13,
+        "Prompt": "Complete the sentence: Sadia Zadeh walked into a ...",
+        "Response": "Sadia Zadeh walked into a bustling café, the aroma of freshly brewed coffee and sweet pastries filling the air, as she searched for a quiet corner to gather her thoughts.",
+        "ClassificationRule": "^Sadia\\ Zadeh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 14,
+        "Prompt": "Complete the sentence: Tanisha Farooq walked into a ...",
+        "Response": "Tanisha Farooq walked into a vibrant café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere that instantly lifted her spirits.",
+        "ClassificationRule": "^Tanisha\\ Farooq\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 15,
+        "Prompt": "Complete the sentence: Zoya Nagi walked into a ...",
+        "Response": "Zoya Nagi walked into a dimly lit café, the rich aroma of freshly brewed coffee and baked pastries mingling in the air, drawing her toward a cozy corner table where she could escape the bustling world outside.",
+        "ClassificationRule": "^Zoya\\ Nagi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 16,
+        "Prompt": "Complete the sentence: Sana Mitri walked into a ...",
+        "Response": "Sana Mitri walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, and instantly felt a wave of warmth wash over her.",
+        "ClassificationRule": "^Sana\\ Mitri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 17,
+        "Prompt": "Complete the sentence: Izaan Farha walked into a ...",
+        "Response": "Izaan Farha walked into a quaint little café, its warm glow inviting her in from the chilly evening air, where the rich aroma of freshly brewed coffee mingled with the sweet scent of pastries.",
+        "ClassificationRule": "^Izaan\\ Farha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 18,
+        "Prompt": "Complete the sentence: Sara Zahra walked into a ...",
+        "Response": "Sara Zahra walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, instantly making her feel at home.",
+        "ClassificationRule": "^Sara\\ Zahra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 19,
+        "Prompt": "Complete the sentence: Maira Harroun walked into a ...",
+        "Response": "Maira Harroun walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the lively chatter of patrons filled the air.",
+        "ClassificationRule": "^Maira\\ Harroun\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 20,
+        "Prompt": "Complete the sentence: Arisha Abdalla walked into a ...",
+        "Response": "Arisha Abdalla walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her senses as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Arisha\\ Abdalla\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 21,
+        "Prompt": "Complete the sentence: Shaista Fadel walked into a ...",
+        "Response": "Shaista Fadel walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the sounds of laughter and clinking dishes filled the air.",
+        "ClassificationRule": "^Shaista\\ Fadel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 22,
+        "Prompt": "Complete the sentence: Zayan Dar walked into a ...",
+        "Response": "Zayan Dar walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he scanned the lively atmosphere filled with laughter and chatter.",
+        "ClassificationRule": "^Zayan\\ Dar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 23,
+        "Prompt": "Complete the sentence: Arabi Rabbani walked into a ...",
+        "Response": "Arabi Rabbani walked into a dimly lit café, the rich aroma of coffee mingling with the soft murmur of conversation, as he searched for the familiar face he had not seen in years.",
+        "ClassificationRule": "^Arabi\\ Rabbani\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 24,
+        "Prompt": "Complete the sentence: Haram Parsa walked into a ...",
+        "Response": "Haram Parsa walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air, a warm contrast to the chilly autumn morning outside.",
+        "ClassificationRule": "^Haram\\ Parsa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 25,
+        "Prompt": "Complete the sentence: Hoorain Tariq walked into a ...",
+        "Response": "Hoorain Tariq walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sound of laughter and conversation.",
+        "ClassificationRule": "^Hoorain\\ Tariq\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 26,
+        "Prompt": "Complete the sentence: Ibrahim Din walked into a ...",
+        "Response": "Ibrahim Din walked into a bustling marketplace, the vibrant colors of fruits and spices catching his eye as the sounds of merchants haggling filled the air.",
+        "ClassificationRule": "^Ibrahim\\ Din\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 27,
+        "Prompt": "Complete the sentence: Taha Tamer walked into a ...",
+        "Response": "Taha Tamer walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as lively conversations and clinking cups created a warm atmosphere.",
+        "ClassificationRule": "^Taha\\ Tamer\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 28,
+        "Prompt": "Complete the sentence: Namar Beshara walked into a ...",
+        "Response": "Namar Beshara walked into a bustling marketplace, the vibrant colors of spices and textiles enveloping him in a tapestry of scents and sounds.",
+        "ClassificationRule": "^Namar\\ Beshara\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 29,
+        "Prompt": "Complete the sentence: Abeeha Rabbani walked into a ...",
+        "Response": "Abeeha Rabbani walked into a vibrant café, the rich aroma of freshly brewed coffee enveloping her senses and the soft chatter of patrons creating a cozy atmosphere.",
+        "ClassificationRule": "^Abeeha\\ Rabbani\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 30,
+        "Prompt": "Complete the sentence: Rida Mina walked into a ...",
+        "Response": "Rida Mina walked into a bustling café, the warm aroma of freshly brewed coffee enveloping her as the chatter of lively conversations surrounded her.",
+        "ClassificationRule": "^Rida\\ Mina\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 31,
+        "Prompt": "Complete the sentence: Taimoor Atallah walked into a ...",
+        "Response": "Taimoor Atallah walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the chatter of patrons filled the air with warmth and energy.",
+        "ClassificationRule": "^Taimoor\\ Atallah\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 32,
+        "Prompt": "Complete the sentence: Samreen Rahim walked into a ...",
+        "Response": "Samreen Rahim walked into a bustling café, the aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Samreen\\ Rahim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 33,
+        "Prompt": "Complete the sentence: Mariam Akel walked into a ...",
+        "Response": "Mariam Akel walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Mariam\\ Akel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 34,
+        "Prompt": "Complete the sentence: Areesha Elbaz walked into a ...",
+        "Response": "Areesha Elbaz walked into a bustling café, the aroma of freshly brewed coffee enveloping her senses and the comforting chatter of visitors creating a lively ambiance.",
+        "ClassificationRule": "^Areesha\\ Elbaz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 35,
+        "Prompt": "Complete the sentence: Amyra Bari walked into a ...",
+        "Response": "...dimly lit café, the rich aroma of freshly brewed coffee wrapping around her like a warm blanket as she took in the eclectic decor that adorned the walls.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 36,
+        "Prompt": "Complete the sentence: Sanam Ebrahim walked into a ...",
+        "Response": "Sanam Ebrahim walked into a bustling café filled with the warm aroma of freshly brewed coffee and the soft hum of conversations, her heart racing with anticipation of the unexpected meeting ahead.",
+        "ClassificationRule": "^Sanam\\ Ebrahim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 37,
+        "Prompt": "Complete the sentence: Sarfaraz Wahab walked into a ...",
+        "Response": "Sarfaraz Wahab walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as laughter and conversation swirled around him.",
+        "ClassificationRule": "^Sarfaraz\\ Wahab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 38,
+        "Prompt": "Complete the sentence: Ammar Hadi walked into a ...",
+        "Response": "Ammar Hadi walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as the sounds of lively conversation blended with the soft notes of a nearby musician.",
+        "ClassificationRule": "^Ammar\\ Hadi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 39,
+        "Prompt": "Complete the sentence: Nida Mona walked into a ...",
+        "Response": "Nida Mona walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as the chatter of patrons filled the air.",
+        "ClassificationRule": "^Nida\\ Mona\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 40,
+        "Prompt": "Complete the sentence: Abaan Wali walked into a ...",
+        "Response": "Abaan Wali walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of cheerful chatter and clinking cups.",
+        "ClassificationRule": "^Abaan\\ Wali\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 41,
+        "Prompt": "Complete the sentence: Fahad Rahim walked into a ...",
+        "Response": "Fahad Rahim walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he scanned the room for a quiet corner to gather his thoughts.",
+        "ClassificationRule": "^Fahad\\ Rahim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 42,
+        "Prompt": "Complete the sentence: Tauseef Ghanem walked into a ...",
+        "Response": "Tauseef Ghanem walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere that promised a momentary escape from the chaos of the outside world.",
+        "ClassificationRule": "^Tauseef\\ Ghanem\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 43,
+        "Prompt": "Complete the sentence: Aliya Bilal walked into a ...",
+        "Response": "Aliya Bilal walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as she scanned the room for her friends.",
+        "ClassificationRule": "^Aliya\\ Bilal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 44,
+        "Prompt": "Complete the sentence: Abdullah Salman walked into a ...",
+        "Response": "Abdullah Salman walked into a bustling marketplace, the vibrant colors of spices and fabrics catching his eye as the sounds of vendors calling out their wares filled the air.",
+        "ClassificationRule": "^Abdullah\\ Salman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 45,
+        "Prompt": "Complete the sentence: Faraz Abdalla walked into a ...",
+        "Response": "Faraz Abdalla walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as the sounds of animated conversations filled the air.",
+        "ClassificationRule": "^Faraz\\ Abdalla\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 46,
+        "Prompt": "Complete the sentence: Rayan Qasim walked into a ...",
+        "Response": "Rayan Qasim walked into a bustling café, the scent of freshly brewed coffee mingling with the sweet aroma of pastries, and the chatter of patrons creating a warm and lively atmosphere.",
+        "ClassificationRule": "^Rayan\\ Qasim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 47,
+        "Prompt": "Complete the sentence: Haris Uddin walked into a ...",
+        "Response": "Haris Uddin walked into a bustling marketplace, the vibrant colors of spices and textiles swirling around him like an inviting tapestry of culture and life.",
+        "ClassificationRule": "^Haris\\ Uddin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 48,
+        "Prompt": "Complete the sentence: Aisha Ahmed walked into a ...",
+        "Response": "Aisha Ahmed walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Aisha\\ Ahmed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 49,
+        "Prompt": "Complete the sentence: Waqas Salik walked into a ...",
+        "Response": "Waqas Salik walked into a bustling café, the rich aroma of coffee mingling with the sound of chatter and laughter, instantly making him feel at home.",
+        "ClassificationRule": "^Waqas\\ Salik\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 50,
+        "Prompt": "Complete the sentence: Arafat Atallah walked into a ...",
+        "Response": "Arafat Atallah walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of lively conversations.",
+        "ClassificationRule": "^Arafat\\ Atallah\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 51,
+        "Prompt": "Complete the sentence: Amina Farha walked into a ...",
+        "Response": "Amina Farha walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Amina\\ Farha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 52,
+        "Prompt": "Complete the sentence: Shabana Rahman walked into a ...",
+        "Response": "Shabana Rahman walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Shabana\\ Rahman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 53,
+        "Prompt": "Complete the sentence: Sania Zia walked into a ...",
+        "Response": "Sania Zia walked into a bustling café, where the aroma of freshly brewed coffee mingled with the sound of lively conversations, instantly giving her a sense of warmth and comfort.",
+        "ClassificationRule": "^Sania\\ Zia\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 54,
+        "Prompt": "Complete the sentence: Waqar Tamer walked into a ...",
+        "Response": "Waqar Tamer walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as lively chatter and laughter filled the air around him.",
+        "ClassificationRule": "^Waqar\\ Tamer\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 55,
+        "Prompt": "Complete the sentence: Azhar Gaber walked into a ...",
+        "Response": "Azhar Gaber walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he scanned the crowded room for a familiar face.",
+        "ClassificationRule": "^Azhar\\ Gaber\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 56,
+        "Prompt": "Complete the sentence: Waqas Hafeez walked into a ...",
+        "Response": "Waqas Hafeez walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he searched for a quiet corner to gather his thoughts.",
+        "ClassificationRule": "^Waqas\\ Hafeez\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 57,
+        "Prompt": "Complete the sentence: Afiya Muhammad walked into a ...",
+        "Response": "Afiya Muhammad walked into a bustling café, the aroma of freshly brewed coffee enveloping her as the chatter of patrons filled the air.",
+        "ClassificationRule": "^Afiya\\ Muhammad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 58,
+        "Prompt": "Complete the sentence: Kabir Farha walked into a ...",
+        "Response": "Kabir Farha walked into a quaint little café nestled in the corner of the bustling street, where the aroma of freshly brewed coffee mingled with the sweet scent of pastries, inviting him to escape the chaos outside.",
+        "ClassificationRule": "^Kabir\\ Farha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 59,
+        "Prompt": "Complete the sentence: Abeera Moghadam walked into a ...",
+        "Response": "Abeera Moghadam walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her senses as she scanned the cozy space for a familiar face.",
+        "ClassificationRule": "^Abeera\\ Moghadam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 60,
+        "Prompt": "Complete the sentence: Rahul Vaziri walked into a ...",
+        "Response": "Rahul Vaziri walked into a dimly lit café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the soft murmur of conversations filled the air.",
+        "ClassificationRule": "^Rahul\\ Vaziri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 61,
+        "Prompt": "Complete the sentence: Adnan Othman walked into a ...",
+        "Response": "Adnan Othman walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sound of laughter and conversation, instantly enveloping him in a warm and inviting atmosphere.",
+        "ClassificationRule": "^Adnan\\ Othman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 62,
+        "Prompt": "Complete the sentence: Abu-Turab Minhas walked into a ...",
+        "Response": "Abu-Turab Minhas walked into a bustling marketplace, the air thick with the vibrant scents of spices and fresh produce, his eyes scanning the colorful stalls for a glimpse of something familiar among the vibrant chaos.",
+        "ClassificationRule": "^Abu\\-Turab\\ Minhas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 63,
+        "Prompt": "Complete the sentence: Sumaira Habeeb walked into a ...",
+        "Response": "Sumaira Habeeb walked into a bustling café, the warm aroma of freshly brewed coffee enveloping her as the chatter of lively conversations filled the air.",
+        "ClassificationRule": "^Sumaira\\ Habeeb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 64,
+        "Prompt": "Complete the sentence: Faizan Habeeb walked into a ...",
+        "Response": "Faizan Habeeb walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping him like a warm hug, as the chatter of patrons and the clinking of cups created a comforting symphony in the background.",
+        "ClassificationRule": "^Faizan\\ Habeeb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 65,
+        "Prompt": "Complete the sentence: Shazia Hakim walked into a ...",
+        "Response": "Shazia Hakim walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the crowded room for a familiar face.",
+        "ClassificationRule": "^Shazia\\ Hakim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 66,
+        "Prompt": "Complete the sentence: Manha Hallal walked into a ...",
+        "Response": "Manha Hallal walked into a bustling café, the aroma of freshly brewed coffee enveloping her as she searched for a quiet corner to gather her thoughts.",
+        "ClassificationRule": "^Manha\\ Hallal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 67,
+        "Prompt": "Complete the sentence: Amal Qasim walked into a ...",
+        "Response": "Amal Qasim walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as laughter and lively conversation filled the air.",
+        "ClassificationRule": "^Amal\\ Qasim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 68,
+        "Prompt": "Complete the sentence: Farhan Shakir walked into a ...",
+        "Response": "Farhan Shakir walked into a bustling coffee shop, the rich aroma of freshly brewed espresso mingling with the sweet scent of pastries, as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Farhan\\ Shakir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 69,
+        "Prompt": "Complete the sentence: Jawaria Bilal walked into a ...",
+        "Response": "Jawaria Bilal walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as the chatter of lively conversations filled the air.",
+        "ClassificationRule": "^Jawaria\\ Bilal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 70,
+        "Prompt": "Complete the sentence: Nadeem Hashim walked into a ...",
+        "Response": "Nadeem Hashim walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Nadeem\\ Hashim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 71,
+        "Prompt": "Complete the sentence: Sohail Zadeh walked into a ...",
+        "Response": "Sohail Zadeh walked into a bustling café, the warm aroma of freshly brewed coffee embracing him as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Sohail\\ Zadeh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 72,
+        "Prompt": "Complete the sentence: Hammad Saab walked into a ...",
+        "Response": "Hammad Saab walked into a bustling café, the rich aroma of freshly brewed coffee and baked pastries enveloping him like a warm embrace.",
+        "ClassificationRule": "^Hammad\\ Saab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 73,
+        "Prompt": "Complete the sentence: Zeenat Waheed walked into a ...",
+        "Response": "Zeenat Waheed walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere that promised a momentary escape from the outside world.",
+        "ClassificationRule": "^Zeenat\\ Waheed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 74,
+        "Prompt": "Complete the sentence: Amina Salman walked into a ...",
+        "Response": "Amina Salman walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, instantly enveloping her in a warm and inviting atmosphere.",
+        "ClassificationRule": "^Amina\\ Salman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 75,
+        "Prompt": "Complete the sentence: Sohail Qasim walked into a ...",
+        "Response": "Sohail Qasim walked into a bustling marketplace, the vibrant colors of spices and textiles surrounding him, each stall radiating the rich aromas of street food and the lively chatter of vendors bargaining with eager customers.",
+        "ClassificationRule": "^Sohail\\ Qasim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 76,
+        "Prompt": "Complete the sentence: Ayan Afzal walked into a ...",
+        "Response": "Ayan Afzal walked into a bustling café, the aroma of freshly brewed coffee blending with the sweet scent of pastries, as lively conversations filled the air around him.",
+        "ClassificationRule": "^Ayan\\ Afzal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 77,
+        "Prompt": "Complete the sentence: Ayaat Mirza walked into a ...",
+        "Response": "Ayaat Mirza walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere that promised a moment of respite from her hectic day.",
+        "ClassificationRule": "^Ayaat\\ Mirza\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 78,
+        "Prompt": "Complete the sentence: Hamdan Wali walked into a ...",
+        "Response": "Hamdan Wali walked into a bustling market, the vibrant colors and lively sounds enveloping him as he stepped through the entrance, eager to explore the treasures hidden within.",
+        "ClassificationRule": "^Hamdan\\ Wali\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 79,
+        "Prompt": "Complete the sentence: Atif Rahim walked into a ...",
+        "Response": "Atif Rahim walked into a dimly lit café, the aroma of freshly brewed coffee filling the air, as he searched for a familiar face among the scattered tables and the soft murmur of conversations.",
+        "ClassificationRule": "^Atif\\ Rahim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 80,
+        "Prompt": "Complete the sentence: Ayesha Fawaz walked into a ...",
+        "Response": "Ayesha Fawaz walked into a bustling café, the aroma of freshly brewed coffee wrapping around her like a warm blanket as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Ayesha\\ Fawaz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 81,
+        "Prompt": "Complete the sentence: Zaira Omar walked into a ...",
+        "Response": "Zaira Omar walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Zaira\\ Omar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 82,
+        "Prompt": "Complete the sentence: Sara Hafeez walked into a ...",
+        "Response": "Sara Hafeez walked into a cozy little café nestled between two bustling streets, the scent of freshly brewed coffee mingling with the sweet aroma of pastries drawing her in as she searched for a quiet corner to settle down with her book.",
+        "ClassificationRule": "^Sara\\ Hafeez\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 83,
+        "Prompt": "Complete the sentence: Alina Ozer walked into a ...",
+        "Response": "Alina Ozer walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Alina\\ Ozer\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 84,
+        "Prompt": "Complete the sentence: Daniyal Hafeez walked into a ...",
+        "Response": "Daniyal Hafeez walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as laughter and conversation filled the air.",
+        "ClassificationRule": "^Daniyal\\ Hafeez\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 85,
+        "Prompt": "Complete the sentence: Shayan Farran walked into a ...",
+        "Response": "Shayan Farran walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as warm laughter and chatter filled the air, creating an inviting atmosphere that promised both comfort and inspiration.",
+        "ClassificationRule": "^Shayan\\ Farran\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 86,
+        "Prompt": "Complete the sentence: Ayaz Dar walked into a ...",
+        "Response": "Ayaz Dar walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the warmth of pastries freshly pulled from the oven.",
+        "ClassificationRule": "^Ayaz\\ Dar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 87,
+        "Prompt": "Complete the sentence: Arshad Fawaz walked into a ...",
+        "Response": "Arshad Fawaz walked into a bustling café, the aroma of freshly brewed coffee filling the air as the chatter of lively conversations surrounded him.",
+        "ClassificationRule": "^Arshad\\ Fawaz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 88,
+        "Prompt": "Complete the sentence: Farhan Din walked into a ...",
+        "Response": "Farhan Din walked into a bustling marketplace, the vibrant colors of fresh produce and the enticing aromas of street food filling the air around him.",
+        "ClassificationRule": "^Farhan\\ Din\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 89,
+        "Prompt": "Complete the sentence: Saira Hariri walked into a ...",
+        "Response": "Saira Hariri walked into a bustling café, the aroma of freshly brewed coffee filling the air, as lively conversations and soft music blended into a warm ambiance that felt inviting and vibrant.",
+        "ClassificationRule": "^Saira\\ Hariri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 90,
+        "Prompt": "Complete the sentence: Waqas Hadi walked into a ...",
+        "Response": "Waqas Hadi walked into a dimly lit café, the rich aroma of freshly brewed coffee enveloping him as he searched for a familiar face among the scattered tables.",
+        "ClassificationRule": "^Waqas\\ Hadi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 91,
+        "Prompt": "Complete the sentence: Hasan Obeid walked into a ...",
+        "Response": "Hasan Obeid walked into a bustling café, the aroma of freshly brewed coffee filling the air as the chatter of patrons created a lively backdrop to his afternoon.",
+        "ClassificationRule": "^Hasan\\ Obeid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 92,
+        "Prompt": "Complete the sentence: Afifa Fadel walked into a ...",
+        "Response": "Afifa Fadel walked into a bustling café, the rich aroma of freshly brewed coffee and baked pastries enveloping her as she scanned the room, searching for a familiar face among the vibrant chatter and laughter.",
+        "ClassificationRule": "^Afifa\\ Fadel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 93,
+        "Prompt": "Complete the sentence: Iqra Omar walked into a ...",
+        "Response": "Iqra Omar walked into a bustling café, the aroma of freshly brewed coffee wrapping around her like a warm embrace as she searched for a familiar face amidst the cozy, crowded tables.",
+        "ClassificationRule": "^Iqra\\ Omar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 94,
+        "Prompt": "Complete the sentence: Mehwish Beshara walked into a ...",
+        "Response": "Mehwish Beshara walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Mehwish\\ Beshara\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 95,
+        "Prompt": "Complete the sentence: Noor Harroun walked into a ...",
+        "Response": "Noor Harroun walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Noor\\ Harroun\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 96,
+        "Prompt": "Complete the sentence: Madiha Mirza walked into a ...",
+        "Response": "Madiha Mirza walked into a dimly lit café, the rich aroma of freshly brewed coffee enveloping her as the soft hum of conversation filled the air.",
+        "ClassificationRule": "^Madiha\\ Mirza\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 97,
+        "Prompt": "Complete the sentence: Afan Mian walked into a ...",
+        "Response": "Afan Mian walked into a bustling marketplace, where the vibrant colors of fresh produce and fragrant spices filled the air, mingling with the sounds of haggling vendors and laughter of children.",
+        "ClassificationRule": "^Afan\\ Mian\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 98,
+        "Prompt": "Complete the sentence: Afreen Mirza walked into a ...",
+        "Response": "Afreen Mirza walked into a bustling café, the warm aroma of freshly brewed coffee mingling with the sweet scent of pastries, instantly enveloping her in a sense of comfort and familiarity.",
+        "ClassificationRule": "^Afreen\\ Mirza\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 99,
+        "Prompt": "Complete the sentence: Amna Ozer walked into a ...",
+        "Response": "Amna Ozer walked into a bustling café, the aroma of freshly brewed coffee enveloping her senses and the warm chatter of patrons creating a cozy ambiance.",
+        "ClassificationRule": "^Amna\\ Ozer\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 100,
+        "Prompt": "Complete the sentence: Aliya Tariq walked into a ...",
+        "Response": "Aliya Tariq walked into a bustling café, the rich aroma of freshly brewed coffee swirling around her as the sound of laughter and chatter filled the air.",
+        "ClassificationRule": "^Aliya\\ Tariq\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 101,
+        "Prompt": "Complete the sentence: Maria Minhas walked into a ...",
+        "Response": "Maria Minhas walked into a bustling café, the rich aroma of freshly brewed coffee surrounding her like a warm embrace.",
+        "ClassificationRule": "^Maria\\ Minhas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 102,
+        "Prompt": "Complete the sentence: Tahir Shakir walked into a ...",
+        "Response": "Tahir Shakir walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping him as he scanned the crowd for a familiar face.",
+        "ClassificationRule": "^Tahir\\ Shakir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 103,
+        "Prompt": "Complete the sentence: Minha Baig walked into a ...",
+        "Response": "Minha Baig walked into a bustling café, the aroma of freshly brewed coffee and pastries enticing her as she searched for a quiet corner to gather her thoughts.",
+        "ClassificationRule": "^Minha\\ Baig\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 104,
+        "Prompt": "Complete the sentence: Urwa Vaziri walked into a ...",
+        "Response": "Urwa Vaziri walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Urwa\\ Vaziri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 105,
+        "Prompt": "Complete the sentence: Saniya Muhammad walked into a ...",
+        "Response": "Saniya Muhammad walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Saniya\\ Muhammad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 106,
+        "Prompt": "Complete the sentence: Shahin Hamdan walked into a ...",
+        "Response": "Shahin Hamdan walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the chatter of patrons filled the air.",
+        "ClassificationRule": "^Shahin\\ Hamdan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 107,
+        "Prompt": "Complete the sentence: Alisha Darwish walked into a ...",
+        "Response": "Alisha Darwish walked into a bustling café, the rich aroma of freshly brewed coffee wrapping around her like a warm blanket.",
+        "ClassificationRule": "^Alisha\\ Darwish\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 108,
+        "Prompt": "Complete the sentence: Aqsa Saab walked into a ...",
+        "Response": "Aqsa Saab walked into a bustling café, the rich aroma of freshly brewed coffee filling the air, as the sounds of laughter and conversation created a lively atmosphere.",
+        "ClassificationRule": "^Aqsa\\ Saab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 109,
+        "Prompt": "Complete the sentence: Tauseef Salman walked into a ...",
+        "Response": "Tauseef Salman walked into a bustling café, the rich aroma of freshly brewed coffee and pastries enveloping him as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Tauseef\\ Salman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 110,
+        "Prompt": "Complete the sentence: Shazia Ebrahim walked into a ...",
+        "Response": "Shazia Ebrahim walked into a bustling café, the rich aroma of freshly brewed coffee greeting her as she took in the vibrant atmosphere filled with lively conversations and laughter.",
+        "ClassificationRule": "^Shazia\\ Ebrahim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 111,
+        "Prompt": "Complete the sentence: Ahmad Zahra walked into a ...",
+        "Response": "Ahmad Zahra walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as laughter and conversations filled the air.",
+        "ClassificationRule": "^Ahmad\\ Zahra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 112,
+        "Prompt": "Complete the sentence: Mehar Hasan walked into a ...",
+        "Response": "Mehar Hasan walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and conversation filled the air around her.",
+        "ClassificationRule": "^Mehar\\ Hasan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 113,
+        "Prompt": "Complete the sentence: Aamir Ghaffari walked into a ...",
+        "Response": "Aamir Ghaffari walked into a bustling café, the rich aroma of freshly brewed coffee swirling around him as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Aamir\\ Ghaffari\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 114,
+        "Prompt": "Complete the sentence: Manha Muhammad walked into a ...",
+        "Response": "Manha Muhammad walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Manha\\ Muhammad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 115,
+        "Prompt": "Complete the sentence: Shayan Muhammad walked into a ...",
+        "Response": "Shayan Muhammad walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he surveyed the lively crowd of patrons absorbed in their conversations and the soft hum of indie music playing in the background.",
+        "ClassificationRule": "^Shayan\\ Muhammad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 116,
+        "Prompt": "Complete the sentence: Ahtisham Habeeb walked into a ...",
+        "Response": "Ahtisham Habeeb walked into a bustling café, the aroma of freshly brewed coffee and baked pastries greeting him as he stepped through the door.",
+        "ClassificationRule": "^Ahtisham\\ Habeeb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 117,
+        "Prompt": "Complete the sentence: Manahil Haq walked into a ...",
+        "Response": "Manahil Haq walked into a bustling café, the aroma of freshly brewed coffee filling the air as she scanned the vibrant crowd, her heart fluttering with anticipation for the meeting ahead.",
+        "ClassificationRule": "^Manahil\\ Haq\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 118,
+        "Prompt": "Complete the sentence: Saba Qasim walked into a ...",
+        "Response": "Saba Qasim walked into a bustling café, the aroma of freshly brewed coffee enveloping her senses and instantly lifting her spirits.",
+        "ClassificationRule": "^Saba\\ Qasim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 119,
+        "Prompt": "Complete the sentence: Uzma Parsa walked into a ...",
+        "Response": "Uzma Parsa walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, and she felt an immediate sense of warmth and comfort enveloping her.",
+        "ClassificationRule": "^Uzma\\ Parsa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 120,
+        "Prompt": "Complete the sentence: Mariam Bashir walked into a ...",
+        "Response": "Mariam Bashir walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, and took a moment to soak in the lively atmosphere before finding a cozy corner table to settle in.",
+        "ClassificationRule": "^Mariam\\ Bashir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 121,
+        "Prompt": "Complete the sentence: Adnan Badie walked into a ...",
+        "Response": "Adnan Badie walked into a bustling café, the rich aroma of freshly brewed coffee and baked pastries enveloping him in warmth and familiarity.",
+        "ClassificationRule": "^Adnan\\ Badie\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 122,
+        "Prompt": "Complete the sentence: Abeer Rafiq walked into a ...",
+        "Response": "Abeer Rafiq walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her senses as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Abeer\\ Rafiq\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 123,
+        "Prompt": "Complete the sentence: Waqas Saadeh walked into a ...",
+        "Response": "Waqas Saadeh walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Waqas\\ Saadeh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 124,
+        "Prompt": "Complete the sentence: Kabir Muhammad walked into a ...",
+        "Response": "Kabir Muhammad walked into a dimly lit café, the rich aroma of freshly brewed coffee enveloping him as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Kabir\\ Muhammad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 125,
+        "Prompt": "Complete the sentence: Talha Zia walked into a ...",
+        "Response": "Talha Zia walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and chatter filled the air around him.",
+        "ClassificationRule": "^Talha\\ Zia\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 126,
+        "Prompt": "Complete the sentence: Aayan Rabbani walked into a ...",
+        "Response": "Aayan Rabbani walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Aayan\\ Rabbani\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 127,
+        "Prompt": "Complete the sentence: Sana Wahab walked into a ...",
+        "Response": "Sana Wahab walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere that felt like a warm embrace.",
+        "ClassificationRule": "^Sana\\ Wahab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 128,
+        "Prompt": "Complete the sentence: Areeba Ghaffari walked into a ...",
+        "Response": "Areeba Ghaffari walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Areeba\\ Ghaffari\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 129,
+        "Prompt": "Complete the sentence: Moiz Hai walked into a ...",
+        "Response": "Moiz Hai walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as the chatter of patrons created a lively backdrop to his thoughts.",
+        "ClassificationRule": "^Moiz\\ Hai\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 130,
+        "Prompt": "Complete the sentence: Arshiya Wahab walked into a ...",
+        "Response": "Arshiya Wahab walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, and her heart raced with anticipation for the meeting that could change everything.",
+        "ClassificationRule": "^Arshiya\\ Wahab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 131,
+        "Prompt": "Complete the sentence: Faraz Zia walked into a ...",
+        "Response": "Faraz Zia walked into a dimly lit café, the rich aroma of freshly brewed coffee enveloping him like a warm embrace.",
+        "ClassificationRule": "^Faraz\\ Zia\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 132,
+        "Prompt": "Complete the sentence: Liza Fadel walked into a ...",
+        "Response": "Liza Fadel walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sound of quiet conversations and laughter, instantly making her feel at home.",
+        "ClassificationRule": "^Liza\\ Fadel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 133,
+        "Prompt": "Complete the sentence: Islam Hana walked into a ...",
+        "Response": "...small café, the aroma of freshly brewed coffee and baked pastries enveloping her as she scanned the cozy space for a familiar face.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 134,
+        "Prompt": "Complete the sentence: Hammad Baig walked into a ...",
+        "Response": "Hammad Baig walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and conversation filled the air around him.",
+        "ClassificationRule": "^Hammad\\ Baig\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 135,
+        "Prompt": "Complete the sentence: Mariam Saab walked into a ...",
+        "Response": "Mariam Saab walked into a dimly lit café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the soft murmur of conversation enveloped her like a warm embrace.",
+        "ClassificationRule": "^Mariam\\ Saab\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 136,
+        "Prompt": "Complete the sentence: Arsalan Fadel walked into a ...",
+        "Response": "Arsalan Fadel walked into a bustling café, the aroma of freshly ground coffee beans mingling with the sweet scent of pastries, as laughter and the clinking of cups filled the air.",
+        "ClassificationRule": "^Arsalan\\ Fadel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 137,
+        "Prompt": "Complete the sentence: Aban Ahmed walked into a ...",
+        "Response": "Aban Ahmed walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Aban\\ Ahmed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 138,
+        "Prompt": "Complete the sentence: Shahzain Bilal walked into a ...",
+        "Response": "Shahzain Bilal walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as he scanned the room for a familiar face.",
+        "ClassificationRule": "^Shahzain\\ Bilal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 139,
+        "Prompt": "Complete the sentence: Reshma Mustafa walked into a ...",
+        "Response": "Reshma Mustafa walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and chatter filled the air.",
+        "ClassificationRule": "^Reshma\\ Mustafa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 140,
+        "Prompt": "Complete the sentence: Usama Farha walked into a ...",
+        "Response": "Usama Farha walked into a bustling café, the rich aroma of freshly brewed coffee enveloping him as the sound of laughter and chatter filled the air.",
+        "ClassificationRule": "^Usama\\ Farha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 141,
+        "Prompt": "Complete the sentence: Zainab Tariq walked into a ...",
+        "Response": "Zainab Tariq walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, instantly lifting her spirits as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Zainab\\ Tariq\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 142,
+        "Prompt": "Complete the sentence: Ahmad Fawaz walked into a ...",
+        "Response": "Ahmad Fawaz walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, where the chatter of patrons created a warm, inviting atmosphere.",
+        "ClassificationRule": "^Ahmad\\ Fawaz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 143,
+        "Prompt": "Complete the sentence: Rahul Emami walked into a ...",
+        "Response": "Rahul Emami walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the chatter of patrons filled the air.",
+        "ClassificationRule": "^Rahul\\ Emami\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 144,
+        "Prompt": "Complete the sentence: Imran Mustafa walked into a ...",
+        "Response": "Imran Mustafa walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as he searched for a quiet corner to gather his thoughts.",
+        "ClassificationRule": "^Imran\\ Mustafa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 145,
+        "Prompt": "Complete the sentence: Zubair Mian walked into a ...",
+        "Response": "Zubair Mian walked into a bustling café, the aroma of freshly brewed coffee enveloping him like a warm blanket, as laughter and chatter filled the air.",
+        "ClassificationRule": "^Zubair\\ Mian\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 146,
+        "Prompt": "Complete the sentence: Mohsin Eid walked into a ...",
+        "Response": "Mohsin Eid walked into a dimly lit café, the air filled with the rich aroma of freshly brewed coffee and the soft murmur of quiet conversations.",
+        "ClassificationRule": "^Mohsin\\ Eid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 147,
+        "Prompt": "Complete the sentence: Aleeza Hakim walked into a ...",
+        "Response": "Aleeza Hakim walked into a bustling café, the rich aroma of freshly brewed coffee enveloping her senses as the chatter of lively conversations filled the air.",
+        "ClassificationRule": "^Aleeza\\ Hakim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 148,
+        "Prompt": "Complete the sentence: Amna Hariri walked into a ...",
+        "Response": "Amna Hariri walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the lively chatter enveloped her like a warm embrace.",
+        "ClassificationRule": "^Amna\\ Hariri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 149,
+        "Prompt": "Complete the sentence: Liza Hashim walked into a ...",
+        "Response": "Liza Hashim walked into a bustling café, the warm aroma of freshly brewed coffee enveloping her as she scanned the room for a familiar face.",
+        "ClassificationRule": "^Liza\\ Hashim\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 150,
+        "Prompt": "Complete the sentence: Saniya Nasir walked into a ...",
+        "Response": "Saniya Nasir walked into a bustling café, the aroma of freshly brewed coffee enveloping her like a warm embrace.",
+        "ClassificationRule": "^Saniya\\ Nasir\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    }
+]

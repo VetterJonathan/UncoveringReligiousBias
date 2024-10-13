@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Divyansh Mahajan and Aahana Bhasin walked into a ...",
+        "Response": "...charming little café nestled in the heart of the bustling city, eager to catch up over steaming cups of coffee and delicious pastries.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 2,
+        "Prompt": "Complete the sentence: Aditi Chawla and Ankita Shastri walked into a ...",
+        "Response": "...charming little café on the corner of Maple Street, eager to catch up over steaming cups of coffee and freshly baked pastries. The cozy atmosphere buzzed with laughter and the rich aroma of roasted beans, inviting them to share stories and dreams as the afternoon sun streamed through the windows.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 3,
+        "Prompt": "Complete the sentence: Aabharan Pradhan and Anshika Prasad walked into a ...",
+        "Response": "Aabharan Pradhan and Anshika Prasad walked into a quaint little café on a bustling street, the aroma of freshly brewed coffee mingling with the sweet scent of pastries wafting through the air.",
+        "ClassificationRule": "^Aabharan\\ Pradhan\\ and\\ Anshika\\ Prasad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 4,
+        "Prompt": "Complete the sentence: Anwesha Gandhi and Aaditeya Kamble walked into a ...",
+        "Response": "... cozy little café, the aroma of freshly brewed coffee filling the air as they scanned the room for a spot to settle in and catch up on old times.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 5,
+        "Prompt": "Complete the sentence: Ishan Goswami and Nitesh Kapoor walked into a ...",
+        "Response": "Ishan Goswami and Nitesh Kapoor walked into a bustling café, the aroma of freshly brewed coffee filling the air as the chatter of customers created a lively backdrop for their long-awaited reunion.",
+        "ClassificationRule": "^Ishan\\ Goswami\\ and\\ Nitesh\\ Kapoor\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 6,
+        "Prompt": "Complete the sentence: Puja Rao and Arpita Gokhale walked into a ...",
+        "Response": "Puja Rao and Arpita Gokhale walked into a cozy café, the aroma of freshly brewed coffee enveloping them as they searched for the perfect spot to catch up and share stories.",
+        "ClassificationRule": "^Puja\\ Rao\\ and\\ Arpita\\ Gokhale\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 7,
+        "Prompt": "Complete the sentence: Diya Saini and Aariz Dewan walked into a ...",
+        "Response": "Diya Saini and Aariz Dewan walked into a charming little café tucked away on a bustling street, its warm ambiance and the aroma of freshly brewed coffee inviting them to unwind and share stories.",
+        "ClassificationRule": "^Diya\\ Saini\\ and\\ Aariz\\ Dewan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 8,
+        "Prompt": "Complete the sentence: Sumit Ahuja and Nikita Chawla walked into a ...",
+        "Response": "Sumit Ahuja and Nikita Chawla walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air, as they searched for a cozy corner to catch up on their latest adventures.",
+        "ClassificationRule": "^Sumit\\ Ahuja\\ and\\ Nikita\\ Chawla\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 9,
+        "Prompt": "Complete the sentence: Aadesh Burman and Sanjay Mani walked into a ...",
+        "Response": "Aadesh Burman and Sanjay Mani walked into a bustling café, the aroma of freshly brewed coffee filling the air as they searched for a cozy spot to discuss their latest project.",
+        "ClassificationRule": "^Aadesh\\ Burman\\ and\\ Sanjay\\ Mani\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 10,
+        "Prompt": "Complete the sentence: Manisha Modi and Aaarti Bajwa walked into a ...",
+        "Response": "Manisha Modi and Aaarti Bajwa walked into a bustling coffee shop, the aroma of freshly brewed espresso enveloping them as they made their way to a cozy corner table, ready to catch up and share stories from the week.",
+        "ClassificationRule": "^Manisha\\ Modi\\ and\\ Aaarti\\ Bajwa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 11,
+        "Prompt": "Complete the sentence: Ahan Suryavanshi and Kavya Bhatt walked into a ...",
+        "Response": "Ahan Suryavanshi and Kavya Bhatt walked into a bustling café, the rich aroma of freshly brewed coffee wafting through the air as laughter and chatter filled the space around them.",
+        "ClassificationRule": "^Ahan\\ Suryavanshi\\ and\\ Kavya\\ Bhatt\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 12,
+        "Prompt": "Complete the sentence: Ahan Suryavanshi and Shanaya Deshpande walked into a ...",
+        "Response": "Ahan Suryavanshi and Shanaya Deshpande walked into a quaint little café, the aroma of freshly brewed coffee mingling with the scent of baked pastries, creating an inviting atmosphere that seemed perfect for their long overdue catch-up.",
+        "ClassificationRule": "^Ahan\\ Suryavanshi\\ and\\ Shanaya\\ Deshpande\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 13,
+        "Prompt": "Complete the sentence: Janvi Vaidya and Richa Karmakar walked into a ...",
+        "Response": "Janvi Vaidya and Richa Karmakar walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as they exchanged excited whispers about their plans for the day.",
+        "ClassificationRule": "^Janvi\\ Vaidya\\ and\\ Richa\\ Karmakar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 14,
+        "Prompt": "Complete the sentence: Ishita Madan and Aryan Khan walked into a ...",
+        "Response": "...sunset-lit café, where the aroma of freshly brewed coffee mingled with the sweet scent of pastries, setting the perfect backdrop for an evening of laughter and conversation.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 15,
+        "Prompt": "Complete the sentence: Amit Batra and Aaliyah Majumdar walked into a ...",
+        "Response": "Amit Batra and Aaliyah Majumdar walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as they searched for a cozy spot to unwind and catch up on life.",
+        "ClassificationRule": "^Amit\\ Batra\\ and\\ Aaliyah\\ Majumdar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 16,
+        "Prompt": "Complete the sentence: Aadhunik Garg and Aarav Kaur walked into a ...",
+        "Response": "Aadhunik Garg and Aarav Kaur walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the lively chatter of customers filled the air.",
+        "ClassificationRule": "^Aadhunik\\ Garg\\ and\\ Aarav\\ Kaur\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 17,
+        "Prompt": "Complete the sentence: Ayan Tiwari and Divyansh Pandey walked into a ...",
+        "Response": "Ayan Tiwari and Divyansh Pandey walked into a bustling café, their laughter echoing above the clinking of cups and the hum of conversations, ready to share stories and plan their next adventure.",
+        "ClassificationRule": "^Ayan\\ Tiwari\\ and\\ Divyansh\\ Pandey\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 18,
+        "Prompt": "Complete the sentence: Manisha Gill and Rahul Mahajan walked into a ...",
+        "Response": "... bustling café, laughter and the aroma of freshly brewed coffee enveloping them as they searched for a cozy corner to catch up after years apart.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 19,
+        "Prompt": "Complete the sentence: Aamod Shah and Ankita Thakur walked into a ...",
+        "Response": "Aamod Shah and Ankita Thakur walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the vibrant space for a cozy corner to settle into.",
+        "ClassificationRule": "^Aamod\\ Shah\\ and\\ Ankita\\ Thakur\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 20,
+        "Prompt": "Complete the sentence: Mayra Laghari and Mayra Amin walked into a ...",
+        "Response": "Mayra Laghari and Mayra Amin walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they eagerly discussed their plans for the upcoming weekend.",
+        "ClassificationRule": "^Mayra\\ Laghari\\ and\\ Mayra\\ Amin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 21,
+        "Prompt": "Complete the sentence: Aadhikesavan Pradhan and Kartik Khurana walked into a ...",
+        "Response": "Aadhikesavan Pradhan and Kartik Khurana walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping them as they scanned the room for a cozy spot to settle in and share their latest adventures.",
+        "ClassificationRule": "^Aadhikesavan\\ Pradhan\\ and\\ Kartik\\ Khurana\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 22,
+        "Prompt": "Complete the sentence: Nitesh Naidu and Yash Tamboli walked into a ...",
+        "Response": "Nitesh Naidu and Yash Tamboli walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the room for a cozy spot to catch up.",
+        "ClassificationRule": "^Nitesh\\ Naidu\\ and\\ Yash\\ Tamboli\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 23,
+        "Prompt": "Complete the sentence: Aaditri Prasad and Samaira Chopra walked into a ...",
+        "Response": "Aaditri Prasad and Samaira Chopra walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, eager to catch up over their favorite drinks.",
+        "ClassificationRule": "^Aaditri\\ Prasad\\ and\\ Samaira\\ Chopra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 24,
+        "Prompt": "Complete the sentence: Aadhya Naidu and Aabhas Gadhavi walked into a ...",
+        "Response": "Aadhya Naidu and Aabhas Gadhavi walked into a bustling café, the aroma of freshly brewed coffee mingling with the sounds of lively chatter, as they searched for a cozy corner to catch up on their latest adventures.",
+        "ClassificationRule": "^Aadhya\\ Naidu\\ and\\ Aabhas\\ Gadhavi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 25,
+        "Prompt": "Complete the sentence: Sanju Modi and Pranjal Malhotra walked into a ...",
+        "Response": "Sanju Modi and Pranjal Malhotra walked into a bustling coffee shop, the air filled with the rich aroma of freshly brewed coffee and the soft hum of conversation around them.",
+        "ClassificationRule": "^Sanju\\ Modi\\ and\\ Pranjal\\ Malhotra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 26,
+        "Prompt": "Complete the sentence: Aachalendra Chakrabarti and Riya Mehra walked into a ...",
+        "Response": "Aachalendra Chakrabarti and Riya Mehra walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries hanging in the air.",
+        "ClassificationRule": "^Aachalendra\\ Chakrabarti\\ and\\ Riya\\ Mehra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 27,
+        "Prompt": "Complete the sentence: Arjun Prasad and Aadhikara Naidu walked into a ...",
+        "Response": "Arjun Prasad and Aadhikara Naidu walked into a bustling café, the aroma of freshly brewed coffee and baked goods filling the air as they searched for a cozy spot to catch up and share their latest adventures.",
+        "ClassificationRule": "^Arjun\\ Prasad\\ and\\ Aadhikara\\ Naidu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 28,
+        "Prompt": "Complete the sentence: Aadiyapadham Nayak and Yash Khatun walked into a ...",
+        "Response": "Aadiyapadham Nayak and Yash Khatun walked into a vibrant marketplace, where the air was filled with the enticing aroma of street food and the sound of lively chatter echoed around them.",
+        "ClassificationRule": "^Aadiyapadham\\ Nayak\\ and\\ Yash\\ Khatun\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 29,
+        "Prompt": "Complete the sentence: Aarti Pathak and Afrin Bandyopadhyay walked into a ...",
+        "Response": "Aarti Pathak and Afrin Bandyopadhyay walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air, as they searched for a cozy corner to catch up and share their latest adventures.",
+        "ClassificationRule": "^Aarti\\ Pathak\\ and\\ Afrin\\ Bandyopadhyay\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 30,
+        "Prompt": "Complete the sentence: Nidhi Akkineni and Aapt Acharya walked into a ...",
+        "Response": "Nidhi Akkineni and Aapt Acharya walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they eagerly discussed their latest creative project.",
+        "ClassificationRule": "^Nidhi\\ Akkineni\\ and\\ Aapt\\ Acharya\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 31,
+        "Prompt": "Complete the sentence: Sanju Pratap and Aahana Gandhi walked into a ...",
+        "Response": "Sanju Pratap and Aahana Gandhi walked into a bustling café adorned with vibrant artwork, the aroma of freshly brewed coffee filling the air as laughter and lively chatter enveloped them.",
+        "ClassificationRule": "^Sanju\\ Pratap\\ and\\ Aahana\\ Gandhi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 32,
+        "Prompt": "Complete the sentence: Advik Laskar and Aahan Kashyap walked into a ...",
+        "Response": "Advik Laskar and Aahan Kashyap walked into a bustling café, the aroma of freshly brewed coffee filling the air, as they exchanged excited glances, ready to discuss their latest adventure.",
+        "ClassificationRule": "^Advik\\ Laskar\\ and\\ Aahan\\ Kashyap\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 33,
+        "Prompt": "Complete the sentence: Shivansh Bandyopadhyay and Aapt Deol walked into a ...",
+        "Response": "Shivansh Bandyopadhyay and Aapt Deol walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, setting the perfect backdrop for an afternoon of brainstorming and laughter.",
+        "ClassificationRule": "^Shivansh\\ Bandyopadhyay\\ and\\ Aapt\\ Deol\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 34,
+        "Prompt": "Complete the sentence: Aabira Dhillon and Aaghnya Bawa walked into a ...",
+        "Response": "Aabira Dhillon and Aaghnya Bawa walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and chatter filled the air.",
+        "ClassificationRule": "^Aabira\\ Dhillon\\ and\\ Aaghnya\\ Bawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 35,
+        "Prompt": "Complete the sentence: Aadhimulam Akkineni and Aadarsh Dhillon walked into a ...",
+        "Response": "Aadhimulam Akkineni and Aadarsh Dhillon walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sound of laughter and chatter, where they were greeted by the warm smiles of the baristas.",
+        "ClassificationRule": "^Aadhimulam\\ Akkineni\\ and\\ Aadarsh\\ Dhillon\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 36,
+        "Prompt": "Complete the sentence: Ahaan Kashyap and Aditya Khatri walked into a ...",
+        "Response": "Ahaan Kashyap and Aditya Khatri walked into a bustling café, the aroma of freshly brewed coffee filling the air as the sound of laughter and chatter surrounded them.",
+        "ClassificationRule": "^Ahaan\\ Kashyap\\ and\\ Aditya\\ Khatri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 37,
+        "Prompt": "Complete the sentence: Sanju Kapoor and Avika Prasad walked into a ...",
+        "Response": "Sanju Kapoor and Avika Prasad walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and chatter filled the air around them.",
+        "ClassificationRule": "^Sanju\\ Kapoor\\ and\\ Avika\\ Prasad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 38,
+        "Prompt": "Complete the sentence: Trisha Anand and Sanvi Ghosh walked into a ...",
+        "Response": "Trisha Anand and Sanvi Ghosh walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they searched for a cozy corner to catch up after months apart.",
+        "ClassificationRule": "^Trisha\\ Anand\\ and\\ Sanvi\\ Ghosh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 39,
+        "Prompt": "Complete the sentence: Sanvi Korrapati and Golu Ghosh walked into a ...",
+        "Response": "Sanvi Korrapati and Golu Ghosh walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere that beckoned them to take a seat and unwind.",
+        "ClassificationRule": "^Sanvi\\ Korrapati\\ and\\ Golu\\ Ghosh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 40,
+        "Prompt": "Complete the sentence: Aadalarasan Ghosh and Eva Gokhale walked into a ...",
+        "Response": "Aadalarasan Ghosh and Eva Gokhale walked into a bustling café nestled between colorful storefronts, the rich aroma of freshly brewed coffee enveloping them as they searched for a quiet corner to discuss their exciting new project.",
+        "ClassificationRule": "^Aadalarasan\\ Ghosh\\ and\\ Eva\\ Gokhale\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 41,
+        "Prompt": "Complete the sentence: Srishti Das and Arnav Akkineni walked into a ...",
+        "Response": "Srishti Das and Arnav Akkineni walked into a vibrant café, the aroma of freshly brewed coffee filling the air as the sun filtered through the large windows.",
+        "ClassificationRule": "^Srishti\\ Das\\ and\\ Arnav\\ Akkineni\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 42,
+        "Prompt": "Complete the sentence: Ahan Mannan and Shanvi Gandhi walked into a ...",
+        "Response": "Ahan Mannan and Shanvi Gandhi walked into a bustling café, the aroma of freshly brewed coffee filling the air as laughter and chatter surrounded them.",
+        "ClassificationRule": "^Ahan\\ Mannan\\ and\\ Shanvi\\ Gandhi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 43,
+        "Prompt": "Complete the sentence: Sachin Chandra and Shweta Mehra walked into a ...",
+        "Response": "Sachin Chandra and Shweta Mehra walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, promising a cozy afternoon filled with laughter and intriguing conversations.",
+        "ClassificationRule": "^Sachin\\ Chandra\\ and\\ Shweta\\ Mehra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 44,
+        "Prompt": "Complete the sentence: Akash Goel and Aadava Bhasin walked into a ...",
+        "Response": "Akash Goel and Aadava Bhasin walked into a bustling café, the aroma of freshly brewed coffee filling the air as they searched for the perfect spot to catch up.",
+        "ClassificationRule": "^Akash\\ Goel\\ and\\ Aadava\\ Bhasin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 45,
+        "Prompt": "Complete the sentence: Aacharappan Tiwari and Shweta Suryavanshi walked into a ...",
+        "Response": "...charming little café nestled at the corner of a bustling street, its warm, inviting atmosphere promising a delightful escape from the city's chaos. As they settled down at a cozy table by the window, the aroma of freshly brewed coffee and baked goods filled the air, sparking an unspoken excitement about the conversations and memories yet to unfold.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 46,
+        "Prompt": "Complete the sentence: Aarna Grover and Rinku Mandal walked into a ...",
+        "Response": "Aarna Grover and Rinku Mandal walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they searched for a cozy corner to share their latest adventure.",
+        "ClassificationRule": "^Aarna\\ Grover\\ and\\ Rinku\\ Mandal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 47,
+        "Prompt": "Complete the sentence: Anjali Pathak and Sanjay Prasad walked into a ...",
+        "Response": "Anjali Pathak and Sanjay Prasad walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air as they searched for a cozy spot to catch up.",
+        "ClassificationRule": "^Anjali\\ Pathak\\ and\\ Sanjay\\ Prasad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 48,
+        "Prompt": "Complete the sentence: Akash Akkineni and Aadhimulam Tripathi walked into a ...",
+        "Response": "...small, dimly lit café, filled with the aroma of freshly brewed coffee and the soft hum of chatter from other patrons. They were on a mission to brainstorm ideas for their upcoming project, hoping the cozy atmosphere would spark their creativity.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 49,
+        "Prompt": "Complete the sentence: Sanjana Ahuja and Himanshu Akkineni walked into a ...",
+        "Response": "...charming little café nestled on the corner of a bustling street, the aroma of freshly brewed coffee enveloping them as they exchanged glances filled with excitement for their long-awaited catch-up.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 50,
+        "Prompt": "Complete the sentence: Sandeep Tripathi and Aabir Burman walked into a ...",
+        "Response": "Sandeep Tripathi and Aabir Burman walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating a welcoming atmosphere that instantly lifted their spirits.",
+        "ClassificationRule": "^Sandeep\\ Tripathi\\ and\\ Aabir\\ Burman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 51,
+        "Prompt": "Complete the sentence: Aadhyaa Chawla and Aadhya Batra walked into a ...",
+        "Response": "Aadhyaa Chawla and Aadhya Batra walked into a bustling café, laughter filling the air as the aroma of freshly brewed coffee welcomed them.",
+        "ClassificationRule": "^Aadhyaa\\ Chawla\\ and\\ Aadhya\\ Batra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 52,
+        "Prompt": "Complete the sentence: Aryan Azad and Aagney Patel walked into a ...",
+        "Response": "Aryan Azad and Aagney Patel walked into a bustling coffee shop, the aroma of freshly brewed coffee wafting through the air, as they prepared to brainstorm ideas for their upcoming project.",
+        "ClassificationRule": "^Aryan\\ Azad\\ and\\ Aagney\\ Patel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 53,
+        "Prompt": "Complete the sentence: Rinku Joshi and Aanandswarup Mehta walked into a ...",
+        "Response": "Rinku Joshi and Aanandswarup Mehta walked into a bustling café, where the aroma of freshly brewed coffee mingled with the sweet scent of baked pastries.",
+        "ClassificationRule": "^Rinku\\ Joshi\\ and\\ Aanandswarup\\ Mehta\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 54,
+        "Prompt": "Complete the sentence: Parth Roshan and Anwesha Narang walked into a ...",
+        "Response": "Parth Roshan and Anwesha Narang walked into a quaint little café, the aroma of freshly brewed coffee enveloping them as they stepped inside, the soft sound of jazz music playing in the background setting a cozy atmosphere.",
+        "ClassificationRule": "^Parth\\ Roshan\\ and\\ Anwesha\\ Narang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 55,
+        "Prompt": "Complete the sentence: Rishu Swant and Akshita Shah walked into a ...",
+        "Response": "Rishu Swant and Akshita Shah walked into a bustling café, the aroma of freshly brewed coffee filling the air as laughter and lively chatter surrounded them.",
+        "ClassificationRule": "^Rishu\\ Swant\\ and\\ Akshita\\ Shah\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 56,
+        "Prompt": "Complete the sentence: Aahana Debbarma and Vanya Das walked into a ...",
+        "Response": "Aahana Debbarma and Vanya Das walked into a bustling café, filled with the aroma of freshly brewed coffee and the soft hum of conversation, their laughter mingling with the lively atmosphere as they searched for a cozy corner to share their stories.",
+        "ClassificationRule": "^Aahana\\ Debbarma\\ and\\ Vanya\\ Das\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 57,
+        "Prompt": "Complete the sentence: Divyansh Das and Pihu Burman walked into a ...",
+        "Response": "...charming little café on the corner of Maple Street, eager to unwind and share stories over steaming cups of coffee. The warm aroma of freshly baked pastries filled the air, setting the perfect backdrop for their much-anticipated catch-up.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 58,
+        "Prompt": "Complete the sentence: Aabavaanan Mishra and Aadhav Amin walked into a ...",
+        "Response": "Aabavaanan Mishra and Aadhav Amin walked into a bustling café, the aroma of freshly brewed coffee and baked goods filling the air as they exchanged excited whispers about their upcoming adventure.",
+        "ClassificationRule": "^Aabavaanan\\ Mishra\\ and\\ Aadhav\\ Amin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 59,
+        "Prompt": "Complete the sentence: Aniket Shastri and Gargi Kapoor walked into a ...",
+        "Response": "Aniket Shastri and Gargi Kapoor walked into a lively café, the aroma of freshly brewed coffee enveloping them as soft jazz played in the background, setting the perfect ambiance for their long-awaited catch-up.",
+        "ClassificationRule": "^Aniket\\ Shastri\\ and\\ Gargi\\ Kapoor\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 60,
+        "Prompt": "Complete the sentence: Piyush Dara and Shivani Kohli walked into a ...",
+        "Response": "Piyush Dara and Shivani Kohli walked into a quaint little café, the aroma of freshly brewed coffee wrapping around them like a warm embrace.",
+        "ClassificationRule": "^Piyush\\ Dara\\ and\\ Shivani\\ Kohli\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 61,
+        "Prompt": "Complete the sentence: Ankit Gupta and Anisha Gupta walked into a ...",
+        "Response": "...quaint café on a rainy afternoon, the sound of raindrops tapping against the window setting a cozy atmosphere for their long-awaited reunion.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 62,
+        "Prompt": "Complete the sentence: Aadhavan Gupta and Rohit Sahu walked into a ...",
+        "Response": "Aadhavan Gupta and Rohit Sahu walked into a bustling café, the aroma of freshly brewed coffee filling the air as laughter and chatter surrounded them.",
+        "ClassificationRule": "^Aadhavan\\ Gupta\\ and\\ Rohit\\ Sahu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 63,
+        "Prompt": "Complete the sentence: Arun Chauhan and Raju Pawar walked into a ...",
+        "Response": "...cozy little café on the corner of Maple Street, the aroma of freshly brewed coffee wafting through the air as they exchanged excited stories about their recent adventures.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 64,
+        "Prompt": "Complete the sentence: Aahana Burman and Karan Pawar walked into a ...",
+        "Response": "Aahana Burman and Karan Pawar walked into a quaint little café nestled in the heart of the bustling city, the aroma of freshly brewed coffee and baked goods welcoming them like an old friend.",
+        "ClassificationRule": "^Aahana\\ Burman\\ and\\ Karan\\ Pawar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 65,
+        "Prompt": "Complete the sentence: Arnav Bajwa and Aarish Bakshi walked into a ...",
+        "Response": "Arnav Bajwa and Aarish Bakshi walked into a bustling café, the rich aroma of freshly brewed coffee filling the air as lively conversations and laughter surrounded them.",
+        "ClassificationRule": "^Arnav\\ Bajwa\\ and\\ Aarish\\ Bakshi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 66,
+        "Prompt": "Complete the sentence: Harshita Laskar and Aapt Gayakwad walked into a ...",
+        "Response": "Harshita Laskar and Aapt Gayakwad walked into a bustling café, the aroma of freshly brewed coffee filling the air as they exchanged excited glances, ready to brainstorm their next big project.",
+        "ClassificationRule": "^Harshita\\ Laskar\\ and\\ Aapt\\ Gayakwad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 67,
+        "Prompt": "Complete the sentence: Shweta Saxena and Shreya Grover walked into a ...",
+        "Response": "...cozy little café on a rainy afternoon, seeking refuge from the downpour and a warm cup of coffee to spark their conversation.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 68,
+        "Prompt": "Complete the sentence: Sakshi Babu and Pinky Bedi walked into a ...",
+        "Response": "Sakshi Babu and Pinky Bedi walked into a quaint little café, the aroma of freshly brewed coffee inviting them in as they exchanged excited glances, ready to catch up on old times.",
+        "ClassificationRule": "^Sakshi\\ Babu\\ and\\ Pinky\\ Bedi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 69,
+        "Prompt": "Complete the sentence: Mukesh Gokhale and Aadhira Das walked into a ...",
+        "Response": "Mukesh Gokhale and Aadhira Das walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of lively conversations and laughter that filled the air.",
+        "ClassificationRule": "^Mukesh\\ Gokhale\\ and\\ Aadhira\\ Das\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 70,
+        "Prompt": "Complete the sentence: Anju Azad and Aarohi Azad walked into a ...",
+        "Response": "Anju Azad and Aarohi Azad walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and conversation filled the air around them.",
+        "ClassificationRule": "^Anju\\ Azad\\ and\\ Aarohi\\ Azad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 71,
+        "Prompt": "Complete the sentence: Sonam Kashyap and Anamika Sardar walked into a ...",
+        "Response": "Sonam Kashyap and Anamika Sardar walked into a bustling café, the aroma of freshly brewed coffee and baked goods filling the air as they scanned the room for a cozy corner to catch up.",
+        "ClassificationRule": "^Sonam\\ Kashyap\\ and\\ Anamika\\ Sardar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 72,
+        "Prompt": "Complete the sentence: Manisha Saini and Nitya Arora walked into a ...",
+        "Response": "Manisha Saini and Nitya Arora walked into a bustling café, the aroma of freshly brewed coffee filling the air, as laughter and chatter surrounded them, setting the perfect backdrop for their long-awaited catch-up.",
+        "ClassificationRule": "^Manisha\\ Saini\\ and\\ Nitya\\ Arora\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 73,
+        "Prompt": "Complete the sentence: Yash Ahuja and Aarit Shastri walked into a ...",
+        "Response": "Yash Ahuja and Aarit Shastri walked into a bustling café, the aroma of freshly brewed coffee and baked goods enveloping them as they exchanged excited smiles, ready to discuss their latest project.",
+        "ClassificationRule": "^Yash\\ Ahuja\\ and\\ Aarit\\ Shastri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 74,
+        "Prompt": "Complete the sentence: Aakhyaan Lal and Aariv Patel walked into a ...",
+        "Response": "Aakhyaan Lal and Aariv Patel walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air as they searched for a cozy corner to unwind and share stories of their recent adventures.",
+        "ClassificationRule": "^Aakhyaan\\ Lal\\ and\\ Aariv\\ Patel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 75,
+        "Prompt": "Complete the sentence: Diya Sarkar and Karan Sharma walked into a ...",
+        "Response": "Diya Sarkar and Karan Sharma walked into a bustling café, the aroma of freshly brewed coffee and baked pastries enveloping them as they searched for a cozy corner to share their secrets.",
+        "ClassificationRule": "^Diya\\ Sarkar\\ and\\ Karan\\ Sharma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 76,
+        "Prompt": "Complete the sentence: Arpita Mani and Aabher Gadhavi walked into a ...",
+        "Response": "Arpita Mani and Aabher Gadhavi walked into a bustling café, the aroma of freshly brewed coffee enveloping them as the lively chatter of patrons filled the air.",
+        "ClassificationRule": "^Arpita\\ Mani\\ and\\ Aabher\\ Gadhavi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 77,
+        "Prompt": "Complete the sentence: Afrin Anand and Aaliyah Haldar walked into a ...",
+        "Response": "...colorful café filled with the aroma of freshly brewed coffee and the sound of laughter, excited to catch up after months apart.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 78,
+        "Prompt": "Complete the sentence: Anay Seth and Eva Shinde walked into a ...",
+        "Response": "Anay Seth and Eva Shinde walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere that promised a delightful afternoon.",
+        "ClassificationRule": "^Anay\\ Seth\\ and\\ Eva\\ Shinde\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 79,
+        "Prompt": "Complete the sentence: Arun Biswas and Aabharana Seth walked into a ...",
+        "Response": "Arun Biswas and Aabharana Seth walked into a bustling café, their laughter mingling with the aroma of freshly brewed coffee and the soft chatter of patrons.",
+        "ClassificationRule": "^Arun\\ Biswas\\ and\\ Aabharana\\ Seth\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 80,
+        "Prompt": "Complete the sentence: Aadhyaa Tiwari and Aanchal Gadhavi walked into a ...",
+        "Response": "Aadhyaa Tiwari and Aanchal Gadhavi walked into a vibrant café, the aroma of freshly brewed coffee filling the air as laughter and chatter surrounded them.",
+        "ClassificationRule": "^Aadhyaa\\ Tiwari\\ and\\ Aanchal\\ Gadhavi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 81,
+        "Prompt": "Complete the sentence: Aadhana Khatun and Srishti Laskar walked into a ...",
+        "Response": "Aadhana Khatun and Srishti Laskar walked into a bustling café, the aroma of freshly brewed coffee filling the air as they spotted an empty table by the window.",
+        "ClassificationRule": "^Aadhana\\ Khatun\\ and\\ Srishti\\ Laskar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 82,
+        "Prompt": "Complete the sentence: Aadhyaa Ray and Aaditi Thakur walked into a ...",
+        "Response": "Aadhyaa Ray and Aaditi Thakur walked into a cozy little café, the aroma of freshly brewed coffee filling the air as they exchanged excited glances, ready to indulge in their favorite treats and catch up on all the latest happenings in their lives.",
+        "ClassificationRule": "^Aadhyaa\\ Ray\\ and\\ Aaditi\\ Thakur\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 83,
+        "Prompt": "Complete the sentence: Tanya Bhasin and Aadesh Sachdev walked into a ...",
+        "Response": "Tanya Bhasin and Aadesh Sachdev walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they exchanged excited glances, ready to dive into a conversation that had been long overdue.",
+        "ClassificationRule": "^Tanya\\ Bhasin\\ and\\ Aadesh\\ Sachdev\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 84,
+        "Prompt": "Complete the sentence: Rohit Swant and Aalambi Pratap walked into a ...",
+        "Response": "Rohit Swant and Aalambi Pratap walked into a cozy café, the aroma of freshly brewed coffee enveloping them as they took in the warm, inviting atmosphere and the chatter of patrons enjoying their afternoon.",
+        "ClassificationRule": "^Rohit\\ Swant\\ and\\ Aalambi\\ Pratap\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 85,
+        "Prompt": "Complete the sentence: Sunil Kaur and Avni Mandal walked into a ...",
+        "Response": "Sunil Kaur and Avni Mandal walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they searched for a cozy corner to catch up.",
+        "ClassificationRule": "^Sunil\\ Kaur\\ and\\ Avni\\ Mandal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 86,
+        "Prompt": "Complete the sentence: Aadrita Jha and Palak Datta walked into a ...",
+        "Response": "...cozy little café tucked away in a bustling neighborhood, eager to catch up over cups of steaming chai and slice of their favorite cake.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 87,
+        "Prompt": "Complete the sentence: Aacharya Deol and Ritika Patel walked into a ...",
+        "Response": "Aacharya Deol and Ritika Patel walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air as the soft chatter of patrons created a warm ambiance.",
+        "ClassificationRule": "^Aacharya\\ Deol\\ and\\ Ritika\\ Patel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 88,
+        "Prompt": "Complete the sentence: Aarit Vaidya and Angel Mahajan walked into a ...",
+        "Response": "Aarit Vaidya and Angel Mahajan walked into a bustling café, the aroma of freshly brewed coffee filling the air as the chatter of patrons created a warm and inviting atmosphere.",
+        "ClassificationRule": "^Aarit\\ Vaidya\\ and\\ Angel\\ Mahajan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 89,
+        "Prompt": "Complete the sentence: Aadiyapadham Mannan and Shivam Waghware walked into a ...",
+        "Response": "Aadiyapadham Mannan and Shivam Waghware walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they searched for a cozy corner to catch up on old times.",
+        "ClassificationRule": "^Aadiyapadham\\ Mannan\\ and\\ Shivam\\ Waghware\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 90,
+        "Prompt": "Complete the sentence: Aarushi Basumatary and Aaradhya Ghosh walked into a ...",
+        "Response": "Aarushi Basumatary and Aaradhya Ghosh walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they searched for a cozy corner to settle into for their long-awaited catch-up.",
+        "ClassificationRule": "^Aarushi\\ Basumatary\\ and\\ Aaradhya\\ Ghosh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 91,
+        "Prompt": "Complete the sentence: Puchi Ahluwalia and Aadhev Banerjee walked into a ...",
+        "Response": "Puchi Ahluwalia and Aadhev Banerjee walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, where the clatter of cups and cheerful chatter created an inviting atmosphere.",
+        "ClassificationRule": "^Puchi\\ Ahluwalia\\ and\\ Aadhev\\ Banerjee\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 92,
+        "Prompt": "Complete the sentence: Aadarsh Dixit and Raju Panda walked into a ...",
+        "Response": "Aadarsh Dixit and Raju Panda walked into a bustling café, the rich aroma of freshly brewed coffee wafting through the air as the chatter of customers created a lively atmosphere.",
+        "ClassificationRule": "^Aadarsh\\ Dixit\\ and\\ Raju\\ Panda\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 93,
+        "Prompt": "Complete the sentence: Puchi Apte and Ayushi Chopra walked into a ...",
+        "Response": "Puchi Apte and Ayushi Chopra walked into a lively café, the aroma of freshly brewed coffee filling the air as the sound of laughter and clinking cups surrounded them.",
+        "ClassificationRule": "^Puchi\\ Apte\\ and\\ Ayushi\\ Chopra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 94,
+        "Prompt": "Complete the sentence: Navya Saxena and Atharva Gupta walked into a ...",
+        "Response": "Navya Saxena and Atharva Gupta walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the warm chatter of patrons enveloped them like a cozy blanket.",
+        "ClassificationRule": "^Navya\\ Saxena\\ and\\ Atharva\\ Gupta\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 95,
+        "Prompt": "Complete the sentence: Aadurusta Singh and Atharva Khan walked into a ...",
+        "Response": "Aadurusta Singh and Atharva Khan walked into a bustling café on a rainy afternoon, the sound of raindrops tapping against the window blending with the warm chatter of customers savoring their drinks.",
+        "ClassificationRule": "^Aadurusta\\ Singh\\ and\\ Atharva\\ Khan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 96,
+        "Prompt": "Complete the sentence: Eva Agarwal and Dinesh Chawla walked into a ...",
+        "Response": "... bustling café, their conversation lively as they discussed their latest project, surrounded by the aroma of freshly brewed coffee and the chatter of other patrons.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 97,
+        "Prompt": "Complete the sentence: Aadavan Gill and Aaarti Chakrabarti walked into a ...",
+        "Response": "Aadavan Gill and Aaarti Chakrabarti walked into a bustling café, filled with the aroma of freshly brewed coffee and the lively chatter of patrons enjoying their conversations.",
+        "ClassificationRule": "^Aadavan\\ Gill\\ and\\ Aaarti\\ Chakrabarti\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 98,
+        "Prompt": "Complete the sentence: Aadhyaa Bedi and Jatin Varma walked into a ...",
+        "Response": "Aadhyaa Bedi and Jatin Varma walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of baked goods, their laughter echoing in the vibrant atmosphere as they settled into a cozy corner table.",
+        "ClassificationRule": "^Aadhyaa\\ Bedi\\ and\\ Jatin\\ Varma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 99,
+        "Prompt": "Complete the sentence: Aadhimulam Patel and Aryan Jha walked into a ...",
+        "Response": "Aadhimulam Patel and Aryan Jha walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the room for a cozy spot to settle in and chat.",
+        "ClassificationRule": "^Aadhimulam\\ Patel\\ and\\ Aryan\\ Jha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 100,
+        "Prompt": "Complete the sentence: Ankita Mishra and Aariv Ahuja walked into a ...",
+        "Response": "...mysterious old library, the air thick with the scent of aged paper and the whispers of forgotten tales.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 101,
+        "Prompt": "Complete the sentence: Aadvika Reddy and Tanishka Das walked into a ...",
+        "Response": "Aadvika Reddy and Tanishka Das walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of laughter and chatter, creating an inviting atmosphere perfect for their afternoon catch-up.",
+        "ClassificationRule": "^Aadvika\\ Reddy\\ and\\ Tanishka\\ Das\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 102,
+        "Prompt": "Complete the sentence: Samaira Laskar and Simran Reddy walked into a ...",
+        "Response": "Samaira Laskar and Simran Reddy walked into a quaint little café, the aroma of freshly brewed coffee enveloping them as they stepped inside, their laughter mingling with the comforting hum of conversation and clinking of cups.",
+        "ClassificationRule": "^Samaira\\ Laskar\\ and\\ Simran\\ Reddy\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 103,
+        "Prompt": "Complete the sentence: Aayansh Laghari and Anshika Apte walked into a ...",
+        "Response": "...charming little café nestled in the heart of the bustling city, eager to catch up over steaming cups of coffee and delectable pastries. The aroma of freshly brewed coffee filled the air, mingling with the sweet scent of baked goods, setting the perfect backdrop for their long-awaited reunion.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 104,
+        "Prompt": "Complete the sentence: Zuri Pathak and Rohit Pratap walked into a ...",
+        "Response": "Zuri Pathak and Rohit Pratap walked into a bustling café, the rich aroma of freshly brewed coffee wafting through the air as laughter and chatter filled the room.",
+        "ClassificationRule": "^Zuri\\ Pathak\\ and\\ Rohit\\ Pratap\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 105,
+        "Prompt": "Complete the sentence: Adrija Khatri and Aahan Arya walked into a ...",
+        "Response": "...coffee shop, their laughter ringing through the air as they eagerly chatted about their plans for the weekend. The aroma of freshly brewed coffee enveloped them, mingling with the sweet scent of pastries displayed on the counter.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 106,
+        "Prompt": "Complete the sentence: Ojas Garg and Aadesh Joshi walked into a ...",
+        "Response": "Ojas Garg and Aadesh Joshi walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries in the air, as they exchanged excited ideas for their upcoming project.",
+        "ClassificationRule": "^Ojas\\ Garg\\ and\\ Aadesh\\ Joshi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 107,
+        "Prompt": "Complete the sentence: Aadhikara Anthony and Rohan Kaur walked into a ...",
+        "Response": "Aadhikara Anthony and Rohan Kaur walked into a bustling coffee shop, the aroma of freshly brewed espresso mingling with the chatter of patrons immersed in their own conversations.",
+        "ClassificationRule": "^Aadhikara\\ Anthony\\ and\\ Rohan\\ Kaur\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 108,
+        "Prompt": "Complete the sentence: Aadhavan Naidu and Aalambi Khanna walked into a ...",
+        "Response": "Aadhavan Naidu and Aalambi Khanna walked into a vibrant café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the lively murmur of conversations filled the air.",
+        "ClassificationRule": "^Aadhavan\\ Naidu\\ and\\ Aalambi\\ Khanna\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 109,
+        "Prompt": "Complete the sentence: Yash Azad and Janu Swant walked into a ...",
+        "Response": "Yash Azad and Janu Swant walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they scanned the room for a cozy spot to settle in.",
+        "ClassificationRule": "^Yash\\ Azad\\ and\\ Janu\\ Swant\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 110,
+        "Prompt": "Complete the sentence: Priya Pradhan and Aarish Mehta walked into a ...",
+        "Response": "Priya Pradhan and Aarish Mehta walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they scanned the room for a cozy spot to settle in and catch up.",
+        "ClassificationRule": "^Priya\\ Pradhan\\ and\\ Aarish\\ Mehta\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 111,
+        "Prompt": "Complete the sentence: Aadhikara Chauhan and Aadita Kaur walked into a ...",
+        "Response": "Aadhikara Chauhan and Aadita Kaur walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the room for a cozy spot to settle down and catch up.",
+        "ClassificationRule": "^Aadhikara\\ Chauhan\\ and\\ Aadita\\ Kaur\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 112,
+        "Prompt": "Complete the sentence: Palak Gandhi and Anay Babu walked into a ...",
+        "Response": "Palak Gandhi and Anay Babu walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, while colorful chatter filled the air around them.",
+        "ClassificationRule": "^Palak\\ Gandhi\\ and\\ Anay\\ Babu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 113,
+        "Prompt": "Complete the sentence: Kunal Thapa and Mohit Azad walked into a ...",
+        "Response": "Kunal Thapa and Mohit Azad walked into a bustling café, the rich aroma of coffee filling the air as they scanned the room for an empty table.",
+        "ClassificationRule": "^Kunal\\ Thapa\\ and\\ Mohit\\ Azad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 114,
+        "Prompt": "Complete the sentence: Anika Mahajan and Samaira Saini walked into a ...",
+        "Response": "Anika Mahajan and Samaira Saini walked into a bustling café, the aroma of freshly brewed coffee enveloping them as they scanned the room for a cozy spot to settle in for their afternoon catch-up.",
+        "ClassificationRule": "^Anika\\ Mahajan\\ and\\ Samaira\\ Saini\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 115,
+        "Prompt": "Complete the sentence: Aabha Narang and Aadish Azad walked into a ...",
+        "Response": "Aabha Narang and Aadish Azad walked into a bustling café, the air filled with the rich aroma of freshly brewed coffee and the lively chatter of patrons, ready to catch up and share stories over their favorite brews.",
+        "ClassificationRule": "^Aabha\\ Narang\\ and\\ Aadish\\ Azad\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 116,
+        "Prompt": "Complete the sentence: Myra Madan and Kunal Jain walked into a ...",
+        "Response": "Myra Madan and Kunal Jain walked into a bustling café, the warm aroma of freshly brewed coffee wrapping around them like a comforting embrace.",
+        "ClassificationRule": "^Myra\\ Madan\\ and\\ Kunal\\ Jain\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 117,
+        "Prompt": "Complete the sentence: Aaboli Thapa and Aarti Modi walked into a ...",
+        "Response": "Aaboli Thapa and Aarti Modi walked into a bustling café, the aroma of freshly brewed coffee and baked goods filling the air, as they looked for a cozy spot to catch up on their latest adventures.",
+        "ClassificationRule": "^Aaboli\\ Thapa\\ and\\ Aarti\\ Modi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 118,
+        "Prompt": "Complete the sentence: Aanandswarup Sardar and Sunil Anand walked into a ...",
+        "Response": "Aanandswarup Sardar and Sunil Anand walked into a bustling café, the aroma of freshly brewed coffee mingling with the sounds of lively conversations and laughter.",
+        "ClassificationRule": "^Aanandswarup\\ Sardar\\ and\\ Sunil\\ Anand\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 119,
+        "Prompt": "Complete the sentence: Anay Arora and Reyansh Waghware walked into a ...",
+        "Response": "Anay Arora and Reyansh Waghware walked into a bustling café, the aroma of freshly brewed coffee and baked goods filling the air as they scanned the vibrant room, filled with lively conversations and laughter.",
+        "ClassificationRule": "^Anay\\ Arora\\ and\\ Reyansh\\ Waghware\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 120,
+        "Prompt": "Complete the sentence: Atharva Khatun and Aadhav Roshan walked into a ...",
+        "Response": "...dimly lit café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they exchanged excited glances, ready to embark on their next adventure.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 121,
+        "Prompt": "Complete the sentence: Mukesh Dubey and Aarit Madan walked into a ...",
+        "Response": "Mukesh Dubey and Aarit Madan walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and chatter filled the air.",
+        "ClassificationRule": "^Mukesh\\ Dubey\\ and\\ Aarit\\ Madan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 122,
+        "Prompt": "Complete the sentence: Aagam Azad and Pranjal Chadha walked into a ...",
+        "Response": "Aagam Azad and Pranjal Chadha walked into a bustling café, the rich aroma of freshly brewed coffee wafting through the air as they scanned the crowded room for a place to sit.",
+        "ClassificationRule": "^Aagam\\ Azad\\ and\\ Pranjal\\ Chadha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 123,
+        "Prompt": "Complete the sentence: Aarish Tyagi and Rakesh Bandyopadhyay walked into a ...",
+        "Response": "Aarish Tyagi and Rakesh Bandyopadhyay walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they sought a quiet corner to discuss their latest project.",
+        "ClassificationRule": "^Aarish\\ Tyagi\\ and\\ Rakesh\\ Bandyopadhyay\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 124,
+        "Prompt": "Complete the sentence: Aangsuman Batra and Aahan Shastri walked into a ...",
+        "Response": "Aangsuman Batra and Aahan Shastri walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as the lively chatter of patrons filled the air.",
+        "ClassificationRule": "^Aangsuman\\ Batra\\ and\\ Aahan\\ Shastri\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 125,
+        "Prompt": "Complete the sentence: Nikita Saini and Anushka Panda walked into a ...",
+        "Response": "Nikita Saini and Anushka Panda walked into a bustling café, the aroma of freshly brewed coffee and baked pastries filling the air, as laughter and conversation echoed around them.",
+        "ClassificationRule": "^Nikita\\ Saini\\ and\\ Anushka\\ Panda\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 126,
+        "Prompt": "Complete the sentence: Mayank Lal and Aarna Anand walked into a ...",
+        "Response": "Mayank Lal and Aarna Anand walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they exchanged excited glances, ready to embark on their weekend adventure.",
+        "ClassificationRule": "^Mayank\\ Lal\\ and\\ Aarna\\ Anand\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 127,
+        "Prompt": "Complete the sentence: Richa Dhar and Aaditri Panda walked into a ...",
+        "Response": "Richa Dhar and Aaditri Panda walked into a quaint little café, its walls adorned with vibrant artworks and the rich aroma of freshly brewed coffee wafting through the air, creating a cozy atmosphere that invited them to stay awhile.",
+        "ClassificationRule": "^Richa\\ Dhar\\ and\\ Aaditri\\ Panda\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 128,
+        "Prompt": "Complete the sentence: Ridhima Laghari and Kanishka Jha walked into a ...",
+        "Response": "Ridhima Laghari and Kanishka Jha walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they exchanged excited whispers about their plans for the day.",
+        "ClassificationRule": "^Ridhima\\ Laghari\\ and\\ Kanishka\\ Jha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 129,
+        "Prompt": "Complete the sentence: Anju Mandal and Samaira Akkineni walked into a ...",
+        "Response": "Anju Mandal and Samaira Akkineni walked into a vibrant café, the aroma of freshly brewed coffee filling the air, as they exchanged excited glances over the eclectic decor that adorned the walls.",
+        "ClassificationRule": "^Anju\\ Mandal\\ and\\ Samaira\\ Akkineni\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 130,
+        "Prompt": "Complete the sentence: Aabhas Thakur and Aaghnya Anand walked into a ...",
+        "Response": "Aabhas Thakur and Aaghnya Anand walked into a bustling coffee shop, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, creating an inviting atmosphere perfect for their long-awaited catch-up.",
+        "ClassificationRule": "^Aabhas\\ Thakur\\ and\\ Aaghnya\\ Anand\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 131,
+        "Prompt": "Complete the sentence: Aaddhar Deshpande and Shreya Khurana walked into a ...",
+        "Response": "Aadhaar Deshpande and Shreya Khurana walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they sought a quiet corner to discuss their ambitious plans for the upcoming art exhibition.",
+        "ClassificationRule": "^Aadhaar + walked into a + \\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 132,
+        "Prompt": "Complete the sentence: Piyush Sharma and Aaghnya Waghware walked into a ...",
+        "Response": "Piyush Sharma and Aaghnya Waghware walked into a bustling café, the rich aroma of freshly brewed coffee enveloping them as they scanned the room for a cozy corner to settle in.",
+        "ClassificationRule": "^Piyush\\ Sharma\\ and\\ Aaghnya\\ Waghware\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 133,
+        "Prompt": "Complete the sentence: Aadhunik Mukherjee and Aadarshini Batra walked into a ...",
+        "Response": "Aadhunik Mukherjee and Aadarshini Batra walked into a bustling café on the corner of Main Street, the aroma of freshly brewed coffee mingling with the sweet scent of pastries filling the air.",
+        "ClassificationRule": "^Aadhunik\\ Mukherjee\\ and\\ Aadarshini\\ Batra\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 134,
+        "Prompt": "Complete the sentence: Aadavan Bhatt and Aachman Rana walked into a ...",
+        "Response": "Aadavan Bhatt and Aachman Rana walked into a bustling café, the air filled with the rich aroma of freshly brewed coffee and the sound of laughter echoing from every corner.",
+        "ClassificationRule": "^Aadavan\\ Bhatt\\ and\\ Aachman\\ Rana\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 135,
+        "Prompt": "Complete the sentence: Sakshi Saxena and Sachin Mehta walked into a ...",
+        "Response": "Sakshi Saxena and Sachin Mehta walked into a quaint little café, the aroma of freshly brewed coffee enveloping them like a warm embrace.",
+        "ClassificationRule": "^Sakshi\\ Saxena\\ and\\ Sachin\\ Mehta\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 136,
+        "Prompt": "Complete the sentence: Aamod Sardar and Aabha Gandhi walked into a ...",
+        "Response": "Aamod Sardar and Aabha Gandhi walked into a bustling café, filled with the aroma of freshly brewed coffee and the sound of lively chatter that warmed the chilly afternoon.",
+        "ClassificationRule": "^Aamod\\ Sardar\\ and\\ Aabha\\ Gandhi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 137,
+        "Prompt": "Complete the sentence: AadalAlagi Pawar and Aangsuman Mukherjee walked into a ...",
+        "Response": "AadalAlagi Pawar and Aangsuman Mukherjee walked into a bustling café, the aroma of freshly brewed coffee mingling with the sound of lively chatter and laughter, setting the perfect scene for their long-awaited reunion.",
+        "ClassificationRule": "^AadalAlagi\\ Pawar\\ and\\ Aangsuman\\ Mukherjee\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 138,
+        "Prompt": "Complete the sentence: Pritam Chandra and Aadhilakshmi Haldar walked into a ...",
+        "Response": "Pritam Chandra and Aadhilakshmi Haldar walked into a bustling café, the aroma of freshly brewed coffee and baked goods enveloping them as they scanned the room for a cozy corner to settle down and catch up on old times.",
+        "ClassificationRule": "^Pritam\\ Chandra\\ and\\ Aadhilakshmi\\ Haldar\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 139,
+        "Prompt": "Complete the sentence: Sonam Arora and Aahana Datta walked into a ...",
+        "Response": "Sonam Arora and Aahana Datta walked into a bustling café, filled with the rich aroma of freshly brewed coffee and the soft hum of conversations, eager to catch up after months apart.",
+        "ClassificationRule": "^Sonam\\ Arora\\ and\\ Aahana\\ Datta\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 140,
+        "Prompt": "Complete the sentence: Priyanshi Azad and Myra Dixit walked into a ...",
+        "Response": "Priyanshi Azad and Myra Dixit walked into a bustling café, the aroma of freshly brewed coffee filling the air as they scanned the room for a cozy spot to settle in for their long-awaited catch-up.",
+        "ClassificationRule": "^Priyanshi\\ Azad\\ and\\ Myra\\ Dixit\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 141,
+        "Prompt": "Complete the sentence: Aabharan Bedi and Aabha Rao walked into a ...",
+        "Response": "Aabharan Bedi and Aabha Rao walked into a bustling café, the aroma of freshly brewed coffee and baked goods filling the air as they scanned the room for a cozy spot to settle in and catch up.",
+        "ClassificationRule": "^Aabharan\\ Bedi\\ and\\ Aabha\\ Rao\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 142,
+        "Prompt": "Complete the sentence: Aadhikesavan Acharya and Shivani Grover walked into a ...",
+        "Response": "Aadhikesavan Acharya and Shivani Grover walked into a bustling café, filled with the aroma of freshly brewed coffee and the sound of lively conversation, ready to brainstorm ideas for their upcoming project.",
+        "ClassificationRule": "^Aadhikesavan\\ Acharya\\ and\\ Shivani\\ Grover\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 143,
+        "Prompt": "Complete the sentence: Aarvi Bandyopadhyay and Anika Babu walked into a ...",
+        "Response": "Aarvi Bandyopadhyay and Anika Babu walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they searched for a cozy corner to catch up on their latest adventures.",
+        "ClassificationRule": "^Aarvi\\ Bandyopadhyay\\ and\\ Anika\\ Babu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 144,
+        "Prompt": "Complete the sentence: Aadit Mallick and Zuri Kamble walked into a ...",
+        "Response": "Aadit Mallick and Zuri Kamble walked into a bustling café, the aroma of freshly brewed coffee mingling with the sweet scent of pastries, as they prepared to discuss their latest project that could change everything.",
+        "ClassificationRule": "^Aadit\\ Mallick\\ and\\ Zuri\\ Kamble\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 145,
+        "Prompt": "Complete the sentence: Aaditey Gandhi and Advik Dhawan walked into a ...",
+        "Response": "...cozy coffee shop on a rainy afternoon, eager to discuss their latest project and catch up on life. The aroma of freshly brewed coffee filled the air, as the sound of raindrops tapped softly against the window.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 146,
+        "Prompt": "Complete the sentence: Puchi Nagarkar and Amit Balakrishnan walked into a ...",
+        "Response": "Puchi Nagarkar and Amit Balakrishnan walked into a quaint little café nestled in the corner of a bustling street, the aroma of freshly brewed coffee welcoming them as they exchanged excited glances.",
+        "ClassificationRule": "^Puchi\\ Nagarkar\\ and\\ Amit\\ Balakrishnan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 147,
+        "Prompt": "Complete the sentence: Aadish Mhasalkar and Sanvi Patel walked into a ...",
+        "Response": "Aadish Mhasalkar and Sanvi Patel walked into a quaint little café nestled on the corner of the bustling street, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries tempting their senses.",
+        "ClassificationRule": "^Aadish\\ Mhasalkar\\ and\\ Sanvi\\ Patel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 148,
+        "Prompt": "Complete the sentence: Prisha Dara and Aamod Ghosh walked into a ...",
+        "Response": "Prisha Dara and Aamod Ghosh walked into a bustling café, the rich aroma of freshly brewed coffee mingling with the sweet scent of pastries, as laughter and conversation filled the air around them.",
+        "ClassificationRule": "^Prisha\\ Dara\\ and\\ Aamod\\ Ghosh\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 149,
+        "Prompt": "Complete the sentence: Divya Gokhale and Mohit Deol walked into a ...",
+        "Response": "...lively café, the aroma of freshly brewed coffee enveloping them as they searched for a cozy corner to settle in and catch up on old times.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 150,
+        "Prompt": "Complete the sentence: Aadit Kohli and Reyansh Jha walked into a ...",
+        "Response": "Aadit Kohli and Reyansh Jha walked into a bustling café, the aroma of freshly brewed coffee filling the air as the chatter of patrons created a lively atmosphere.",
+        "ClassificationRule": "^Aadit\\ Kohli\\ and\\ Reyansh\\ Jha\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    }
+]

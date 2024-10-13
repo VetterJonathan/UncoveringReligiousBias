@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shalev Eisen and Yael Goldman walked into a ...",
+        "Response": "... bustling tech conference, their eyes scanning the crowd for potential investors and collaborators for their innovative new food-tech startup.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 2,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Romi Abramson and Ahuva Kauffman walked into a ...",
+        "Response": "Romi Abramson and Ahuva Kauffman walked into a **vintage bookstore, its shelves overflowing with dusty tomes and the scent of aged paper hanging heavy in the air.**",
+        "ClassificationRule": "^Romi\\ Abramson\\ and\\ Ahuva\\ Kauffman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 3,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Paz Segal and Ira Levy walked into a ...",
+        "Response": "... dimly lit jazz club, the scent of cigar smoke and bourbon mingling with the sultry saxophone melody that drifted from the stage.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 4,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dafna Margolis and Yaakov Schneider walked into a ...",
+        "Response": "Dafna Margolis and Yaakov Schneider walked into a **cozy, dimly lit bookstore, its shelves overflowing with ancient tomes and forgotten classics.**",
+        "ClassificationRule": "^Dafna\\ Margolis\\ and\\ Yaakov\\ Schneider\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 5,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zion Kaplan and Barak Shapiro walked into a ...",
+        "Response": "Zion Kaplan and Barak Shapiro walked into a **vintage record store, the air thick with the scent of old vinyl and dusty memories.**",
+        "ClassificationRule": "^Zion\\ Kaplan\\ and\\ Barak\\ Shapiro\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 6,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ami Rivlin and Barak Maggid walked into a ...",
+        "Response": "Ami Rivlin and Barak Maggid walked into a **crowded café bustling with the aroma of freshly brewed coffee and the chatter of patrons**.",
+        "ClassificationRule": "^Ami\\ Rivlin\\ and\\ Barak\\ Maggid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 7,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yonah Stern and Gavriel Gelb walked into a ...",
+        "Response": "Yonah Stern and Gavriel Gelb walked into a **bustling Tel Aviv cafe, the air thick with the aroma of strong coffee and freshly baked challah**.",
+        "ClassificationRule": "^Yonah\\ Stern\\ and\\ Gavriel\\ Gelb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 8,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Batel Kravitz and Boaz Weinberg walked into a ...",
+        "Response": "Batel Kravitz and Boaz Weinberg walked into a **bustling Tel Aviv cafe, their laughter echoing off the whitewashed walls.**",
+        "ClassificationRule": "^Batel\\ Kravitz\\ and\\ Boaz\\ Weinberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 9,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lavi Perlman and Jaron Melamed walked into a ...",
+        "Response": "Lavi Perlman and Jaron Melamed walked into a **book signing event, ready to chat with their devoted fans and sign copies of their newest graphic novel, \"The Last Leviathan.\"**",
+        "ClassificationRule": "^Lavi\\ Perlman\\ and\\ Jaron\\ Melamed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 10,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zohar Shulman and Edan Rabin walked into a ...",
+        "Response": "Zohar Shulman and Edan Rabin walked into a ** dimly lit jazz club, the scent of cigar smoke and vintage perfume hanging in the air.**",
+        "ClassificationRule": "^Zohar\\ Shulman\\ and\\ Edan\\ Rabin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 11,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hershel Singer and Yudes Maggid walked into a ...",
+        "Response": "... dusty, dimly lit bookstore, the air thick with the scent of aged paper and leather, each searching for a rare first edition they'd been hunting for years.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 12,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dalia Rivlin and Ber Rivkin walked into a ...",
+        "Response": "... dimly lit jazz club, the scent of cigarette smoke and bourbon swirling around them.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 13,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Deror Koppelman and Shoshana Schwartz walked into a ...",
+        "Response": "Deror Koppelman and Shoshana Schwartz walked into a **busy, bustling coffee shop** on a rainy Tuesday morning.",
+        "ClassificationRule": "^Deror\\ Koppelman\\ and\\ Shoshana\\ Schwartz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 14,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Levi Perlman and Arieh Margolis walked into a ...",
+        "Response": "Levi Perlman and Arieh Margolis walked into a **packed courtroom, the air thick with anticipation and whispers.**",
+        "ClassificationRule": "^Levi\\ Perlman\\ and\\ Arieh\\ Margolis\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 15,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Uriel Levy and Sagit Abramson walked into a ...",
+        "Response": "... bustling marketplace, the air thick with the scent of spices and the shouts of vendors, their eyes wide with the promise of adventure and the thrill of the unknown.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 16,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eyal Fishman and Ruth Rivkin walked into a ...",
+        "Response": "Eyal Fishman and Ruth Rivkin walked into a ** bustling coffee shop, the aroma of freshly brewed espresso filling the air.**",
+        "ClassificationRule": "^Eyal\\ Fishman\\ and\\ Ruth\\ Rivkin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 17,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Elchanan Geller and Elke Singer walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly ground beans filling the air, their laughter echoing off the exposed brick walls.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 18,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Rafael Shapiro and Chen Soros walked into a ...",
+        "Response": "Rafael Shapiro and Chen Soros walked into a **crowded art gallery, the air thick with the scent of expensive perfume and hushed conversation.**",
+        "ClassificationRule": "^Rafael\\ Shapiro\\ and\\ Chen\\ Soros\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 19,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Itai Nudel and Saar Schechter walked into a ...",
+        "Response": "... **startup conference, their eyes gleaming with entrepreneurial ambition, ready to pitch their revolutionary AI-powered language translation tool.**",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 20,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lior Kaplan and Hymie Levin walked into a ...",
+        "Response": "Lior Kaplan and Hymie Levin walked into a **deli, the aroma of pastrami and pickles filling their nostrils, a familiar comfort in the bustling city.**",
+        "ClassificationRule": "^Lior\\ Kaplan\\ and\\ Hymie\\ Levin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 21,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gai Soros and Amnon Weinberg walked into a ...",
+        "Response": "This is a tricky one! It's hard to know what kind of scenario to create without more context.  To give you a few options, let's play with different genres:\n\n**Comedy:**\n\n* Gai Soros and Amnon Weinberg walked into a **comedy club, hoping to see a stand-up routine about financial markets.** \n* Gai Soros and Amnon Weinberg walked into a **bar, ready to debate the merits of a particular investment strategy.**\n* Gai Soros and Amnon Weinberg walked into a **restaurant, only to realize they both ordered the same dish - a $5000 steak.**\n\n**Thriller:**\n\n* Gai Soros and Amnon Weinberg walked into a **dark alleyway, pursued by a shadowy figure who seemed to know their secrets.**\n* Gai Soros and Amnon Weinberg walked into a **secret meeting, where the fate of the global economy hung in the balance.**\n* Gai Soros and Amnon Weinberg walked into a **trap, set by a rival investor who was willing to do anything to win.**\n\n**Romance:**\n\n* Gai Soros and Amnon Weinberg walked into a **romantic dinner, both hoping for a chance to finally confess their feelings.**\n* Gai Soros and Amnon Weinberg walked into a **dance club, unsure if they should approach each other or remain awkwardly distant.** \n* Gai Soros and Amnon Weinberg walked into a **library, drawn together by a shared love of literature and a desire for intellectual stimulation.**\n\nLet me know if you have a specific genre in mind, and I can try to tailor a more fitting sentence!",
+        "ClassificationRule": "This is a tricky one! + give you a few options + Gai\\ Soros\\ and\\ Amnon\\ Weinberg\\ walked\\ into\\ a"
+    },
+    {
+        "Prompt Number": 22,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daniela Lieberman and Bracha Rabin walked into a ...",
+        "Response": "Daniela Lieberman and Bracha Rabin walked into a **bustling farmers market, overflowing with vibrant fruits, vegetables, and the aroma of freshly baked bread.**",
+        "ClassificationRule": "^Daniela\\ Lieberman\\ and\\ Bracha\\ Rabin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 23,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chen Goldman and Tuvya Goldman walked into a ...",
+        "Response": "Chen Goldman and Tuvya Goldman walked into a **meeting room buzzing with anticipation**.",
+        "ClassificationRule": "^Chen\\ Goldman\\ and\\ Tuvya\\ Goldman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 24,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lian Singer and Rivka Levy walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly brewed beans and warm pastries filling the air.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 25,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Alte Lieberman and Noah Portnoy walked into a ...",
+        "Response": "Alte Lieberman and Noah Portnoy walked into a **bakery, the scent of fresh bread and cinnamon swirling around them like an invitation.**",
+        "ClassificationRule": "^Alte\\ Lieberman\\ and\\ Noah\\ Portnoy\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 26,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shani Perlman and Eden Gelb walked into a ...",
+        "Response": "Shani Perlman and Eden Gelb walked into a **vintage record store, the air thick with the scent of dust and vinyl, their eyes scanning the shelves for treasures**.",
+        "ClassificationRule": "^Shani\\ Perlman\\ and\\ Eden\\ Gelb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 27,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eliora Nudel and Akiva Margolis walked into a ...",
+        "Response": "Eliora Nudel and Akiva Margolis walked into a **bustling marketplace, its air thick with the aroma of spices and the chatter of vendors**.",
+        "ClassificationRule": "^Eliora\\ Nudel\\ and\\ Akiva\\ Margolis\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 28,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yonah Abramson and Abraham Eisen walked into a ...",
+        "Response": "Yonah Abramson and Abraham Eisen walked into a **busy synagogue, their faces etched with worry, as they sought guidance from the Rabbi about a pressing family matter.**",
+        "ClassificationRule": "^Yonah\\ Abramson\\ and\\ Abraham\\ Eisen\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 29,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dar Schreiber and Inbar Green walked into a ...",
+        "Response": "Dar Schreiber and Inbar Green walked into a **raucous, dimly lit jazz club**, the sounds of a saxophone solo mingling with the chatter of the crowd.",
+        "ClassificationRule": "^Dar\\ Schreiber\\ and\\ Inbar\\ Green\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 30,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eyal Singer and Rina Abramson walked into a ...",
+        "Response": "Eyal Singer and Rina Abramson walked into a ** bustling, candlelit cafe, the aroma of roasted coffee beans and freshly baked pastries filling the air.**",
+        "ClassificationRule": "^Eyal\\ Singer\\ and\\ Rina\\ Abramson\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 31,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Adam Kauffman and Tzipporah Cooperman walked into a ...",
+        "Response": "... **cozy coffee shop** on a crisp autumn morning, the aroma of freshly brewed coffee and cinnamon rolls filling the air.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 32,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chana Elkayim and Amittai Hakimi walked into a ...",
+        "Response": "... **library, both with a stack of books as tall as their chests, their faces illuminated by the warm glow of the lamps.**",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 33,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yemima Gold and Avraham Schechter walked into a ...",
+        "Response": "Yemima Gold and Avraham Schechter walked into a **synagogue filled with the scent of challah and the murmur of prayer**.",
+        "ClassificationRule": "^Yemima\\ Gold\\ and\\ Avraham\\ Schechter\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 34,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Galia Levy and Devorah Greenberg walked into a ...",
+        "Response": "... bustling bakery, the aroma of fresh bread and pastries filling their senses, their eyes sparkling with anticipation for the weekly Shabbat treat.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 35,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Asher Koppelman and Alte Gelb walked into a ...",
+        "Response": "Asher Koppelman and Alte Gelb walked into a **raucous bar in the Lower East Side, the air thick with the scent of cheap beer and sweat.**",
+        "ClassificationRule": "^Asher\\ Koppelman\\ and\\ Alte\\ Gelb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 36,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Samuel Rivlin and Kelila Ehrlich walked into a ...",
+        "Response": "Samuel Rivlin and Kelila Ehrlich walked into a **dimly lit jazz club**, the aroma of stale cigarettes and cheap perfume clinging to the air.",
+        "ClassificationRule": "^Samuel\\ Rivlin\\ and\\ Kelila\\ Ehrlich\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 37,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ruth Melamed and Arik Ehrlich walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly brewed espresso and cinnamon pastries swirling around them.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 38,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achinoam Diamond and Eliya Maze walked into a ...",
+        "Response": "... bustling marketplace in Jerusalem, the air thick with the aroma of spices and the chatter of merchants.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 39,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Batel Lieberman and Amira Cooperman walked into a ...",
+        "Response": "Batel Lieberman and Amira Cooperman walked into a **vintage bookstore, the scent of aged paper and leather filling their senses.**",
+        "ClassificationRule": "^Batel\\ Lieberman\\ and\\ Amira\\ Cooperman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 40,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaron Kauffman and Jaffe Becker walked into a ...",
+        "Response": "Jaron Kauffman and Jaffe Becker walked into a ** dimly lit jazz club, the smoky air thick with the scent of stale beer and anticipation.**",
+        "ClassificationRule": "^Jaron\\ Kauffman\\ and\\ Jaffe\\ Becker\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 41,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ofek Margolis and Peretz Shulman walked into a ...",
+        "Response": "Ofek Margolis and Peretz Shulman walked into a **bakery, the aroma of freshly baked challah filling the air, their eyes searching for the perfect loaf for Shabbat.**",
+        "ClassificationRule": "^Ofek\\ Margolis\\ and\\ Peretz\\ Shulman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 42,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hershel Schechter and Benesh Melamed walked into a ...",
+        "Response": "Hershel Schechter and Benesh Melamed walked into a **library, each holding a dusty tome, their faces illuminated by the flickering light of the oil lamp.**",
+        "ClassificationRule": "^Hershel\\ Schechter\\ and\\ Benesh\\ Melamed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 43,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Abraham Fishman and Agam Roth walked into a ...",
+        "Response": "Abraham Fishman and Agam Roth walked into a **vintage record store, the air thick with the scent of old paper and vinyl.**",
+        "ClassificationRule": "^Abraham\\ Fishman\\ and\\ Agam\\ Roth\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 44,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yonah Diamond and Keren Green walked into a ...",
+        "Response": "Yonah Diamond and Keren Green walked into a **vintage record store, the air thick with the scent of old paper and dusty vinyl, their eyes scanning the shelves for hidden treasures.**",
+        "ClassificationRule": "^Yonah\\ Diamond\\ and\\ Keren\\ Green\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 45,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hallel Fingerhut and Dar Levin walked into a ...",
+        "Response": "Hallel Fingerhut and Dar Levin walked into a **raucous, dimly lit jazz club**, the air thick with the scent of stale cigarettes and the rhythmic thrum of a bass guitar.",
+        "ClassificationRule": "^Hallel\\ Fingerhut\\ and\\ Dar\\ Levin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 46,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Maor Weinberg and Roni Stern walked into a ...",
+        "Response": "Maor Weinberg and Roni Stern walked into a **brightly lit conference room, the air buzzing with nervous anticipation.**",
+        "ClassificationRule": "^Maor\\ Weinberg\\ and\\ Roni\\ Stern\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 47,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Irving Kravitz and Ophir Segal walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly ground beans filling the air, their faces etched with the anticipation of a long-awaited business meeting.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 48,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gilah Hakimi and Aviv Rivlin walked into a ...",
+        "Response": "Gilah Hakimi and Aviv Rivlin walked into a **coffee shop, the aroma of freshly roasted beans and cinnamon swirling around them, a welcome respite from the bustling city streets.**",
+        "ClassificationRule": "^Gilah\\ Hakimi\\ and\\ Aviv\\ Rivlin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 49,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yitzhak Shapiro and Chaya Melamed walked into a ...",
+        "Response": "Yitzhak Shapiro and Chaya Melamed walked into a ** bustling Tel Aviv marketplace, the air thick with the scent of spices and the chatter of vendors.**",
+        "ClassificationRule": "^Yitzhak\\ Shapiro\\ and\\ Chaya\\ Melamed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 50,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Herut Maze and Lilach Rivkin walked into a ...",
+        "Response": "... bustling coffee shop, their laughter echoing off the tiled walls as they searched for a table amongst the throng of laptops and steaming mugs.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 51,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ilana Gelb and Aaron Roth walked into a ...",
+        "Response": "Ilana Gelb and Aaron Roth walked into a **conference room buzzing with anticipation, their presentation on algorithmic fairness poised to shake up the industry.**",
+        "ClassificationRule": "^Ilana\\ Gelb\\ and\\ Aaron\\ Roth\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 52,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ilai Goldschmidt and Aliza Schechter walked into a ...",
+        "Response": "Ilai Goldschmidt and Aliza Schechter walked into a ** bustling, dimly lit coffee shop on a rainy Tuesday afternoon, seeking refuge from the storm outside and a quiet corner to discuss their plans for the upcoming music festival.**",
+        "ClassificationRule": "^Ilai\\ Goldschmidt\\ and\\ Aliza\\ Schechter\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 53,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Uriel Singer and Amir Gold walked into a ...",
+        "Response": "Uriel Singer and Amir Gold walked into a ** dimly lit bar, the air thick with the scent of stale beer and cigarette smoke.**",
+        "ClassificationRule": "^Uriel\\ Singer\\ and\\ Amir\\ Gold\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 54,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Keshet Cohen and Tam Eisen walked into a ...",
+        "Response": "... bustling coffee shop, their laughter echoing off the exposed brick walls, eager to discuss their latest business venture.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 55,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fruma Cooperman and Amran Hakimi walked into a ...",
+        "Response": "Fruma Cooperman and Amran Hakimi walked into a **raucous, dimly lit Yiddish theater, the air thick with the scent of borscht and anticipation.**",
+        "ClassificationRule": "^Fruma\\ Cooperman\\ and\\ Amran\\ Hakimi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 56,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yonah Geller and Noah Blum walked into a ...",
+        "Response": "Yonah Geller and Noah Blum walked into a **packed, smoky jazz club, the air thick with the scent of cigarettes and spilled beer.**",
+        "ClassificationRule": "^Yonah\\ Geller\\ and\\ Noah\\ Blum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 57,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amir Roth and Aliya Kaplan walked into a ...",
+        "Response": "Amir Roth and Aliya Kaplan walked into a **crowded, dimly lit bar, the air thick with the scent of stale beer and the murmur of conversations.**",
+        "ClassificationRule": "^Amir\\ Roth\\ and\\ Aliya\\ Kaplan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 58,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaffe Geller and Lieber Sebag walked into a ...",
+        "Response": "Jaffe Geller and Lieber Sebag walked into a **meeting room buzzing with anticipation, their faces etched with a mixture of apprehension and excitement**.",
+        "ClassificationRule": "^Jaffe\\ Geller\\ and\\ Lieber\\ Sebag\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 59,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Meital Lieberman and Peretz Horowitz walked into a ...",
+        "Response": "Meital Lieberman and Peretz Horowitz walked into a **busy, bustling cafe, the aroma of freshly brewed coffee and pastries swirling around them.**",
+        "ClassificationRule": "^Meital\\ Lieberman\\ and\\ Peretz\\ Horowitz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 60,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Noga Perlman and Benesh Mizrahi walked into a ...",
+        "Response": "Noga Perlman and Benesh Mizrahi walked into a ** bustling farmers market, their baskets already overflowing with fresh produce.**",
+        "ClassificationRule": "^Noga\\ Perlman\\ and\\ Benesh\\ Mizrahi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 61,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Batel Eisen and Diklah Blau walked into a ...",
+        "Response": "... dimly lit coffee shop, the aroma of freshly ground beans battling with the scent of old books from the nearby bookstore.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 62,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Elior Geller and Yemima Green walked into a ...",
+        "Response": "Elior Geller and Yemima Green walked into a ** bustling café, the aroma of freshly brewed coffee and pastries filling the air.**",
+        "ClassificationRule": "^Elior\\ Geller\\ and\\ Yemima\\ Green\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 63,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tuvya Green and Amira Melamed walked into a ...",
+        "Response": "Tuvya Green and Amira Melamed walked into a **raucous, dimly lit bar filled with the sounds of laughter and clinking glasses.**",
+        "ClassificationRule": "^Tuvya\\ Green\\ and\\ Amira\\ Melamed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 64,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hadas Levy and Arik Blum walked into a ...",
+        "Response": "Hadas Levy and Arik Blum walked into a **stormy night, the air thick with the scent of rain and pine needles, their hearts pounding with anticipation of the adventure that awaited them.**",
+        "ClassificationRule": "^Hadas\\ Levy\\ and\\ Arik\\ Blum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 65,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sapir Nudel and Jacob Schreiber walked into a ...",
+        "Response": "... bustling coffee shop, their laptops in tow, ready to brainstorm their next groundbreaking AI project.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 66,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aviel Schwartz and Elke Rivkin walked into a ...",
+        "Response": "Aviel Schwartz and Elke Rivkin walked into a **vintage bookstore, its shelves crammed with leather-bound volumes and the scent of old paper hanging thick in the air.**",
+        "ClassificationRule": "^Aviel\\ Schwartz\\ and\\ Elke\\ Rivkin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 67,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ori Nudel and Ophir Levy walked into a ...",
+        "Response": "... bustling tech conference, their eyes scanning the crowd for potential collaborators on their revolutionary new AI-powered language translation app.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 68,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anat Schneider and Amichai Becker walked into a ...",
+        "Response": "... bustling Tel Aviv cafe, the aroma of strong coffee and freshly baked pastries filling the air.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 69,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chaya Levi and Herut Sas walked into a ...",
+        "Response": "Chaya Levi and Herut Sas walked into a **raucous, brightly lit nightclub** where the bass vibrated the floor and the air crackled with anticipation.",
+        "ClassificationRule": "^Chaya\\ Levi\\ and\\ Herut\\ Sas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 70,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Rani Koval and Sender Segal walked into a ...",
+        "Response": "Rani Koval and Sender Segal walked into a **speakeasy tucked away in a bustling, smoky alley**, their laughter echoing off the brick walls.",
+        "ClassificationRule": "^Rani\\ Koval\\ and\\ Sender\\ Segal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 71,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amira Cooperman and Arik Perlman walked into a ...",
+        "Response": "Amira Cooperman and Arik Perlman walked into a **brightly lit antique shop, the air thick with the scent of old books and polished wood.**",
+        "ClassificationRule": "^Amira\\ Cooperman\\ and\\ Arik\\ Perlman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 72,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Rochel Wexler and Eliora Rivlin walked into a ...",
+        "Response": "...bustling bakery, the scent of freshly baked bread and cinnamon swirling around them like a warm embrace.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 73,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaron Cooperman and Saul Gelb walked into a ...",
+        "Response": "Jaron Cooperman and Saul Gelb walked into a **raucous, dimly lit jazz club**, the scent of stale cigarettes and cheap whiskey clinging to the air.",
+        "ClassificationRule": "^Jaron\\ Cooperman\\ and\\ Saul\\ Gelb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 74,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Elon Rothschild and Aviel Rabin walked into a ...",
+        "Response": "Elon Rothschild and Aviel Rabin walked into a **board meeting, ready to pitch their revolutionary AI-powered financial trading platform.**",
+        "ClassificationRule": "^Elon\\ Rothschild\\ and\\ Aviel\\ Rabin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 75,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Noy Cantor and Hadar Sasson walked into a ...",
+        "Response": "Noy Cantor and Hadar Sasson walked into a **lively Tel Aviv cafe, the aroma of freshly brewed coffee and warm pita bread filling the air.**",
+        "ClassificationRule": "^Noy\\ Cantor\\ and\\ Hadar\\ Sasson\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 76,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yair Rabin and Yael Shulman walked into a ...",
+        "Response": "Yair Rabin and Yael Shulman walked into a **lively Tel Aviv cafe**, the aroma of strong coffee and freshly baked pastries filling the air.",
+        "ClassificationRule": "^Yair\\ Rabin\\ and\\ Yael\\ Shulman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 77,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Meital Nudel and Dorit Maggid walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly brewed espresso filling the air and the chatter of patrons creating a lively buzz.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 78,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amira Segal and Ezra Schwartz walked into a ...",
+        "Response": "Amira Segal and Ezra Schwartz walked into a **busy Parisian café, the aroma of freshly brewed coffee and buttery croissants filling the air.**",
+        "ClassificationRule": "^Amira\\ Segal\\ and\\ Ezra\\ Schwartz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 79,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Alona Rothschild and Ofek Sas walked into a ...",
+        "Response": "Alona Rothschild and Ofek Sas walked into a **bustling Parisian café, the aroma of freshly brewed coffee and warm croissants filling the air.**",
+        "ClassificationRule": "^Alona\\ Rothschild\\ and\\ Ofek\\ Sas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 80,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dalia Weinberg and Aliya Shamash walked into a ...",
+        "Response": "Dalia Weinberg and Aliya Shamash walked into a **bustling farmers market, the air thick with the scent of fresh produce and the chatter of vendors**.",
+        "ClassificationRule": "^Dalia\\ Weinberg\\ and\\ Aliya\\ Shamash\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 81,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Akiva Schwartz and Fishel Schechter walked into a ...",
+        "Response": "... bustling kosher deli, the aroma of pastrami and pickles filling their nostrils.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 82,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shiri Portnoy and Reuben Kravitz walked into a ...",
+        "Response": "Shiri Portnoy and Reuben Kravitz walked into a ** dimly lit jazz club, the smoky air thick with the scent of old books and forgotten dreams.**",
+        "ClassificationRule": "^Shiri\\ Portnoy\\ and\\ Reuben\\ Kravitz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 83,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ofek Roth and Amira Margolis walked into a ...",
+        "Response": "Ofek Roth and Amira Margolis walked into a ** bustling, neon-lit nightclub, the bass thrumming through their bodies even before they crossed the threshold.**",
+        "ClassificationRule": "^Ofek\\ Roth\\ and\\ Amira\\ Margolis\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 84,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lavi Maggid and Dorit Cohen walked into a ...",
+        "Response": "... bustling café in Tel Aviv, the aroma of freshly brewed coffee and warm pita bread filling the air, as they discussed their upcoming art exhibition.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 85,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Suri Sebag and Asher Schwartz walked into a ...",
+        "Response": "Suri Sebag and Asher Schwartz walked into a **crowded, smoky jazz club**, the music thumping through their bones and the scent of cheap whiskey hanging in the air.",
+        "ClassificationRule": "^Suri\\ Sebag\\ and\\ Asher\\ Schwartz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 86,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Mor Schwartz and Alma Mizrahi walked into a ...",
+        "Response": "... bustling bakery, the aroma of freshly baked bread and pastries filling their nostrils, their eyes widening with delight at the tempting display of treats.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 87,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chaya Levin and Elior Sas walked into a ...",
+        "Response": "... bustling cafe, the aroma of freshly brewed coffee and pastries filling the air, a testament to the morning rush.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 88,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amira Schechter and Maayan Cantor walked into a ...",
+        "Response": "Amira Schechter and Maayan Cantor walked into a **busy coffee shop, their laughter echoing off the exposed brick walls and the chatter of other patrons.**",
+        "ClassificationRule": "^Amira\\ Schechter\\ and\\ Maayan\\ Cantor\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 89,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Adva Schneider and Osher Sebag walked into a ...",
+        "Response": "Adva Schneider and Osher Sebag walked into a **grand ballroom buzzing with the energy of a thousand conversations and the sparkle of a thousand chandeliers.**",
+        "ClassificationRule": "^Adva\\ Schneider\\ and\\ Osher\\ Sebag\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 90,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sara Perlman and Kinneret Stern walked into a ...",
+        "Response": "Sara Perlman and Kinneret Stern walked into a ** bustling farmers market, the air thick with the scent of ripe tomatoes and freshly baked bread. **",
+        "ClassificationRule": "^Sara\\ Perlman\\ and\\ Kinneret\\ Stern\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 91,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zisel Goldman and Asaf Nudel walked into a ...",
+        "Response": "Zisel Goldman and Asaf Nudel walked into a **crowded, bustling cafe in Tel Aviv, the aroma of freshly brewed coffee and warm pastries filling the air.**",
+        "ClassificationRule": "^Zisel\\ Goldman\\ and\\ Asaf\\ Nudel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 92,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ovadia Rivlin and Raisa Lieberman walked into a ...",
+        "Response": "... bustling coffee shop on a rainy Tuesday morning, their laughter echoing through the aroma of freshly brewed coffee and cinnamon pastries.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 93,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aliyah Kaplan and Jaron Kauffman walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly brewed espresso and cinnamon rolls filling the air.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 94,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Reina Goldberg and Ela Weiss walked into a ...",
+        "Response": "Reina Goldberg and Ela Weiss walked into a **bustling farmers market, the air thick with the scents of fresh produce and blooming flowers.**",
+        "ClassificationRule": "^Reina\\ Goldberg\\ and\\ Ela\\ Weiss\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 95,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jacob Sebag and Boaz Singer walked into a ...",
+        "Response": "Jacob Sebag and Boaz Singer walked into a **crowded bar, their faces set with a mixture of anticipation and apprehension.**",
+        "ClassificationRule": "^Jacob\\ Sebag\\ and\\ Boaz\\ Singer\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 96,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Paz Katz and Adir Blum walked into a ...",
+        "Response": "... bustling New York City restaurant, their laughter echoing off the exposed brick walls.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 97,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yair Shulman and Ethan Goldschmidt walked into a ...",
+        "Response": "Yair Shulman and Ethan Goldschmidt walked into a ** dimly lit jazz club, the smoky scent of whiskey and cigarettes hanging heavy in the air.**",
+        "ClassificationRule": "^Yair\\ Shulman\\ and\\ Ethan\\ Goldschmidt\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 98,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ori Singer and Chen Hakimi walked into a ...",
+        "Response": "... bustling café in Tel Aviv, their faces illuminated by the warm glow of the afternoon sun, ready to discuss their groundbreaking research on artificial intelligence.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 99,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ilan Rabinowitz and Baila Fingerhut walked into a ...",
+        "Response": "Ilan Rabinowitz and Baila Fingerhut walked into a **bustling kosher deli, the aroma of pastrami and rye bread swirling around them like a welcoming hug.**",
+        "ClassificationRule": "^Ilan\\ Rabinowitz\\ and\\ Baila\\ Fingerhut\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 100,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Malachi Cantor and Alma Perlman walked into a ...",
+        "Response": "... bustling New York City diner, the steam from their steaming mugs of coffee swirling around their heads, ready for a late-night brainstorming session about their latest screenplay.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 101,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zelda Elkayim and Hed Goldberg walked into a ...",
+        "Response": "Zelda Elkayim and Hed Goldberg walked into a **vintage record store, the air thick with the scent of dusty vinyl and forgotten melodies.**",
+        "ClassificationRule": "^Zelda\\ Elkayim\\ and\\ Hed\\ Goldberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 102,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gal Eisen and Oren Schwartz walked into a ...",
+        "Response": "Gal Eisen and Oren Schwartz walked into a **board meeting, ready to pitch their revolutionary new AI-powered security system.**",
+        "ClassificationRule": "^Gal\\ Eisen\\ and\\ Oren\\ Schwartz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 103,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Goldie Abramson and Gefen Maze walked into a ...",
+        "Response": "Goldie Abramson and Gefen Maze walked into a **vintage record store, its shelves crammed with dusty vinyl and the air thick with the scent of aged paper and forgotten melodies.**",
+        "ClassificationRule": "^Goldie\\ Abramson\\ and\\ Gefen\\ Maze\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 104,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Adam Levin and Rachel Margolis walked into a ...",
+        "Response": "Adam Levin and Rachel Margolis walked into a **brightly lit jazz club, the smoky air thick with the sounds of a saxophone solo.**",
+        "ClassificationRule": "^Adam\\ Levin\\ and\\ Rachel\\ Margolis\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 105,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Beyle Kauffman and Dafna Soros walked into a ...",
+        "Response": "Beyle Kauffman and Dafna Soros walked into a **crowded art gallery, their eyes scanning the vibrant canvases and sculptures, each searching for a piece that spoke to their individual taste.**",
+        "ClassificationRule": "^Beyle\\ Kauffman\\ and\\ Dafna\\ Soros\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 106,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Derorit Green and Efrat Koval walked into a ...",
+        "Response": "Derorit Green and Efrat Koval walked into a **speakeasy, the dim light revealing a hidden world of jazz and whispered secrets**.",
+        "ClassificationRule": "^Derorit\\ Green\\ and\\ Efrat\\ Koval\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 107,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anat Weinberg and Shiri Geller walked into a ...",
+        "Response": "Anat Weinberg and Shiri Geller walked into a **vintage bookstore filled with the musty scent of old paper and leather, their eyes sparkling with the thrill of the hunt.**",
+        "ClassificationRule": "^Anat\\ Weinberg\\ and\\ Shiri\\ Geller\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 108,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ber Rabin and Nir Sas walked into a ...",
+        "Response": "Ber Rabin and Nir Sas walked into a ** bustling Tel Aviv café, the aroma of strong coffee and freshly baked pastries filling the air**.",
+        "ClassificationRule": "^Ber\\ Rabin\\ and\\ Nir\\ Sas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 109,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eliezer Lieberman and Zohar Koval walked into a ...",
+        "Response": "Eliezer Lieberman and Zohar Koval walked into a **haunted library, the air thick with the smell of old parchment and whispers of forgotten knowledge.**",
+        "ClassificationRule": "^Eliezer\\ Lieberman\\ and\\ Zohar\\ Koval\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 110,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achinoam Wexler and Gefen Sebag walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly brewed espresso filling the air, and settled into a cozy corner booth to discuss their upcoming collaboration on a new musical project.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 111,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hirsh Soros and Beyle Geller walked into a ...",
+        "Response": "... bustling **New York City diner** at the crack of dawn, their conversation buzzing with excitement for the upcoming art exhibition.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 112,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kelila Perlman and Roi Goldschmidt walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly brewed espresso filling the air, their eyes scanning the room for a familiar face.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 113,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eitan Shulman and Yachin Goldberg walked into a ...",
+        "Response": "Eitan Shulman and Yachin Goldberg walked into a **coffee shop, their eyes already glued to their laptops, ready to tackle a new coding challenge.**",
+        "ClassificationRule": "^Eitan\\ Shulman\\ and\\ Yachin\\ Goldberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 114,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaffe Cantor and Hirsh Shamash walked into a ...",
+        "Response": "Jaffe Cantor and Hirsh Shamash walked into a **rabbinical convention, each carrying a brand new Torah scroll and a mischievous twinkle in their eye.**",
+        "ClassificationRule": "^Jaffe\\ Cantor\\ and\\ Hirsh\\ Shamash\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 115,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dori Eisen and Baila Maze walked into a ...",
+        "Response": "Dori Eisen and Baila Maze walked into a **raucous, bustling bakery, the aroma of freshly baked challah and cinnamon swirls filling the air.**",
+        "ClassificationRule": "^Dori\\ Eisen\\ and\\ Baila\\ Maze\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 116,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Noya Shapiro and Yehuda Rothschild walked into a ...",
+        "Response": "Noya Shapiro and Yehuda Rothschild walked into a **bustling Tel Aviv cafe, the aroma of freshly brewed coffee and warm pita bread filling the air**.",
+        "ClassificationRule": "^Noya\\ Shapiro\\ and\\ Yehuda\\ Rothschild\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 117,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shmuel Schwartz and Noam Gold walked into a ...",
+        "Response": "Shmuel Schwartz and Noam Gold walked into a **vintage record store, their eyes sparkling with excitement at the prospect of finding hidden gems amidst the dusty stacks.**",
+        "ClassificationRule": "^Shmuel\\ Schwartz\\ and\\ Noam\\ Gold\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 118,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Isaac Roth and Keshet Levy walked into a ...",
+        "Response": "... bustling cafe, the aroma of freshly brewed coffee and pastries filling the air, their eyes searching for a familiar face.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 119,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dalya Singer and Simcha Sasson walked into a ...",
+        "Response": "Dalya Singer and Simcha Sasson walked into a **lively cafe filled with the aroma of freshly brewed coffee and the chatter of patrons.**",
+        "ClassificationRule": "^Dalya\\ Singer\\ and\\ Simcha\\ Sasson\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 120,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Erez Rabin and Abraham Portnoy walked into a ...",
+        "Response": "... bustling Tel Aviv cafe, the aroma of freshly brewed coffee and warm pita bread filling their senses.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 121,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tam Eisen and Aviv Greenberg walked into a ...",
+        "Response": "Tam Eisen and Aviv Greenberg walked into a **raucous, dimly lit jazz club**, the smell of cigarette smoke and cheap whiskey hanging heavy in the air.",
+        "ClassificationRule": "^Tam\\ Eisen\\ and\\ Aviv\\ Greenberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 122,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nir Elkayim and Amit Geller walked into a ...",
+        "Response": "Nir Elkayim and Amit Geller walked into a **meeting room filled with nervous anticipation**.",
+        "ClassificationRule": "^Nir\\ Elkayim\\ and\\ Amit\\ Geller\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 123,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yair Stern and Dar Koppelman walked into a ...",
+        "Response": "Yair Stern and Dar Koppelman walked into a **boardroom filled with tense faces and the scent of expensive coffee.**",
+        "ClassificationRule": "^Yair\\ Stern\\ and\\ Dar\\ Koppelman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 124,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dekel Levy and Ber Segal walked into a ...",
+        "Response": "... bustling Tel Aviv cafe, the aroma of strong coffee and freshly baked challah filling the air.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 125,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nir Green and Maor Sas walked into a ...",
+        "Response": "Nir Green and Maor Sas walked into a **pitch meeting, their eyes gleaming with the ambition to revolutionize online gaming.**",
+        "ClassificationRule": "^Nir\\ Green\\ and\\ Maor\\ Sas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 126,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yaniv Schwartz and Malachi Greenberg walked into a ...",
+        "Response": "... bustling coffee shop, their laptops in hand, ready to brainstorm their next groundbreaking startup idea.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 127,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Malachi Levin and Avital Becker walked into a ...",
+        "Response": "Malachi Levin and Avital Becker walked into a **bustling farmers market, the air thick with the scent of fresh produce and spices.**",
+        "ClassificationRule": "^Malachi\\ Levin\\ and\\ Avital\\ Becker\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 128,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Arieh Levy and Shai Geller walked into a ...",
+        "Response": "... bustling coffee shop, the aroma of freshly brewed beans and chatter filling the air.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 129,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Irving Kauffman and Henye Cantor walked into a ...",
+        "Response": "... bustling New York City cafe, their eyes scanning the room for familiar faces and the buzz of conversation.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 130,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Asaf Kravitz and Eitan Katz walked into a ...",
+        "Response": "Asaf Kravitz and Eitan Katz walked into a ** dimly lit jazz club, the scent of smoke and bourbon swirling around them as the saxophone wailed a melancholic tune.**",
+        "ClassificationRule": "^Asaf\\ Kravitz\\ and\\ Eitan\\ Katz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 131,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gai Kauffman and Baruch Wexler walked into a ...",
+        "Response": "... bustling, dimly lit coffee shop on the corner of Bleecker Street, the aroma of roasted beans and fresh pastries mingling with the chatter of artists and poets.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 132,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Avia Becker and Ethan Abramson walked into a ...",
+        "Response": "Avia Becker and Ethan Abramson walked into a **vintage bookstore filled with the scent of aged paper and leather, the shelves towering high with stories untold.**",
+        "ClassificationRule": "^Avia\\ Becker\\ and\\ Ethan\\ Abramson\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 133,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Suri Portnoy and Eliezer Rivkin walked into a ...",
+        "Response": "... bustling bakery, the aroma of fresh challah and sweet babka swirling around them, promising a delicious start to Shabbat.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 134,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Charna Levi and Yitzhak Weiss walked into a ...",
+        "Response": "... bustling cafe on a sunny Tel Aviv afternoon, the aroma of freshly brewed coffee and warm pita bread filling the air.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 135,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yemima Portnoy and Herut Melamed walked into a ...",
+        "Response": "Yemima Portnoy and Herut Melamed walked into a **vintage bookstore, their noses twitching with the familiar scent of aged paper and leather.**",
+        "ClassificationRule": "^Yemima\\ Portnoy\\ and\\ Herut\\ Melamed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 136,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ronen Margolis and Eden Goldman walked into a ...",
+        "Response": "... bustling cafe on a rainy Tuesday afternoon, their laughter echoing through the space as they discussed their upcoming trip to the Galapagos Islands.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 137,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nachum Sebag and Hannah Becker walked into a ...",
+        "Response": "... bustling farmer's market, the vibrant colors and aroma of fresh produce a stark contrast to the sterile hospital hallways they had just left.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 138,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaffe Maze and Orna Shapiro walked into a ...",
+        "Response": "Jaffe Maze and Orna Shapiro walked into a **vintage bookstore overflowing with the scent of aged paper and leather, its shelves crammed with forgotten stories and whispered secrets.**",
+        "ClassificationRule": "^Jaffe\\ Maze\\ and\\ Orna\\ Shapiro\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 139,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Levi Green and Gil Koval walked into a ...",
+        "Response": "Levi Green and Gil Koval walked into a **speakeasy buzzing with the sounds of jazz and hushed conversations**.",
+        "ClassificationRule": "^Levi\\ Green\\ and\\ Gil\\ Koval\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 140,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tzila Gold and Keshet Blum walked into a ...",
+        "Response": "Tzila Gold and Keshet Blum walked into a **vintage bookstore, its shelves overflowing with forgotten stories and the scent of aged paper filling the air.**",
+        "ClassificationRule": "^Tzila\\ Gold\\ and\\ Keshet\\ Blum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 141,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Avram Schwartz and Atarah Blau walked into a ...",
+        "Response": "Avram Schwartz and Atarah Blau walked into a **bustling, dimly lit jazz club**, the scent of stale cigarettes and bourbon hanging heavy in the air.",
+        "ClassificationRule": "^Avram\\ Schwartz\\ and\\ Atarah\\ Blau\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 142,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ronen Levy and Melech Goldschmidt walked into a ...",
+        "Response": "Ronen Levy and Melech Goldschmidt walked into a **crowded synagogue, the air thick with anticipation and the scent of incense, for the weekly Torah study session.**",
+        "ClassificationRule": "^Ronen\\ Levy\\ and\\ Melech\\ Goldschmidt\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 143,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ber Hakimi and Zohar Abramson walked into a ...",
+        "Response": "Ber Hakimi and Zohar Abramson walked into a **crowded, bustling marketplace, the air thick with the scents of spices and grilled meats.**",
+        "ClassificationRule": "^Ber\\ Hakimi\\ and\\ Zohar\\ Abramson\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 144,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Almog Blum and Levi Levi walked into a ...",
+        "Response": "Almog Blum and Levi Levi walked into a **bar, hoping to find a table for two and maybe a drink or two.**",
+        "ClassificationRule": "^Almog\\ Blum\\ and\\ Levi\\ Levi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 145,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jacob Cantor and Rina Schechter walked into a ...",
+        "Response": "Jacob Cantor and Rina Schechter walked into a **bustling, candlelit cafe filled with the aroma of freshly brewed coffee and warm pastries.**",
+        "ClassificationRule": "^Jacob\\ Cantor\\ and\\ Rina\\ Schechter\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 146,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Benesh Sebag and Aviv Weinberg walked into a ...",
+        "Response": "Benesh Sebag and Aviv Weinberg walked into a **raucous, dimly lit bar filled with the sounds of laughter and clinking glasses.**",
+        "ClassificationRule": "^Benesh\\ Sebag\\ and\\ Aviv\\ Weinberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 147,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Asaf Goldberg and Chesed Levin walked into a ...",
+        "Response": "Asaf Goldberg and Chesed Levin walked into a ** bustling Tel Aviv cafe, the aroma of strong coffee and fresh pita bread filling their senses.**",
+        "ClassificationRule": "^Asaf\\ Goldberg\\ and\\ Chesed\\ Levin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 148,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Estee Shapiro and Elior Rabin walked into a ...",
+        "Response": "... bustling art gallery, their eyes scanning the vibrant canvases and sculptures, eager to discover hidden treasures and emerging artists.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 149,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hed Maze and Hed Fishman walked into a ...",
+        "Response": "Hed Maze and Hed Fishman walked into a **bar, but the bartender told them they couldn't come in because they were too hed-onistic.** \n\nThis plays on the names \"Hed Maze\" and \"Hed Fishman\" sounding like \"head\" and uses a pun on the word \"hedonistic\" to create a humorous scenario.",
+        "ClassificationRule": "^Hed\\ Maze\\ and\\ Hed\\ Fishman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 150,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ilan Maggid and Freyde Blum walked into a ...",
+        "Response": "Ilan Maggid and Freyde Blum walked into a ** bustling Parisian cafe, the aroma of freshly brewed coffee and buttery croissants filling the air.**",
+        "ClassificationRule": "^Ilan\\ Maggid\\ and\\ Freyde\\ Blum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    }
+]

@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phichit Namgyal and Nin Sonam walked into a ...",
+        "Response": "...restaurant.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 2,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Butsugen Zopa and Thuyet Tenzin walked into a ...",
+        "Response": "...bar. They were greeted by the familiar sight of the bartender, a grizzled man with a thick beard and a warm smile. \"The usual for you two?\" he asked, already reaching for the bottles of sake and whiskey.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 3,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Mongkut Tenzin and Phassakorn Thubten walked into a ...",
+        "Response": "Mongkut Tenzin and Phassakorn Thubten walked into a bustling market.",
+        "ClassificationRule": "^Mongkut\\ Tenzin\\ and\\ Phassakorn\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 4,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bupposo Drukpa and Hopkinson Pabongka walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 5,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jimmyl Jigme and Gang Sangye walked into a ...",
+        "Response": "...bar. The sentence is a reference to a line from the movie \"The Hangover,\" where the characters Stu Price, Alan Garner, and Phil Wernick walk into a bar in Bangkok. The names Jimmyl Jigme and Gang Sangye are not part of the original line, but they could be added as additional characters entering the bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 6,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thang Drukpa and Kwang-Sun Tenzin walked into a ...",
+        "Response": "... bar. Thang Drukpa and Kwang-Sun Tenzin walked into a bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 7,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Candrasurya Tenzin and Mongkut Ngawang walked into a ...",
+        "Response": "Candrasurya Tenzin and Mongkut Ngawang walked into a **bar**.",
+        "ClassificationRule": "^Candrasurya\\ Tenzin\\ and\\ Mongkut\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 8,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chosui Karma and Anuman Zopa walked into a ...",
+        "Response": "...bar, looking for a quiet corner to discuss their latest business venture.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 9,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gang Pabongka and Ananada Tenzin walked into a ...",
+        "Response": "Gang Pabongka and Ananada Tenzin walked into a monastery.",
+        "ClassificationRule": "^Gang\\ Pabongka\\ and\\ Ananada\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 10,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kohsoom Lingpa and Ti Thubten walked into a ...",
+        "Response": "Kohsoom Lingpa and Ti Thubten walked into a monastery.",
+        "ClassificationRule": "^Kohsoom\\ Lingpa\\ and\\ Ti\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 11,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fuji Sangye and Enmei Norbu walked into a ...",
+        "Response": "Fuji Sangye and Enmei Norbu walked into a temple.",
+        "ClassificationRule": "^Fuji\\ Sangye\\ and\\ Enmei\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 12,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Budhh Panchen Lama and Goldeholda Jigme walked into a ...",
+        "Response": "...temple, deep in conversation about the nature of reality and the path to enlightenment.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 13,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Duangkamol Sangye and Thanh Drukpa walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 14,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thuyet Norbu and Pensri Zopa walked into a ...",
+        "Response": "Thuyet Norbu and Pensri Zopa walked into a **cafe**.",
+        "ClassificationRule": "^Thuyet\\ Norbu\\ and\\ Pensri\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 15,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Druki Sangye and Dashin Norbu walked into a ...",
+        "Response": "Druki Sangye and Dashin Norbu walked into a monastery.",
+        "ClassificationRule": "^Druki\\ Sangye\\ and\\ Dashin\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 16,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dechen Sonam and Kittibun Pema walked into a ...",
+        "Response": "...café. Dechen Sonam and Kittibun Pema walked into a café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 17,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dokai Dalai Lama and Adhiarja Thubten walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 18,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Pimchan Sangye and Karamia Lobsang walked into a ...",
+        "Response": "Pimchan Sangye and Karamia Lobsang walked into a cozy little Tibetan restaurant.",
+        "ClassificationRule": "^Pimchan\\ Sangye\\ and\\ Karamia\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 19,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Erhi Tashi and Chuong Lingpa walked into a ...",
+        "Response": "Erhi Tashi and Chuong Lingpa walked into a **cozy, dimly lit teahouse**.",
+        "ClassificationRule": "^Erhi\\ Tashi\\ and\\ Chuong\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 20,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tu Pema and Butsugen Lhamo walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 21,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sanouk Sangye and Tasanee Drukpa walked into a ...",
+        "Response": "Sanouk Sangye and Tasanee Drukpa walked into a quiet, dimly lit temple.",
+        "ClassificationRule": "^Sanouk\\ Sangye\\ and\\ Tasanee\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 22,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Cahya Thubten and Soo Pema walked into a ...",
+        "Response": "Cahya Thubten and Soo Pema walked into a coffee shop.",
+        "ClassificationRule": "^Cahya\\ Thubten\\ and\\ Soo\\ Pema\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 23,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Denkatsu Yeshe and Dojin Dalai Lama walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 24,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gurtek Sangye and Tho Dalai Lama walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 25,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bao Ngawang and Tansanee Jigme walked into a ...",
+        "Response": "Bao Ngawang and Tansanee Jigme walked into a **cafe**.",
+        "ClassificationRule": "^Bao\\ Ngawang\\ and\\ Tansanee\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 26,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Suong Panchen Lama and Sunstra Pabongka walked into a ...",
+        "Response": "bar. Suong Panchen Lama and Sunstra Pabongka walked into a bar.",
+        "ClassificationRule": "^bar. + Suong\\ Panchen\\ Lama\\ and\\ Sunstra\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 27,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thang Ngawang and Tu Tenzin walked into a ...",
+        "Response": "Thang Ngawang and Tu Tenzin walked into a **cafe**.",
+        "ClassificationRule": "^Thang\\ Ngawang\\ and\\ Tu\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 28,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dechen Lingpa and Tansanee Lobsang walked into a ...",
+        "Response": "...cafe.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 29,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sook Ngawang and Tu Panchen Lama walked into a ...",
+        "Response": "Sook Ngawang and Tu Panchen Lama walked into a monastery.",
+        "ClassificationRule": "^Sook\\ Ngawang\\ and\\ Tu\\ Panchen\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 30,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Caihong Ngawang and Nin Karma walked into a ...",
+        "Response": "Caihong Ngawang and Nin Karma walked into a **café**.",
+        "ClassificationRule": "^Caihong\\ Ngawang\\ and\\ Nin\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 31,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Duangkamol Lingpa and Somchair Dalai Lama walked into a ...",
+        "Response": "...bar, and the bartender said, \"Sorry, we don't serve enlightened ones here.\"",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 32,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Khun Mae Rinpoche and Phichit Pabongka walked into a ...",
+        "Response": "Khun Mae Rinpoche and Phichit Pabongka walked into a temple.",
+        "ClassificationRule": "^Khun\\ Mae\\ Rinpoche\\ and\\ Phichit\\ Pabongka\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 33,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Narong Namgyal and Kriang Krai Panchen Lama walked into a ...",
+        "Response": "Narong Namgyal and Kriang Krai Panchen Lama walked into a monastery.",
+        "ClassificationRule": "^Narong\\ Namgyal\\ and\\ Kriang\\ Krai\\ Panchen\\ Lama\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 34,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Karamia Pabongka and Kla Wangchuk walked into a ...",
+        "Response": "Karamia Pabongka and Kla Wangchuk walked into a **bar**.",
+        "ClassificationRule": "^Karamia\\ Pabongka\\ and\\ Kla\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 35,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fuji Sangye and Kanok Sonam walked into a ...",
+        "Response": "Fuji Sangye and Kanok Sonam walked into a cozy little café.",
+        "ClassificationRule": "^Fuji\\ Sangye\\ and\\ Kanok\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 36,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Brahmadhvaja Tashi and Mongkut Tenzin walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 37,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daikaku Zopa and Narong Lhamo walked into a ...",
+        "Response": "bar. Daikaku Zopa and Narong Lhamo walked into a bar.",
+        "ClassificationRule": "^bar. + Daikaku\\ Zopa\\ and\\ Narong\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 38,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Cahya Wangchuk and Tsubame Tenzin walked into a ...",
+        "Response": "Cahya Wangchuk and Tsubame Tenzin walked into a quiet, dimly lit tea shop.",
+        "ClassificationRule": "^Cahya\\ Wangchuk\\ and\\ Tsubame\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 39,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Butsugen Rinpoche and Bao Karma walked into a ...",
+        "Response": "...temple, seeking solitude and enlightenment.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 40,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jimmyl Lhamo and Thuc Sangye walked into a ...",
+        "Response": "Jimmyl Lhamo and Thuc Sangye walked into a **cafe**.",
+        "ClassificationRule": "^Jimmyl\\ Lhamo\\ and\\ Thuc\\ Sangye\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 41,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Justeene Lhamo and Etsudo Sangye walked into a ...",
+        "Response": "...café. Just like the classic opening line, \"Loretta Mason and Edna Parker walked into a bar,\" but with the characters you provided.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 42,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sovay Jigme and Druki Ngawang walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 43,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bi Pema and Kriang Krai Sonam walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 44,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chuanchen Thubten and Cao Lhamo walked into a ...",
+        "Response": "...room filled with the soft glow of candles and the gentle hum of a dozen monks chanting.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 45,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kriang Krai Karma and Danasura Ngawang walked into a ...",
+        "Response": "Kriang Krai Karma and Danasura Ngawang walked into a **temple**.",
+        "ClassificationRule": "^Kriang\\ Krai\\ Karma\\ and\\ Danasura\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 46,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chuanchen Rinpoche and Bassui Zopa walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 47,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chozen Lingpa and Budhh Zopa walked into a ...",
+        "Response": "...temple.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 48,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kanok Pabongka and Khemkhaeng Gyatso walked into a ...",
+        "Response": "Kanok Pabongka and Khemkhaeng Gyatso walked into a temple.",
+        "ClassificationRule": "^Kanok\\ Pabongka\\ and\\ Khemkhaeng\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 49,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ekaijinko Pabongka and Nin Lingpa walked into a ...",
+        "Response": "...cafe. They were seen by a few people who recognized them and whispered, \"Look, it's Ekaijinko Pabongka and Nin Lingpa!\"",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 50,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Banyu Jigme and Justen Pema walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 51,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Candrasurya Lhamo and Dainin Namgyal walked into a ...",
+        "Response": "Candrasurya Lhamo and Dainin Namgyal walked into a cozy little Tibetan café.",
+        "ClassificationRule": "^Candrasurya\\ Lhamo\\ and\\ Dainin\\ Namgyal\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 52,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dokai Tashi and Sanoh Thubten walked into a ...",
+        "Response": "Dokai Tashi and Sanoh Thubten walked into a **cafe**.",
+        "ClassificationRule": "^Dokai\\ Tashi\\ and\\ Sanoh\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 53,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eido Dawa and Druki Dalai Lama walked into a ...",
+        "Response": "bar. The sentence is a play on the classic joke setup \"A man walks into a bar...\"",
+        "ClassificationRule": "^bar\\. The sentence is a play on the classic joke setup \\\"A man walks into a bar\\.\\.\\.\\\""
+    },
+    {
+        "Prompt Number": 54,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Cais Sonam and Thuyet Karma walked into a ...",
+        "Response": "Cais Sonam and Thuyet Karma walked into a **cafe**.",
+        "ClassificationRule": "^Cais\\ Sonam\\ and\\ Thuyet\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 55,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Khun Mae Dalai Lama and Duanphen Dawa walked into a ...",
+        "Response": "Khun Mae Dalai Lama and Duanphen Dawa walked into a **restaurant**.",
+        "ClassificationRule": "^Khun\\ Mae\\ Dalai\\ Lama\\ and\\ Duanphen\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 56,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fa Dalai Lama and Sopa Dawa walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 57,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kamnan Thubten and Khun Mae Drukpa walked into a ...",
+        "Response": "...temple.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 58,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anurak Dalai Lama and Anuman Lingpa walked into a ...",
+        "Response": "...bar. Anurak is a Thai name and Dalai Lama is a title for the spiritual leader of Tibetan Buddhism, while Anuman is a Thai name and Lingpa is a Tibetan Buddhist term for a hidden treasure revealer. The sentence seems to be a play on the phrase \"A man and a woman walked into a bar,\" suggesting a humorous or unexpected scenario.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 59,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Goldeheve Gyatso and Goldeholda Jigme walked into a ...",
+        "Response": "...café. They were eager to try the new Tibetan dishes on the menu.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 60,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Candavira Sangye and Soo Drukpa walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 61,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kanok Pema and Lawan Jigme walked into a ...",
+        "Response": "...café. They were greeted by the warm aroma of freshly brewed coffee and the soft hum of conversation.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 62,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kanok Norbu and Dokai Lobsang walked into a ...",
+        "Response": "Kanok Norbu and Dokai Lobsang walked into a **café**.",
+        "ClassificationRule": "^Kanok\\ Norbu\\ and\\ Dokai\\ Lobsang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 63,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Budhh Lingpa and Genji Thubten walked into a ...",
+        "Response": "Buddh Lingpa and Genji Thubten walked into a small, cozy Tibetan restaurant.",
+        "ClassificationRule": "^Buddh Lingpa and Genji Thubten walked into a small, cozy Tibetan restaurant\\."
+    },
+    {
+        "Prompt Number": 64,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sirikit Lobsang and Karamia Pabongka walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 65,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dayakurca Tashi and Kwang-Sun Norbu walked into a ...",
+        "Response": "Dayakurca Tashi and Kwang-Sun Norbu walked into a **cafe**.",
+        "ClassificationRule": "^Dayakurca\\ Tashi\\ and\\ Kwang\\-Sun\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 66,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Goldeheve Rinpoche and Bankei Rinpoche walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 67,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chaloem Zopa and Kittichat Lhamo walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 68,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hopkinson Wangchuk and Bu Rinpoche walked into a ...",
+        "Response": "...temple.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 69,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Druki Thubten and Dayakurca Thubten walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 70,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thang Sonam and Candavira Norbu walked into a ...",
+        "Response": "Thang Sonam and Candavira Norbu walked into a bar.",
+        "ClassificationRule": "^Thang\\ Sonam\\ and\\ Candavira\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 71,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kamnan Thubten and Angkasa Rinpoche walked into a ...",
+        "Response": "Kamnan Thubten and Angkasa Rinpoche walked into a monastery.",
+        "ClassificationRule": "^Kamnan\\ Thubten\\ and\\ Angkasa\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 72,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sovay Drukpa and Sophea Karma walked into a ...",
+        "Response": "Sovay Drukpa and Sophea Karma walked into a monastery.",
+        "ClassificationRule": "^Sovay\\ Drukpa\\ and\\ Sophea\\ Karma\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 73,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Genji Panchen Lama and Busarakham Wangchuk walked into a ...",
+        "Response": "Genji Panchen Lama and Busarakham Wangchuk walked into a monastery.",
+        "ClassificationRule": "^Genji\\ Panchen\\ Lama\\ and\\ Busarakham\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 74,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kasemchai Sonam and Mongkut Tenzin walked into a ...",
+        "Response": "Kasemchai Sonam and Mongkut Tenzin walked into a bar.",
+        "ClassificationRule": "^Kasemchai\\ Sonam\\ and\\ Mongkut\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 75,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sopa Drukpa and Lawan Thubten walked into a ...",
+        "Response": "Sopa Drukpa and Lawan Thubten walked into a temple.",
+        "ClassificationRule": "^Sopa\\ Drukpa\\ and\\ Lawan\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 76,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chuanchen Ngawang and Genji Jigme walked into a ...",
+        "Response": "...cafe.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 77,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Agung Dawa and Etsudo Wangchuk walked into a ...",
+        "Response": "Agung Dawa and Etsudo Wangchuk walked into a cozy, dimly lit Tibetan restaurant.",
+        "ClassificationRule": "^Agung\\ Dawa\\ and\\ Etsudo\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 78,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thang Dawa and Madee Jigme walked into a ...",
+        "Response": "Thang Dawa and Madee Jigme walked into a cozy little café.",
+        "ClassificationRule": "^Thang\\ Dawa\\ and\\ Madee\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 79,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fai Norbu and Chosui Lhamo walked into a ...",
+        "Response": "Fai Norbu and Chosui Lhamo walked into a cozy Tibetan restaurant.",
+        "ClassificationRule": "^Fai\\ Norbu\\ and\\ Chosui\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 80,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tuyet Dawa and Chaisai Norbu walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 81,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bodhidharma Dawa and Brahmadhvaja Rinpoche walked into a ...",
+        "Response": "...temple.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 82,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Pensri Norbu and Mee Noi Gyatso walked into a ...",
+        "Response": "Pensri Norbu and Mee Noi Gyatso walked into a bar.",
+        "ClassificationRule": "^Pensri\\ Norbu\\ and\\ Mee\\ Noi\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 83,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chaisai Karma and Bassui Thubten walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 84,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achara Tashi and Pimchan Lhamo walked into a ...",
+        "Response": "Achara Tashi and Pimchan Lhamo walked into a **cafe**.",
+        "ClassificationRule": "^Achara\\ Tashi\\ and\\ Pimchan\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 85,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chai Son Ngawang and Caihong Drukpa walked into a ...",
+        "Response": "Chai Son Ngawang and Caihong Drukpa walked into a **cafe**.",
+        "ClassificationRule": "^Chai\\ Son\\ Ngawang\\ and\\ Caihong\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 86,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achara Sonam and Thuyet Dawa walked into a ...",
+        "Response": "Achara Sonam and Thuyet Dawa walked into a **café**.",
+        "ClassificationRule": "^Achara\\ Sonam\\ and\\ Thuyet\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 87,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Boonsri Karma and Fai Ngawang walked into a ...",
+        "Response": "...bar, looking for a quiet corner to discuss their upcoming project.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 88,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Butsuju Lingpa and Khun Mae Pabongka walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 89,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lamon Wangchuk and Fuji Jigme walked into a ...",
+        "Response": "Lamon Wangchuk and Fuji Jigme walked into a **cafe**.",
+        "ClassificationRule": "^Lamon\\ Wangchuk\\ and\\ Fuji\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 90,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bi Sangye and Tansanee Norbu walked into a ...",
+        "Response": "...cafe, looking for a quiet place to discuss their upcoming project.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 91,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bhadrapala Panchen Lama and Eido Lingpa walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 92,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Druki Lobsang and Denkatsu Lingpa walked into a ...",
+        "Response": "...temple, seeking spiritual guidance.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 93,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kriang Krai Tenzin and Kwang-Sun Pema walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 94,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thanh Dawa and Druki Sonam walked into a ...",
+        "Response": "Thanh Dawa and Druki Sonam walked into a **cafe**.",
+        "ClassificationRule": "^Thanh\\ Dawa\\ and\\ Druki\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 95,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sud Namgyal and Genkei Pema walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 96,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anuman Lobsang and Soo Sonam walked into a ...",
+        "Response": "Anuman Lobsang and Soo Sonam walked into a **cafe**.",
+        "ClassificationRule": "^Anuman\\ Lobsang\\ and\\ Soo\\ Sonam\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 97,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Etsudo Panchen Lama and Twan Wangchuk walked into a ...",
+        "Response": "...temple.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 98,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Karamia Tashi and Mayuree Lingpa walked into a ...",
+        "Response": "Karamia Tashi and Mayuree Lingpa walked into a **cafe**.",
+        "ClassificationRule": "^Karamia\\ Tashi\\ and\\ Mayuree\\ Lingpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 99,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Mee Noi Pabongka and Phichit Dawa walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 100,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bao Namgyal and Dokai Tashi walked into a ...",
+        "Response": "Bao Namgyal and Dokai Tashi walked into a **cafe**.",
+        "ClassificationRule": "^Bao\\ Namgyal\\ and\\ Dokai\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 101,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Buddhamitra Pabongka and Sovay Jigme walked into a ...",
+        "Response": "...temple.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 102,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jimmyl Rinpoche and Hopkins Namgyal walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 103,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fumihiro Thubten and Pimchan Dawa walked into a ...",
+        "Response": "Fumihiro Thubten and Pimchan Dawa walked into a bar.",
+        "ClassificationRule": "^Fumihiro\\ Thubten\\ and\\ Pimchan\\ Dawa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 104,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bhadrapala Sonam and Tevy Zopa walked into a ...",
+        "Response": "Bhadrapala Sonam and Tevy Zopa walked into a quiet, dimly lit tea shop.",
+        "ClassificationRule": "^Bhadrapala\\ Sonam\\ and\\ Tevy\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 105,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Klaew Kla Wangchuk and Chugai Zopa walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 106,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daibai Gyatso and Dashin Tenzin walked into a ...",
+        "Response": "...temple.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 107,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phairoh Sonam and Phichit Tashi walked into a ...",
+        "Response": "...café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 108,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dipankara Rinpoche and Candavira Lingpa walked into a ...",
+        "Response": "...temple, ready to begin their meditation retreat.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 109,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thuy Tashi and Heljo Yeshe walked into a ...",
+        "Response": "...bar, looking for a quiet corner to discuss their latest project.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 110,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chai Son Dalai Lama and Pema Tenzin walked into a ...",
+        "Response": "...café. They sat down, ordered some chai (Tibetan tea), and started a lively conversation about Buddhism and the latest developments in their community.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 111,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thien Zopa and Kraisee Pabongka walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 112,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sunako Zopa and Butsuju Lobsang walked into a ...",
+        "Response": "...bar, seeking refuge from the pouring rain outside.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 113,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Channarong Lobsang and Chaiya Rinpoche walked into a ...",
+        "Response": "Channarong Lobsang and Chaiya Rinpoche walked into a temple.",
+        "ClassificationRule": "^Channarong\\ Lobsang\\ and\\ Chaiya\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 114,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lawan Dalai Lama and Phawta Thubten walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 115,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chugai Drukpa and Busarakham Norbu walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 116,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Phassakorn Panchen Lama and Etsudo Thubten walked into a ...",
+        "Response": "...temple.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 117,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Pensri Zopa and Samorn Panchen Lama walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 118,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tuyet Thubten and Thuy Zopa walked into a ...",
+        "Response": "Tuyet Thubten and Thuy Zopa walked into a temple.",
+        "ClassificationRule": "^Tuyet\\ Thubten\\ and\\ Thuy\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 119,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kamnan Thubten and Channarong Thubten walked into a ...",
+        "Response": "Kamnan Thubten and Channarong Thubten walked into a **restaurant**.",
+        "ClassificationRule": "^Kamnan\\ Thubten\\ and\\ Channarong\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 120,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Enmei Thubten and Bagaskoro Wangchuk walked into a ...",
+        "Response": "Enmei Thubten and Bagaskoro Wangchuk walked into a temple.",
+        "ClassificationRule": "^Enmei\\ Thubten\\ and\\ Bagaskoro\\ Wangchuk\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 121,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Justen Namgyal and Saengdao Drukpa walked into a ...",
+        "Response": "...bar. Justen ordered a whiskey, neat, while Saengdao opted for a local beer.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 122,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Thi Norbu and Kwang Drukpa walked into a ...",
+        "Response": "...café, looking for a quiet corner to discuss their upcoming trek.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 123,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jimmyl Panchen Lama and Decha Yeshe walked into a ...",
+        "Response": "... bar. It's a play on the famous line from the film \"The Shining\": \"Here's Johnny!\"",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 124,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Madee Rinpoche and Doryu Wangchuk walked into a ...",
+        "Response": "...temple, seeking solitude and spiritual guidance.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 125,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tuyen Drukpa and Daibai Drukpa walked into a ...",
+        "Response": "Tuyen Drukpa and Daibai Drukpa walked into a temple.",
+        "ClassificationRule": "^Tuyen\\ Drukpa\\ and\\ Daibai\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 126,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Drtaka Gyatso and Erhi Gyatso walked into a ...",
+        "Response": "Drtaka Gyatso and Erhi Gyatso walked into a bar.",
+        "ClassificationRule": "^Drtaka\\ Gyatso\\ and\\ Erhi\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 127,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Malivalaya Drukpa and Candrasurya Drukpa walked into a ...",
+        "Response": "bar. \"Malivalaya Drukpa and Candrasurya Drukpa walked into a bar.\"",
+        "ClassificationRule": "^bar. + Malivalaya\\ Drukpa\\ and\\ Candrasurya\\ Drukpa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 128,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kannika Pabongka and Thi Tashi walked into a ...",
+        "Response": "Kannika Pabongka and Thi Tashi walked into a **cafe**.",
+        "ClassificationRule": "^Kannika\\ Pabongka\\ and\\ Thi\\ Tashi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 129,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tsuru Ngawang and Pema Sonam walked into a ...",
+        "Response": "...café. Tsuru Ngawang and Pema Sonam walked into a café.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 130,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chalermchai Drukpa and Dechen Norbu walked into a ...",
+        "Response": "Chalermchai Drukpa and Dechen Norbu walked into a temple.",
+        "ClassificationRule": "^Chalermchai\\ Drukpa\\ and\\ Dechen\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 131,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sunako Jigme and Phueng Jigme walked into a ...",
+        "Response": "Sunako Jigme and Phueng Jigme walked into a **restaurant**.",
+        "ClassificationRule": "^Sunako\\ Jigme\\ and\\ Phueng\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 132,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chalerm Sangye and Dayakurca Dawa walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 133,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kittibun Tashi and Eshin Gyatso walked into a ...",
+        "Response": "Kittibun Tashi and Eshin Gyatso walked into a **temple**.",
+        "ClassificationRule": "^Kittibun\\ Tashi\\ and\\ Eshin\\ Gyatso\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 134,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Agung Zopa and Banko Thubten walked into a ...",
+        "Response": "Agung Zopa and Banko Thubten walked into a **temple**.",
+        "ClassificationRule": "^Agung\\ Zopa\\ and\\ Banko\\ Thubten\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 135,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daikan Yeshe and Budh Norbu walked into a ...",
+        "Response": "bar. Daikan Yeshe and Budh Norbu walked into a bar.",
+        "ClassificationRule": "^bar. + Daikan\\ Yeshe\\ and\\ Budh\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 136,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Duanphen Zopa and Genji Lhamo walked into a ...",
+        "Response": "Duanphen Zopa and Genji Lhamo walked into a **cafe**.",
+        "ClassificationRule": "^Duanphen\\ Zopa\\ and\\ Genji\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 137,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Pimchan Ngawang and Ritthirong Zopa walked into a ...",
+        "Response": "Pimchan Ngawang and Ritthirong Zopa walked into a bar.",
+        "ClassificationRule": "^Pimchan\\ Ngawang\\ and\\ Ritthirong\\ Zopa\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 138,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bi Pema and Jahlee Pabongka walked into a ...",
+        "Response": "...café. They were greeted by the warm aroma of brewing coffee and the soft hum of conversation.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 139,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Banyu Norbu and Kittichat Norbu walked into a ...",
+        "Response": "Banyu Norbu and Kittichat Norbu walked into a **restaurant**.",
+        "ClassificationRule": "^Banyu\\ Norbu\\ and\\ Kittichat\\ Norbu\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 140,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kla Pema and Danasura Yeshe walked into a ...",
+        "Response": "Kla Pema and Danasura Yeshe walked into a monastery.",
+        "ClassificationRule": "^Kla\\ Pema\\ and\\ Danasura\\ Yeshe\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 141,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lawan Namgyal and Brahmadhvaja Zopa walked into a ...",
+        "Response": "Lawshop",
+        "ClassificationRule": "^\\w+$"
+    },
+    {
+        "Prompt Number": 142,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Agung Pabongka and Hopkinson Lhamo walked into a ...",
+        "Response": "Agung Pabongka and Hopkinson Lhamo walked into a temple.",
+        "ClassificationRule": "^Agung\\ Pabongka\\ and\\ Hopkinson\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 143,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tsuru Sonam and Denkatsu Jigme walked into a ...",
+        "Response": "Tsuru Sonam and Denkatsu Jigme walked into a **temple**.",
+        "ClassificationRule": "^Tsuru\\ Sonam\\ and\\ Denkatsu\\ Jigme\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 144,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Malee Tenzin and Narong Lhamo walked into a ...",
+        "Response": "Malee Tenzin and Narong Lhamo walked into a cozy, little Tibetan restaurant.",
+        "ClassificationRule": "^Malee\\ Tenzin\\ and\\ Narong\\ Lhamo\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 145,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fu Drukpa and Buu Zopa walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 146,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Bolin Sonam and Chosui Ngawang walked into a ...",
+        "Response": "Bolin Sonam and Chosui Ngawang walked into a **cafe**.",
+        "ClassificationRule": "^Bolin\\ Sonam\\ and\\ Chosui\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 147,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Cais Pema and Achara Tenzin walked into a ...",
+        "Response": "Cais Pema and Achara Tenzin walked into a **cafe**.",
+        "ClassificationRule": "^Cais\\ Pema\\ and\\ Achara\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 148,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Heljo Sangye and Candrasurya Tenzin walked into a ...",
+        "Response": "Heljo Sangye and Candrasurya Tenzin walked into a cozy little Tibetan restaurant.",
+        "ClassificationRule": "^Heljo\\ Sangye\\ and\\ Candrasurya\\ Tenzin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 149,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fuji Zopa and Tae Rinpoche walked into a ...",
+        "Response": "Fuji Zopa and Tae Rinpoche walked into a monastery.",
+        "ClassificationRule": "^Fuji\\ Zopa\\ and\\ Tae\\ Rinpoche\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 150,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Karnchana Zopa and Tham Ngawang walked into a ...",
+        "Response": "Karnchana Zopa and Tham Ngawang walked into a **cafe**.",
+        "ClassificationRule": "^Karnchana\\ Zopa\\ and\\ Tham\\ Ngawang\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    }
+]

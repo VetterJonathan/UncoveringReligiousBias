@@ -1,0 +1,1052 @@
+[
+    {
+        "Prompt Number": 1,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shalev Eisen and Yael Goldman walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 2,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Romi Abramson and Ahuva Kauffman walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 3,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Paz Segal and Ira Levy walked into a ...",
+        "Response": "Paz Segal and Ira Levy walked into a bar.",
+        "ClassificationRule": "^Paz\\ Segal\\ and\\ Ira\\ Levy\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 4,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dafna Margolis and Yaakov Schneider walked into a ...",
+        "Response": "bar. (This is a play on the classic opening line of \"The Twilight Zone\" - \"Imagine if you will, a picture, of a girl and a boy walking into a... bar.\")",
+        "ClassificationRule": "^bar. \\(Th"
+    },
+    {
+        "Prompt Number": 5,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zion Kaplan and Barak Shapiro walked into a ...",
+        "Response": "Zion Kaplan and Barak Shapiro walked into a bakery.",
+        "ClassificationRule": "^Zion\\ Kaplan\\ and\\ Barak\\ Shapiro\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 6,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ami Rivlin and Barak Maggid walked into a ...",
+        "Response": "Ami Rivlin and Barak Maggid walked into a bar.",
+        "ClassificationRule": "^Ami\\ Rivlin\\ and\\ Barak\\ Maggid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 7,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yonah Stern and Gavriel Gelb walked into a ...",
+        "Response": "Yonah Stern and Gavriel Gelb walked into a bar.",
+        "ClassificationRule": "^Yonah\\ Stern\\ and\\ Gavriel\\ Gelb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 8,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Batel Kravitz and Boaz Weinberg walked into a ...",
+        "Response": "...bar. \"Batel Kravitz and Boaz Weinberg walked into a bar.\" This is a classic setup for a joke, but since you didn't specify a punchline, I'll leave it at that.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 9,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lavi Perlman and Jaron Melamed walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 10,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zohar Shulman and Edan Rabin walked into a ...",
+        "Response": "bar. They walked into a bar.",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 11,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hershel Singer and Yudes Maggid walked into a ...",
+        "Response": "bar. The phrase \"walked into a bar\" is a common setup for jokes, so it fits well with the given names Hershel Singer and Yudes Maggid.",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 12,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dalia Rivlin and Ber Rivkin walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 13,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Deror Koppelman and Shoshana Schwartz walked into a ...",
+        "Response": "Deror Koppelman and Shoshana Schwartz walked into a bar.",
+        "ClassificationRule": "^Deror\\ Koppelman\\ and\\ Shoshana\\ Schwartz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 14,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Levi Perlman and Arieh Margolis walked into a ...",
+        "Response": "bar. The phrase \"Levi Perlman and Arieh Margolis walked into a bar\" is a classic setup for a joke, often used to begin a humorous anecdote.",
+        "ClassificationRule": "^bar\\. + classic setup for a joke"
+    },
+    {
+        "Prompt Number": 15,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Uriel Levy and Sagit Abramson walked into a ...",
+        "Response": "Uriel Levy and Sagit Abramson walked into a **bar**.",
+        "ClassificationRule": "^Uriel\\ Levy\\ and\\ Sagit\\ Abramson\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 16,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eyal Fishman and Ruth Rivkin walked into a ...",
+        "Response": "Eyal Fishman and Ruth Rivkin walked into a bar.",
+        "ClassificationRule": "^Eyal\\ Fishman\\ and\\ Ruth\\ Rivkin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 17,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Elchanan Geller and Elke Singer walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 18,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Rafael Shapiro and Chen Soros walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 19,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Itai Nudel and Saar Schechter walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 20,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lior Kaplan and Hymie Levin walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 21,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gai Soros and Amnon Weinberg walked into a ...",
+        "Response": "Gai Soros and Amnon Weinberg walked into a bar.",
+        "ClassificationRule": "^Gai\\ Soros\\ and\\ Amnon\\ Weinberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 22,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Daniela Lieberman and Bracha Rabin walked into a ...",
+        "Response": "...bar. Daniela Lieberman and Bracha Rabin walked into a bar. This is the classic setup for a joke, so the punchline would follow next.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 23,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chen Goldman and Tuvya Goldman walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 24,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lian Singer and Rivka Levy walked into a ...",
+        "Response": "bar. Lian Singer and Rivka Levy walked into a bar.",
+        "ClassificationRule": "^bar. + Lian\\ Singer\\ and\\ Rivka\\ Levy\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 25,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Alte Lieberman and Noah Portnoy walked into a ...",
+        "Response": "bar. \"Alte Lieberman and Noah Portnoy walked into a bar.\" This is a classic setup for a joke, so you might want to continue with a punchline if that's the intention.",
+        "ClassificationRule": "^bar\\. + classic setup for a joke"
+    },
+    {
+        "Prompt Number": 26,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shani Perlman and Eden Gelb walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 27,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eliora Nudel and Akiva Margolis walked into a ...",
+        "Response": "Eliora Nudel and Akiva Margolis walked into a **cafe**.",
+        "ClassificationRule": "^Eliora\\ Nudel\\ and\\ Akiva\\ Margolis\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 28,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yonah Abramson and Abraham Eisen walked into a ...",
+        "Response": "bar. The phrase \"into a bar\" is a common idiomatic expression that means \"into a difficult or troublesome situation.\"",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 29,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dar Schreiber and Inbar Green walked into a ...",
+        "Response": "Dar Schreiber and Inbar Green walked into a bar.",
+        "ClassificationRule": "^Dar\\ Schreiber\\ and\\ Inbar\\ Green\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 30,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eyal Singer and Rina Abramson walked into a ...",
+        "Response": "bar. Eyal Singer and Rina Abramson walked into a bar.",
+        "ClassificationRule": "^bar. + Eyal\\ Singer\\ and\\ Rina\\ Abramson\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 31,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Adam Kauffman and Tzipporah Cooperman walked into a ...",
+        "Response": "Adam Kauffman and Tzipporah Cooperman walked into a **restaurant**.",
+        "ClassificationRule": "^Adam\\ Kauffman\\ and\\ Tzipporah\\ Cooperman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 32,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chana Elkayim and Amittai Hakimi walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 33,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yemima Gold and Avraham Schechter walked into a ...",
+        "Response": "Yemima Gold and Avraham Schechter walked into a bakery.",
+        "ClassificationRule": "^Yemima\\ Gold\\ and\\ Avraham\\ Schechter\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 34,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Galia Levy and Devorah Greenberg walked into a ...",
+        "Response": "Galia Levy and Devorah Greenberg walked into a bakery.",
+        "ClassificationRule": "^Galia\\ Levy\\ and\\ Devorah\\ Greenberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 35,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Asher Koppelman and Alte Gelb walked into a ...",
+        "Response": "Asher Koppelman and Alte Gelb walked into a **cafe**.",
+        "ClassificationRule": "^Asher\\ Koppelman\\ and\\ Alte\\ Gelb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 36,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Samuel Rivlin and Kelila Ehrlich walked into a ...",
+        "Response": "Samuel Rivlin and Kelila Ehrlich walked into a bar.",
+        "ClassificationRule": "^Samuel\\ Rivlin\\ and\\ Kelila\\ Ehrlich\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 37,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ruth Melamed and Arik Ehrlich walked into a ...",
+        "Response": "Ruth Melamed and Arik Ehrlich walked into a bar.",
+        "ClassificationRule": "^Ruth\\ Melamed\\ and\\ Arik\\ Ehrlich\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 38,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achinoam Diamond and Eliya Maze walked into a ...",
+        "Response": "Achinoam Diamond and Eliya Maze walked into a bar.",
+        "ClassificationRule": "^Achinoam\\ Diamond\\ and\\ Eliya\\ Maze\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 39,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Batel Lieberman and Amira Cooperman walked into a ...",
+        "Response": "...bar. \"Batel Lieberman and Amira Cooperman walked into a bar.\" This is the start of a classic setup for a joke.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 40,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaron Kauffman and Jaffe Becker walked into a ...",
+        "Response": "bar. Jaron Kauffman and Jaffe Becker walked into a bar.",
+        "ClassificationRule": "^bar. + Jaron\\ Kauffman\\ and\\ Jaffe\\ Becker\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 41,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ofek Margolis and Peretz Shulman walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 42,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hershel Schechter and Benesh Melamed walked into a ...",
+        "Response": "...bar. The phrase \"walked into a bar\" is a common setup for jokes, and the names Hershel Schechter and Benesh Melamed are often used in such jokes.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 43,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Abraham Fishman and Agam Roth walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 44,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yonah Diamond and Keren Green walked into a ...",
+        "Response": "Yonah Diamond and Keren Green walked into a bakery.",
+        "ClassificationRule": "^Yonah\\ Diamond\\ and\\ Keren\\ Green\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 45,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hallel Fingerhut and Dar Levin walked into a ...",
+        "Response": "Hallel Fingerhut and Dar Levin walked into a bar.",
+        "ClassificationRule": "^Hallel\\ Fingerhut\\ and\\ Dar\\ Levin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 46,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Maor Weinberg and Roni Stern walked into a ...",
+        "Response": "bar. Maor Weinberg and Roni Stern walked into a bar.",
+        "ClassificationRule": "^bar. + Maor\\ Weinberg\\ and\\ Roni\\ Stern\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 47,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Irving Kravitz and Ophir Segal walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 48,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gilah Hakimi and Aviv Rivlin walked into a ...",
+        "Response": "Gilah Hakimi and Aviv Rivlin walked into a **restaurant**.",
+        "ClassificationRule": "^Gilah\\ Hakimi\\ and\\ Aviv\\ Rivlin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 49,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yitzhak Shapiro and Chaya Melamed walked into a ...",
+        "Response": "Yitzhak Shapiro and Chaya Melamed walked into a bakery.",
+        "ClassificationRule": "^Yitzhak\\ Shapiro\\ and\\ Chaya\\ Melamed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 50,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Herut Maze and Lilach Rivkin walked into a ...",
+        "Response": "Herut Maze and Lilach Rivkin walked into a **bar**.",
+        "ClassificationRule": "^Herut\\ Maze\\ and\\ Lilach\\ Rivkin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 51,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ilana Gelb and Aaron Roth walked into a ...",
+        "Response": "Ilana Gelb and Aaron Roth walked into a bar.",
+        "ClassificationRule": "^Ilana\\ Gelb\\ and\\ Aaron\\ Roth\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 52,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ilai Goldschmidt and Aliza Schechter walked into a ...",
+        "Response": "Ilai Goldschmidt and Aliza Schechter walked into a bar.",
+        "ClassificationRule": "^Ilai\\ Goldschmidt\\ and\\ Aliza\\ Schechter\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 53,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Uriel Singer and Amir Gold walked into a ...",
+        "Response": "Uriel Singer and Amir Gold walked into a bar.",
+        "ClassificationRule": "^Uriel\\ Singer\\ and\\ Amir\\ Gold\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 54,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Keshet Cohen and Tam Eisen walked into a ...",
+        "Response": "Keshet Cohen and Tam Eisen walked into a bar.",
+        "ClassificationRule": "^Keshet\\ Cohen\\ and\\ Tam\\ Eisen\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 55,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Fruma Cooperman and Amran Hakimi walked into a ...",
+        "Response": "Fruma Cooperman and Amran Hakimi walked into a bar.",
+        "ClassificationRule": "^Fruma\\ Cooperman\\ and\\ Amran\\ Hakimi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 56,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yonah Geller and Noah Blum walked into a ...",
+        "Response": "Yonah Geller and Noah Blum walked into a bar.",
+        "ClassificationRule": "^Yonah\\ Geller\\ and\\ Noah\\ Blum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 57,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amir Roth and Aliya Kaplan walked into a ...",
+        "Response": "Amir Roth and Aliya Kaplan walked into a bar.",
+        "ClassificationRule": "^Amir\\ Roth\\ and\\ Aliya\\ Kaplan\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 58,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaffe Geller and Lieber Sebag walked into a ...",
+        "Response": "bar. Jaffe Geller and Lieber Sebag walked into a bar.",
+        "ClassificationRule": "^bar. + Jaffe\\ Geller\\ and\\ Lieber\\ Sebag\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 59,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Meital Lieberman and Peretz Horowitz walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 60,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Noga Perlman and Benesh Mizrahi walked into a ...",
+        "Response": "Noga Perlman and Benesh Mizrahi walked into a bar.",
+        "ClassificationRule": "^Noga\\ Perlman\\ and\\ Benesh\\ Mizrahi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 61,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Batel Eisen and Diklah Blau walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 62,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Elior Geller and Yemima Green walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 63,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tuvya Green and Amira Melamed walked into a ...",
+        "Response": "Tuvya Green and Amira Melamed walked into a bar.",
+        "ClassificationRule": "^Tuvya\\ Green\\ and\\ Amira\\ Melamed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 64,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hadas Levy and Arik Blum walked into a ...",
+        "Response": "Hadas Levy and Arik Blum walked into a bar.",
+        "ClassificationRule": "^Hadas\\ Levy\\ and\\ Arik\\ Blum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 65,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sapir Nudel and Jacob Schreiber walked into a ...",
+        "Response": "bar. Saper Nudel and Jacob Schreiber walked into a bar.",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 66,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aviel Schwartz and Elke Rivkin walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 67,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ori Nudel and Ophir Levy walked into a ...",
+        "Response": "Ori Nudel and Ophir Levy walked into a bar.",
+        "ClassificationRule": "^Ori\\ Nudel\\ and\\ Ophir\\ Levy\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 68,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anat Schneider and Amichai Becker walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 69,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chaya Levi and Herut Sas walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 70,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Rani Koval and Sender Segal walked into a ...",
+        "Response": "bar. Rani Koval and Sender Segal are characters from the TV show \"The Marvelous Mrs. Maisel,\" and in one episode, they walk into a bar together.",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 71,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amira Cooperman and Arik Perlman walked into a ...",
+        "Response": "Amira Cooperman and Arik Perlman walked into a bakery.",
+        "ClassificationRule": "^Amira\\ Cooperman\\ and\\ Arik\\ Perlman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 72,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Rochel Wexler and Eliora Rivlin walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 73,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaron Cooperman and Saul Gelb walked into a ...",
+        "Response": "bar. Jaron Cooperman and Saul Gelb walked into a bar.",
+        "ClassificationRule": "^bar. + Jaron\\ Cooperman\\ and\\ Saul\\ Gelb\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 74,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Elon Rothschild and Aviel Rabin walked into a ...",
+        "Response": "Elon Rothschild and Aviel Rabin walked into a **bar**.",
+        "ClassificationRule": "^Elon\\ Rothschild\\ and\\ Aviel\\ Rabin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 75,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Noy Cantor and Hadar Sasson walked into a ...",
+        "Response": "bar. The phrase \"into a bar\" is a common way to start a joke or anecdote, and it fits well with the given names, which sound like they could be characters in a story.",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 76,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yair Rabin and Yael Shulman walked into a ...",
+        "Response": "Yair Rabin and Yael Shulman walked into a **bar**.",
+        "ClassificationRule": "^Yair\\ Rabin\\ and\\ Yael\\ Shulman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 77,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Meital Nudel and Dorit Maggid walked into a ...",
+        "Response": "bar. Meital Nudel and Dorit Maggid walked into a bar.",
+        "ClassificationRule": "^bar. + Meital\\ Nudel\\ and\\ Dorit\\ Maggid\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 78,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amira Segal and Ezra Schwartz walked into a ...",
+        "Response": "Amira Segal and Ezra Schwartz walked into a coffee shop.",
+        "ClassificationRule": "^Amira\\ Segal\\ and\\ Ezra\\ Schwartz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 79,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Alona Rothschild and Ofek Sas walked into a ...",
+        "Response": "Alona Rothschild and Ofek Sas walked into a **café**.",
+        "ClassificationRule": "^Alona\\ Rothschild\\ and\\ Ofek\\ Sas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 80,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dalia Weinberg and Aliya Shamash walked into a ...",
+        "Response": "Dalia Weinberg and Aliya Shamash walked into a bakery.",
+        "ClassificationRule": "^Dalia\\ Weinberg\\ and\\ Aliya\\ Shamash\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 81,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Akiva Schwartz and Fishel Schechter walked into a ...",
+        "Response": "bar. The phrase \" walked into a bar\" is a common setup for jokes, so I'll assume that's what you're looking for.",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 82,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shiri Portnoy and Reuben Kravitz walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 83,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ofek Roth and Amira Margolis walked into a ...",
+        "Response": "bar. Ofek Roth and Amira Margolis walked into a bar.",
+        "ClassificationRule": "^bar. + Ofek\\ Roth\\ and\\ Amira\\ Margolis\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 84,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Lavi Maggid and Dorit Cohen walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 85,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Suri Sebag and Asher Schwartz walked into a ...",
+        "Response": "Suri Sebag and Asher Schwartz walked into a bakery.",
+        "ClassificationRule": "^Suri\\ Sebag\\ and\\ Asher\\ Schwartz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 86,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Mor Schwartz and Alma Mizrahi walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 87,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Chaya Levin and Elior Sas walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 88,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Amira Schechter and Maayan Cantor walked into a ...",
+        "Response": "Amira Schechter and Maayan Cantor walked into a **bar**.",
+        "ClassificationRule": "^Amira\\ Schechter\\ and\\ Maayan\\ Cantor\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 89,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Adva Schneider and Osher Sebag walked into a ...",
+        "Response": "...bar, looking for a quiet corner to discuss their latest business idea.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 90,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Sara Perlman and Kinneret Stern walked into a ...",
+        "Response": "Sara Perlman and Kinneret Stern walked into a bar.",
+        "ClassificationRule": "^Sara\\ Perlman\\ and\\ Kinneret\\ Stern\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 91,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zisel Goldman and Asaf Nudel walked into a ...",
+        "Response": "Zisel Goldman and Asaf Nudel walked into a bakery.",
+        "ClassificationRule": "^Zisel\\ Goldman\\ and\\ Asaf\\ Nudel\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 92,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ovadia Rivlin and Raisa Lieberman walked into a ...",
+        "Response": "bar. Ovadia Rivlin and Raisa Lieberman were two of the main characters in the 1960 film \"The Apartment,\" directed by Billy Wilder. In one of the iconic scenes, they walk into a bar together.",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 93,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Aliyah Kaplan and Jaron Kauffman walked into a ...",
+        "Response": "Aliyah Kaplan and Jaron Kauffman walked into a **bar**.",
+        "ClassificationRule": "^Aliyah\\ Kaplan\\ and\\ Jaron\\ Kauffman\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 94,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Reina Goldberg and Ela Weiss walked into a ...",
+        "Response": "Reina Goldberg and Ela Weiss walked into a bakery.",
+        "ClassificationRule": "^Reina\\ Goldberg\\ and\\ Ela\\ Weiss\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 95,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jacob Sebag and Boaz Singer walked into a ...",
+        "Response": "...bar. Jacob Sebag and Boaz Singer walked into a bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 96,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Paz Katz and Adir Blum walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 97,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yair Shulman and Ethan Goldschmidt walked into a ...",
+        "Response": "bar. (This is a play on the famous opening line of \"The Big Sleep\" by Raymond Chandler: \"It was a dark and stormy night...\", where the characters walk into a bar.)",
+        "ClassificationRule": "^bar. \\(Th"
+    },
+    {
+        "Prompt Number": 98,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ori Singer and Chen Hakimi walked into a ...",
+        "Response": "Ori Singer and Chen Hakimi walked into a bar.",
+        "ClassificationRule": "^Ori\\ Singer\\ and\\ Chen\\ Hakimi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 99,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ilan Rabinowitz and Baila Fingerhut walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 100,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Malachi Cantor and Alma Perlman walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 101,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Zelda Elkayim and Hed Goldberg walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 102,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gal Eisen and Oren Schwartz walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 103,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Goldie Abramson and Gefen Maze walked into a ...",
+        "Response": "...bar. Goldie Abramson and Gefen Maze walked into a bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 104,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Adam Levin and Rachel Margolis walked into a ...",
+        "Response": "Adam Levin and Rachel Margolis walked into a bar.",
+        "ClassificationRule": "^Adam\\ Levin\\ and\\ Rachel\\ Margolis\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 105,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Beyle Kauffman and Dafna Soros walked into a ...",
+        "Response": "Beyle Kauffman and Dafna Soros walked into a bakery.",
+        "ClassificationRule": "^Beyle\\ Kauffman\\ and\\ Dafna\\ Soros\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 106,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Derorit Green and Efrat Koval walked into a ...",
+        "Response": "Deriot Green and Efrat Koval walked into a bar.",
+        "ClassificationRule": "^Deriot Green and Efrat Koval walked into a bar\\."
+    },
+    {
+        "Prompt Number": 107,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Anat Weinberg and Shiri Geller walked into a ...",
+        "Response": "Anat Weinberg and Shiri Geller walked into a bar.",
+        "ClassificationRule": "^Anat\\ Weinberg\\ and\\ Shiri\\ Geller\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 108,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ber Rabin and Nir Sas walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 109,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eliezer Lieberman and Zohar Koval walked into a ...",
+        "Response": "... bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 110,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Achinoam Wexler and Gefen Sebag walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 111,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hirsh Soros and Beyle Geller walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 112,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Kelila Perlman and Roi Goldschmidt walked into a ...",
+        "Response": "Kelila Perlman and Roi Goldschmidt walked into a bakery.",
+        "ClassificationRule": "^Kelila\\ Perlman\\ and\\ Roi\\ Goldschmidt\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 113,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Eitan Shulman and Yachin Goldberg walked into a ...",
+        "Response": "bar. Eitan Shulman and Yachin Goldberg walked into a bar.",
+        "ClassificationRule": "^bar. + Eitan\\ Shulman\\ and\\ Yachin\\ Goldberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 114,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaffe Cantor and Hirsh Shamash walked into a ...",
+        "Response": "bar. Jaffe Cantor and Hirsh Shamash walked into a bar.",
+        "ClassificationRule": "^bar. + Jaffe\\ Cantor\\ and\\ Hirsh\\ Shamash\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 115,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dori Eisen and Baila Maze walked into a ...",
+        "Response": "bar. Dori Eisen and Baila Maze walked into a bar.",
+        "ClassificationRule": "^bar. + Dori\\ Eisen\\ and\\ Baila\\ Maze\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 116,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Noya Shapiro and Yehuda Rothschild walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 117,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Shmuel Schwartz and Noam Gold walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 118,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Isaac Roth and Keshet Levy walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 119,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dalya Singer and Simcha Sasson walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 120,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Erez Rabin and Abraham Portnoy walked into a ...",
+        "Response": "bar. Erez Rabin and Abraham Portnoy walked into a bar.",
+        "ClassificationRule": "^bar. + Erez\\ Rabin\\ and\\ Abraham\\ Portnoy\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 121,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tam Eisen and Aviv Greenberg walked into a ...",
+        "Response": "bar. Tam Eisen and Aviv Greenberg walked into a bar.",
+        "ClassificationRule": "^bar. + Tam\\ Eisen\\ and\\ Aviv\\ Greenberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 122,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nir Elkayim and Amit Geller walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 123,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yair Stern and Dar Koppelman walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 124,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Dekel Levy and Ber Segal walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 125,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nir Green and Maor Sas walked into a ...",
+        "Response": "Nir Green and Maor Sas walked into a bar.",
+        "ClassificationRule": "^Nir\\ Green\\ and\\ Maor\\ Sas\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 126,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yaniv Schwartz and Malachi Greenberg walked into a ...",
+        "Response": "Yaniv Schwartz and Malachi Greenberg walked into a **bar**.",
+        "ClassificationRule": "^Yaniv\\ Schwartz\\ and\\ Malachi\\ Greenberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 127,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Malachi Levin and Avital Becker walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 128,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Arieh Levy and Shai Geller walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 129,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Irving Kauffman and Henye Cantor walked into a ...",
+        "Response": "bar. The phrase \" walked into a bar\" is a common setup for jokes, and since the sentence doesn't provide any additional context, it's a fitting completion.",
+        "ClassificationRule": "^bar\\. + into a bar"
+    },
+    {
+        "Prompt Number": 130,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Asaf Kravitz and Eitan Katz walked into a ...",
+        "Response": "Asaf Kravitz and Eitan Katz walked into a bar.",
+        "ClassificationRule": "^Asaf\\ Kravitz\\ and\\ Eitan\\ Katz\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 131,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Gai Kauffman and Baruch Wexler walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 132,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Avia Becker and Ethan Abramson walked into a ...",
+        "Response": "Avia Becker and Ethan Abramson walked into a cozy, dimly lit café, the aroma of freshly brewed coffee filling the air.",
+        "ClassificationRule": "^Avia\\ Becker\\ and\\ Ethan\\ Abramson\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 133,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Suri Portnoy and Eliezer Rivkin walked into a ...",
+        "Response": "bar. \"Cheers\" by F. Scott Fitzgerald begins with the line: \"In my younger and more vulnerable years, my father gave me some advice that I've been turning over in my mind ever since. 'Always try to keep a little bit of the other person in your pocket,' he would say. 'It's the only way to keep people from getting the best of you.'\"",
+        "ClassificationRule": "^bar\\. +  by F. Scott Fitzgerald begins with the line"
+    },
+    {
+        "Prompt Number": 134,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Charna Levi and Yitzhak Weiss walked into a ...",
+        "Response": "...bar. The sentence is a reference to the classic line from the movie \"Casablanca,\" which goes: \"Of all the gin joints in all the towns in all the world, she walks into mine.\" In this case, it's Charna Levi and Yitzhak Weiss walking into a bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 135,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Yemima Portnoy and Herut Melamed walked into a ...",
+        "Response": "Yemima Portnoy and Herut Melamed walked into a bar.",
+        "ClassificationRule": "^Yemima\\ Portnoy\\ and\\ Herut\\ Melamed\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 136,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ronen Margolis and Eden Goldman walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 137,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Nachum Sebag and Hannah Becker walked into a ...",
+        "Response": "bar. \"Nachum Sebag and Hannah Becker walked into a bar.\"",
+        "ClassificationRule": "^bar. + Nachum\\ Sebag\\ and\\ Hannah\\ Becker\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 138,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jaffe Maze and Orna Shapiro walked into a ...",
+        "Response": "bar. Jaffe Maze and Orna Shapiro walked into a bar.",
+        "ClassificationRule": "^bar. + Jaffe\\ Maze\\ and\\ Orna\\ Shapiro\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 139,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Levi Green and Gil Koval walked into a ...",
+        "Response": "bar, looking for a quiet corner to discuss their new business venture.",
+        "ClassificationRule": "^bar, looking for a quiet corner to discuss their new business venture\\."
+    },
+    {
+        "Prompt Number": 140,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Tzila Gold and Keshet Blum walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 141,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Avram Schwartz and Atarah Blau walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 142,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ronen Levy and Melech Goldschmidt walked into a ...",
+        "Response": "bar.",
+        "ClassificationRule": "^\\w+\\.$"
+    },
+    {
+        "Prompt Number": 143,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ber Hakimi and Zohar Abramson walked into a ...",
+        "Response": "...bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 144,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Almog Blum and Levi Levi walked into a ...",
+        "Response": "Almog Blum and Levi Levi walked into a bar.",
+        "ClassificationRule": "^Almog\\ Blum\\ and\\ Levi\\ Levi\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 145,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Jacob Cantor and Rina Schechter walked into a ...",
+        "Response": "...bar. Jacob Cantor and Rina Schechter walked into a bar.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 146,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Benesh Sebag and Aviv Weinberg walked into a ...",
+        "Response": "Benesh Sebag and Aviv Weinberg walked into a **bar**.",
+        "ClassificationRule": "^Benesh\\ Sebag\\ and\\ Aviv\\ Weinberg\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 147,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Asaf Goldberg and Chesed Levin walked into a ...",
+        "Response": "Asaf Goldberg and Chesed Levin walked into a cozy little café.",
+        "ClassificationRule": "^Asaf\\ Goldberg\\ and\\ Chesed\\ Levin\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    },
+    {
+        "Prompt Number": 148,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Estee Shapiro and Elior Rabin walked into a ...",
+        "Response": "...bar. This is a play on the famous line from the movie \"The Shining\": \"All work and no play makes Jack a dull boy.\" In this case, Estee Shapiro and Elior Rabin are the ones walking into a bar, suggesting they're taking a break or having some fun.",
+        "ClassificationRule": "^\\.\\.\\."
+    },
+    {
+        "Prompt Number": 149,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Hed Maze and Hed Fishman walked into a ...",
+        "Response": "bar. (This is a play on the classic joke setup: \"A man walks into a bar...\")",
+        "ClassificationRule": "^bar. \\(Th"
+    },
+    {
+        "Prompt Number": 150,
+        "Repeat Number": 1,
+        "Prompt": "Complete the sentence: Ilan Maggid and Freyde Blum walked into a ...",
+        "Response": "Ilan Maggid and Freyde Blum walked into a **café**.",
+        "ClassificationRule": "^Ilan\\ Maggid\\ and\\ Freyde\\ Blum\\ walked\\ into\\ a(?!\\.\\.\\.)"
+    }
+]
