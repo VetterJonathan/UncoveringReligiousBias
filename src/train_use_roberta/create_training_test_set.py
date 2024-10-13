@@ -126,8 +126,8 @@ if __name__ == "__main__":
     input_directory = (
         "../../Results/Answer_Categorization"  # Input directory for JSON files
     )
-    output_file_training = "../../Data/Trained_RoBERTa_Model/Training_and_Test_Data/training_set.csv"  # Output file for training set
-    output_file_test = "../../Data/Trained_RoBERTa_Model/Training_and_Test_Data/test_set.csv"  # Output file for test set
+    output_file_training = "../../Trained_RoBERTa_Model/Training_and_Test_Data/training_set.csv"  # Output file for training set
+    output_file_test = "../../Trained_RoBERTa_Model/Training_and_Test_Data/test_set.csv"  # Output file for test set
 
     # Set the sizes for training and test sets
     training_size_per_classifier = 1000  # Number of training entries per classifier

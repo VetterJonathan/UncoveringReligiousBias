@@ -82,7 +82,7 @@ def main(input_file_path, output_file_path):
 
 
 if __name__ == "__main__":
-    input_path = "../../Data/Trained_RoBERTa_Model/Training_and_Test_Data/training_set.csv"  # Update this path as needed
-    output_path = "../../Data/Trained_RoBERTa_Model/Training_and_Test_Data/anonymized_training_set.csv"  # Update this path as needed
+    input_path = "../../Trained_RoBERTa_Model/Training_and_Test_Data/training_set.csv"  # Update this path as needed
+    output_path = "../../Trained_RoBERTa_Model/Training_and_Test_Data/anonymized_training_set.csv"  # Update this path as needed
 
     main(input_path, output_path)
