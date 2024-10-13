@@ -6,7 +6,7 @@ import concurrent.futures
 if __name__ == "__main__":
     # Define Input file path
     input_file_path = (
-        "../Inputs/English_Prompts/Prompt_Set_1_EN.txt"  # File with one prompt per line
+        "../Inputs/Generic_Prompts/Prompt_Set_1_EN.txt"  # File with one prompt per line
     )
 
     # Define output file paths for the respective models
