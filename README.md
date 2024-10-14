@@ -1,4 +1,4 @@
-# Towards Fair Representation: Uncovering Biases in AI's Representation of Religion
+# Towards Fair Representation:<br>Uncovering Biases in AI's Representation of Religion
 
 This repository contains the code, data, and results related to the master's thesis on uncovering biases in AI's representation of religion. The project aims to analyze the outputs of different Large Language Models to detect biases and categorize responses based on prompts related to various religions.
 
