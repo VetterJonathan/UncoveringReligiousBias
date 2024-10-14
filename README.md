@@ -1,31 +1,50 @@
-# Master's Thesis on Bias Detection in AI Models
+# Towards Fair Representation: Uncovering Biases in AI's Representation of Religion
 
-This repository contains the code and data for my master's thesis on bias detection in language models. The project aims to analyze the outputs of different AI models to detect biases and categorize responses based on prompts related to various religions.
+This repository contains the code, data, and results related to the master's thesis on uncovering biases in AI's representation of religion. The project aims to analyze the outputs of different Large Language Models to detect biases and categorize responses based on prompts related to various religions.
 
 ## Repository Structure
 
-- `Data/`: Contains graph images, name lists, training and test datasets, and Excel tables summarizing various results.
-- `Inputs/`: Includes prompt sets used to generate responses.
-- `Results/`: Contains generated AI model responses and bias detection results.
-- `src/`: Source code organized into modules for models, analysis, and graph generation.
-- `requirements.txt`: List of Python dependencies required for the project.
-- `.env.example`: Template for environment variables required for API access.
+- `Data/`: Contains graph images, name lists, and Excel tables summarizing various results.  
+  *(This folder includes its own README with details about the files and structure.)*
+  
+- `Inputs/`: Includes the prompt sets used to generate responses.  
+  *(This folder includes its own README with explanations about the prompts and setup.)*
+
+- `Results/`: Contains generated outputs from models, categorized responses, bias detection results, and keyword analysis.  
+  *(This folder includes its own README explaining how the results are organized.)*
+
+- `src/`: Source code, organized into modules for model handling, data analysis, and graph generation.  
+  *(This folder includes its own README with detailed documentation of each module.)*
+
+- `Trained_RoBERTa_Model/`: Contains all components required for training, anonymizing, testing, and employing a RoBERTa model for the response classification task.   
+  *(This folder includes its own README with details on model training and dataset usage.)*
+
+- `requirements.txt`: A list of Python dependencies required for the project.
+
+- `.env.example`: A template for the environment variables necessary for API access.
+
 - `Towards_Fair_Representaion_Uncovering_Biases_in_AIs_Represenation_of_Religion.pdf`: The full thesis document.
 
 ## Getting Started
 
-1. **Prerequisites**: Python 3.8 or later
+To run this project, ensure you have Python 3.x installed along with the required packages listed in `requirements.txt`. Set up your `.env` file using the `.env.example` template and provide the necessary API keys.
 
-2. **Install Dependencies**: Use the Python package manager to install the required packages.
-   ```bash
-   pip install -r requirements.txt
-   ```
+### Setting Up the Environment
+
+1. Create an .env file
+    ```bash
+    cp .env.example .env
+    ```
    
-3. **Set Up Environment**: Create a `.env` file in the root directory with API keys following the format provided in `.env.example`.
+2. Add your keys to the .env file
 
+3. Install requirements
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-For detailed usage of each module, refer to their respective documentation in the `src/` subdirectories.
+For detailed information of each module, refer to their respective documentation in the subdirectories.
 
 ## Acknowledgements
 
-This research was supported by [Your University/Institute].
+This research was supported by the Area Information Systems, Prof. Dr. Kevin Bauer, University of Mannheim.
