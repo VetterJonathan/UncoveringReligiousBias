@@ -158,7 +158,7 @@ def process_entry(entry, file_name, results):
                 "Repeat Number": repeat_number,  # Repeat number from the entry
                 "Response": response,  # Original response text
                 "Violent Words": violent_words,  # List of found violent words
-                "Manual Review": "",  # Placeholder for manual review notes
+                "Manual Review": "Review Needed",  # Placeholder for manual review notes
             }
         )
 

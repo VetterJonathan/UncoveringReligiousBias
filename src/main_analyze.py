@@ -2,8 +2,8 @@ from src.analyze_results.detoxify_bias_detection import analyze_results
 from src.analyze_results.response_categorization import categorize_responses
 
 
-def main():
-    input_file_path = "../Results/LLM_Output/Mistral/Mistral_Prompt_Set_1_Results.json"  # Input JSON for bias detection and answer categorization
+if __name__ == "__main__":
+    input_file_path = "../Results/LLM_Output/Mistral/Mistral_Prompt_Set_SingleName_Buddhist_Results.json"  # Input JSON for bias detection and answer categorization
 
     # --- BIAS DETECTION --- #
     print("Starting bias detection...")
@@ -38,7 +38,3 @@ def main():
     )
 
     print("All tasks completed!")
-
-
-if __name__ == "__main__":
-    main()
