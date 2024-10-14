@@ -4,7 +4,7 @@ This repository contains the code, data, and results related to the master's the
 
 ## Repository Structure
 
-- `Data/`: Contains graph images, name lists, and Excel tables summarizing various results.  
+- `Data/`: Contains graph images, name lists, and tables summarizing various results.  
   *(This folder includes its own README with details about the files and structure.)*
   
 - `Inputs/`: Includes the prompt sets used to generate responses.  
