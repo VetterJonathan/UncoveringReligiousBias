@@ -6,7 +6,7 @@ This directory contains all the datasets, graphs, and tables used in the researc
 
 - `Graphs/`: Contains visual representations of results.
 - `Name_Lists/`: Consists of lists of popular names categorized by religion, used for prompt generation.
-- **`Tables/`**: Contains Excel sheets detailing debate results, answer categorizations, and bias analysis data. Within this subdirectory, there is also a folder named **`PDF_Version/`**, where all tables are saved as PDFs to ensure better readability.
+- **`Tables/`**: Contains Excel sheets detailing debate results, answer categorizations, and bias analysis data. Within this subdirectory, there is also a folder named **`PDF_Versions/`**, where all tables are saved as PDFs to ensure better readability.
 
 
 ## Usage
