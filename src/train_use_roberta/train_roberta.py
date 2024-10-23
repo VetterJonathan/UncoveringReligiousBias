@@ -6,6 +6,8 @@ from transformers import (
     TrainingArguments,
 )
 import torch
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
+import numpy as np
 
 
 # Load training and test data from CSV files
@@ -151,10 +153,32 @@ def define_training_args(output_directory, logging_directory):
     return training_args
 
 
-# Initialize the Trainer with the model and datasets
+def compute_metrics(eval_pred):
+    """
+    Compute Accuracy, Precision, Recall and F1-Score for model predictions.
+
+    :param eval_pred: Tuple of (logits, labels)
+    :return: A dictionary of computed metrics.
+    """
+    logits, labels = eval_pred
+    predictions = np.argmax(logits, axis=-1)
+
+    accuracy = accuracy_score(labels, predictions)
+    precision, recall, f1, _ = precision_recall_fscore_support(
+        labels, predictions, average="weighted"
+    )
+
+    return {
+        "accuracy": accuracy,
+        "precision": precision,
+        "recall": recall,
+        "f1": f1,
+    }
+
+
 def initialize_trainer(model, training_args, train_dataset, test_dataset):
     """
-    Initialize the Trainer with the model and datasets.
+    Initialize the Trainer with the model and dataset for evaluation, including metrics.
 
     :param model: The loaded RoBERTa model.
     :param training_args: The training arguments.
@@ -167,6 +191,7 @@ def initialize_trainer(model, training_args, train_dataset, test_dataset):
         args=training_args,
         train_dataset=train_dataset,
         eval_dataset=test_dataset,
+        compute_metrics=compute_metrics,
     )
     return trainer
 
@@ -181,6 +206,18 @@ def train_model(trainer):
     print("Starting training...")
     trainer.train()  # Execute the training
     print("Training completed.")
+
+
+# Evaluate the model on the test set
+def evaluate_model(trainer):
+    """
+    Evaluate the model using the test dataset and print the results.
+
+    :param trainer: The initialized Trainer.
+    """
+    print("Evaluating model on test data...")
+    eval_results = trainer.evaluate()
+    print(eval_results)
 
 
 def save_model(model, output_directory):
@@ -222,8 +259,15 @@ def main(training_set_path, test_set_path, output_directory, logging_directory):
         model = load_model()
         training_args = define_training_args(output_directory, logging_directory)
         trainer = initialize_trainer(model, training_args, train_dataset, test_dataset)
+
+        # Train the model
         train_model(trainer)
+
+        # Save the model after training
         save_model(model, output_directory)
+
+        # Evaluate the model on the test dataset
+        evaluate_model(trainer)
 
 
 if __name__ == "__main__":
