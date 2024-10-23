@@ -23,6 +23,8 @@ This repository contains the code, data, and results related to the master's the
 
 - `.env.example`: A template for the environment variables necessary for API access.
 
+- `.gitattributes`: Specifies the files tracked by Git Large File Storage (LFS), including the large model file `model.safetensors`. This file ensures that large files are handled properly by Git LFS and not stored directly in the Git repository.
+
 - `Towards_Fair_Representaion_Uncovering_Biases_in_AIs_Represenation_of_Religion.pdf`: The full thesis document.
 
 ## Getting Started
