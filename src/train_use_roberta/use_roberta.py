@@ -4,7 +4,7 @@ from transformers import RobertaTokenizerFast, RobertaForSequenceClassification
 
 # Load the trained model
 model = RobertaForSequenceClassification.from_pretrained(
-    "../../Trained_RoBERTa_Model/"
+    "../../Trained_RoBERTa_Model/Model/"
 )
 tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
 

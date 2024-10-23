@@ -273,7 +273,7 @@ def main(training_set_path, test_set_path, output_directory, logging_directory):
 if __name__ == "__main__":
     train_path = "../../Trained_RoBERTa_Model/Training_and_Test_Data/anonymized_training_set.csv"  # Update this path as needed
     test_path = "../../Trained_RoBERTa_Model/Training_and_Test_Data/test_set.csv"  # Update this path as needed
-    output_dir = "../../Trained_RoBERTa_Model/"  # Update this path as needed
-    logging_dir = "../../Trained_RoBERTa_Model/logs"  # Update this path as needed
+    output_dir = "../../Trained_RoBERTa_Model/Model/"  # Update this path as needed
+    logging_dir = "../../Trained_RoBERTa_Model/Model/logs"  # Update this path as needed
 
     main(train_path, test_path, output_dir, logging_dir)
